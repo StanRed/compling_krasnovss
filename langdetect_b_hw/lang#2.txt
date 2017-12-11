@@ -1,0 +1,905 @@
+Самые частотные слова:
+'di', 152
+'qui', 118
+'i', 93
+'pa', 83
+'na', 74
+'tudu', 70
+'diritu', 49
+'si', 47
+'ó', 43
+'tem', 37
+'ca', 36
+'º', 30
+'artigo', 30
+'pecadur', 28
+'cu', 27
+'díbidi', 27
+'terra', 22
+'misti', 22
+'ê', 22
+'pudi', 21
+'djintis', 19
+'el', 18
+'suma', 18
+'cada', 16
+'fassi', 16
+'ta', 16
+'ora', 16
+'ninguin', 15
+'quin', 15
+'lei', 12
+'pudu', 12
+'cussa', 11
+'mundu', 11
+'tene', 11
+'nin', 10
+'cussas', 10
+'utrus', 10
+'manera', 10
+'tarbadju', 9
+'un', 9
+'sin', 9
+'quil', 8
+'fassidu', 8
+'sedu', 8
+'stadu', 8
+'dianti', 8
+'bu', 8
+'omi', 7
+'pensa', 7
+'n', 7
+'religion', 7
+'djubidu', 7
+'pabia', 7
+'liberdadi', 7
+'djusta', 7
+'nada', 6
+'padidu', 6
+'declaraçon', 6
+'scudju', 6
+'cassa', 6
+'diritus', 6
+'cudji', 6
+'dadu', 6
+'quila', 6
+'sta', 5
+'quê', 5
+'utru', 5
+'família', 5
+'povu', 5
+'força', 5
+'djubi', 5
+'mati', 5
+'metadi', 5
+'dibidi', 5
+'sinta', 4
+'livri', 4
+'manda', 4
+'bai', 4
+'tchiga', 4
+'alguin', 4
+'nundê', 4
+'tê', 4
+'mal', 4
+'ladu', 4
+'son', 4
+'garandi', 4
+'djudal', 4
+'pagadu', 4
+'scola', 4
+'papia', 4
+'a', 4
+'faladu', 4
+'bida', 4
+'bardadi', 3
+'vivi', 3
+'mama', 3
+'ianda', 3
+'leba', 3
+'tudjidu', 3
+'sina', 3
+'ermondadi', 3
+'difindidu', 3
+'mininus', 3
+'pui', 3
+'própi', 3
+'sê', 3
+'djuda', 3
+'omis', 3
+'unida', 3
+'bom', 3
+'tribunal', 3
+'conta', 3
+'intidu', 3
+'universal', 3
+'fassil', 3
+'puga', 3
+'dia', 3
+'bin', 3
+'naçon', 3
+'culpa', 3
+'cuma', 2
+'roçon', 2
+'paz', 2
+'declaração', 2
+'udju', 2
+'dixa', 2
+'maternidadi', 2
+'balur', 2
+'risso', 2
+'cultura', 2
+'geral', 2
+'interradu', 2
+'mon', 2
+'livre', 2
+'barbadi', 2
+'dos', 2
+'cumsa', 2
+'cunsi', 2
+'mindjer', 2
+'más', 2
+'guarda', 2
+'quinhon', 2
+'associaçon', 2
+'sintidu', 2
+'miti', 2
+'bicu', 2
+'rua', 2
+'tarbadja', 2
+'mora', 2
+'cassamentu', 2
+'educaçon', 2
+'manga', 2
+'runion', 2
+'rispita', 2
+'mostral', 2
+'cau', 2
+'duença', 2
+'busca', 2
+'pecaduris', 2
+'malbadessa', 2
+'otcha', 2
+'mintida', 2
+'par', 2
+'pissadu', 2
+'corçon', 2
+'rassa', 2
+'intindi', 2
+'mistil', 2
+'papiadu', 2
+'otchal', 2
+'assembleia', 2
+'sibi', 2
+'limpu', 2
+'fica', 2
+'riba', 2
+'caminhu', 2
+'caba', 2
+'cabeça', 2
+'dezemdro', 1
+'democracia', 1
+'mostra', 1
+'enton', 1
+'vota', 1
+'resoluçon', 1
+'condenadu', 1
+'danu', 1
+'falta', 1
+'através', 1
+'elis', 1
+'má', 1
+'anu', 1
+'tambe', 1
+'membru', 1
+'direitos', 1
+'sênu', 1
+'que', 1
+'régulu', 1
+'bas', 1
+'manifestaçon', 1
+'djudadu', 1
+'se', 1
+'matadu', 1
+'nega', 1
+'férias', 1
+'difindil', 1
+'tchigal', 1
+'ncunha', 1
+'ricunhicidu', 1
+'djustadu', 1
+'cural', 1
+'tomado', 1
+'criadu', 1
+'sercadu', 1
+'matchu', 1
+'coldadi', 1
+'dunus', 1
+'ten', 1
+'du', 1
+'disna', 1
+'unidas', 1
+'mostradu', 1
+'pratu', 1
+'naçons', 1
+'comunidadi', 1
+'cermónia', 1
+'cuirta', 1
+'ês', 1
+'sai', 1
+'familias', 1
+'mole', 1
+'mesmo', 1
+'sempri', 1
+'muda', 1
+'gurta', 1
+'gardicidu', 1
+'fémia', 1
+'sêdu', 1
+'cudjidu', 1
+'profissional', 1
+'mamal', 1
+'políticu', 1
+'prindidu', 1
+'quilis', 1
+'tadjadu', 1
+'companher', 1
+'sim', 1
+'gozal', 1
+'mesmu', 1
+'crimi', 1
+'pul', 1
+'rispitadu', 1
+'fora', 1
+'burridu', 1
+'sociedadi', 1
+'mindjor', 1
+'guardadu', 1
+'cartas', 1
+'tudji', 1
+'passadu', 1
+'discansa', 1
+'mininu', 1
+'stadus', 1
+'fia', 1
+'bedjissa', 1
+'djunta', 1
+'de', 1
+'pus', 1
+'tchon', 1
+'nogós', 1
+'queixa', 1
+'palabra', 1
+'carta', 1
+'difindi', 1
+'chatial', 1
+'contenta', 1
+'bali', 1
+'nunde', 1
+'pacadur', 1
+'firmanta', 1
+'parcidus', 1
+'dissil', 1
+'dignidadi', 1
+'pera', 1
+'mindjeri', 1
+'fitchadu', 1
+'odja', 1
+'técnica', 1
+'asilu', 1
+'prumeru', 1
+'éraba', 1
+'curso', 1
+'cudju', 1
+'quirci', 1
+'mistidu', 1
+'utchal', 1
+'limitadu', 1
+'nim', 1
+'coragem', 1
+'pirdi', 1
+'dja', 1
+
+Самые частотные биграммы:
+('diritu', 'di'), 36
+('artigo', 'º'), 30
+('tem', 'diritu'), 30
+('tudu', 'pecadur'), 21
+('º', 'tudu'), 17
+('pecadur', 'tem'), 16
+('i', 'pa'), 13
+('di', 'si'), 13
+('ninguin', 'ca'), 13
+('ora', 'qui'), 12
+('qui', 'na'), 10
+('tudu', 'djintis'), 10
+('ca', 'pudi'), 10
+('terra', 'qui'), 10
+('i', 'díbidi'), 9
+('pa', 'tudu'), 9
+('i', 'misti'), 9
+('i', 'ca'), 8
+('ca', 'díbidi'), 8
+('cussa', 'qui'), 8
+('na', 'si'), 8
+('qui', 'misti'), 8
+('qui', 'i'), 8
+('cada', 'quin'), 8
+('ó', 'di'), 7
+('n', 'el'), 7
+('di', 'tudu'), 7
+('pa', 'i'), 7
+('quin', 'qui'), 7
+('di', 'utrus'), 6
+('qui', 'tudu'), 6
+('cussas', 'qui'), 6
+('di', 'pensa'), 6
+('quil', 'qui'), 6
+('i', 'di'), 6
+('na', 'metadi'), 5
+('pa', 'ê'), 5
+('º', 'ninguin'), 5
+('metadi', 'di'), 5
+('tudu', 'tem'), 5
+('ó', 'na'), 5
+('si', 'terra'), 5
+('cu', 'si'), 5
+('qui', 'ta'), 5
+('na', 'mundu'), 5
+('pa', 'ca'), 5
+('manera', 'di'), 5
+('na', 'terra'), 5
+('ê', 'declaraçon'), 5
+('dianti', 'di'), 5
+('di', 'lei'), 5
+('djintis', 'di'), 4
+('misti', 'pa'), 4
+('stadu', 'artigo'), 4
+('cu', 'liberdadi'), 4
+('liberdadi', 'qui'), 4
+('di', 'mal'), 4
+('si', 'religion'), 4
+('sin', 'scudju'), 4
+('pa', 'cada'), 4
+('quê', 'qui'), 4
+('diritus', 'cu'), 4
+('nundê', 'qui'), 4
+('di', 'cudji'), 4
+('ca', 'nada'), 4
+('i', 'tem'), 4
+('ora', 'di'), 4
+('el', 'artigo'), 4
+('pabia', 'i'), 4
+('qui', 'sta'), 4
+('suma', 'qui'), 3
+('di', 'dadu'), 3
+('díbidi', 'djubidu'), 3
+('di', 'diritu'), 3
+('i', 'dibidi'), 3
+('díbidi', 'pudu'), 3
+('nin', 'un'), 3
+('cassa', 'ó'), 3
+('pa', 'pudi'), 3
+('el', 'própi'), 3
+('na', 'fassi'), 3
+('na', 'tudu'), 3
+('di', 'stadu'), 3
+('i', 'tchiga'), 3
+('na', 'ê'), 3
+('qui', 'pudi'), 3
+('si', 'família'), 3
+('pa', 'quila'), 3
+('força', 'pa'), 3
+('a', 'força'), 3
+('di', 'terra'), 3
+('pudu', 'pa'), 3
+('pensa', 'di'), 3
+('tudu', 'ladu'), 3
+('di', 'pagadu'), 3
+('ca', 'tem'), 3
+('qui', 'fassidu'), 3
+('di', 'tene'), 3
+('naçon', 'unida'), 3
+('qui', 'si'), 3
+('suma', 'pecadur'), 3
+('i', 'ta'), 3
+('diritu', 'i'), 3
+('nin', 'qui'), 3
+('quila', 'i'), 3
+('lei', 'tudu'), 3
+('di', 'djubidu'), 3
+('si', 'manera'), 3
+('misti', 'i'), 3
+('pecadur', 'na'), 3
+('misti', 'ó'), 3
+('díbidi', 'fassi'), 3
+('ó', 'pabia'), 3
+('pecadur', 'i'), 3
+('tarbadju', 'i'), 3
+('qui', 'terra'), 3
+('qui', 'lei'), 3
+('di', 'djintis'), 2
+('si', 'cultura'), 2
+('cussas', 'di'), 2
+('manga', 'di'), 2
+('na', 'djudal'), 2
+('el', 'i'), 2
+('qui', 'pui'), 2
+('qui', 'naçon'), 2
+('misti', 'el'), 2
+('cada', 'pecadur'), 2
+('i', 'sedu'), 2
+('di', 'omi'), 2
+('terra', 'ó'), 2
+('difindidu', 'dianti'), 2
+('na', 'cada'), 2
+('di', 'cada'), 2
+('sta', 'n'), 2
+('cu', 'ermondadi'), 2
+('suma', 'quil'), 2
+('di', 'mora'), 2
+('ta', 'manda'), 2
+('pa', 'utru'), 2
+('di', 'bardadi'), 2
+('di', 'ianda'), 2
+('qui', 'bu'), 2
+('religion', 'ó'), 2
+('ê', 'tene'), 2
+('di', 'duença'), 2
+('miti', 'na'), 2
+('mati', 'runion'), 2
+('quila', 'ninguin'), 2
+('i', 'qui'), 2
+('pa', 'djubi'), 2
+('scola', 'scola'), 2
+('qui', 'ê'), 2
+('qui', 'quila'), 2
+('ó', 'pa'), 2
+('si', 'cussa'), 2
+('di', 'omis'), 2
+('i', 'ê'), 2
+('djintis', 'ó'), 2
+('pa', 'lei'), 2
+('terra', 'i'), 2
+('ó', 'qui'), 2
+('pa', 'guarda'), 2
+('bicu', 'interradu'), 2
+('cudji', 'cau'), 2
+('ó', 'fassi'), 2
+('º', 'dianti'), 2
+('ó', 'utrus'), 2
+('bu', 'díbidi'), 2
+('qui', 'pudu'), 2
+('quin', 'pudi'), 2
+('djusta', 'na'), 2
+('quinhon', 'na'), 2
+('º', 'cada'), 2
+('liberdadi', 'di'), 2
+('pa', 'djuda'), 2
+('pa', 'djintis'), 2
+('universal', 'di'), 2
+('pa', 'quin'), 2
+('faladu', 'na'), 2
+('fassi', 'associaçon'), 2
+('dixa', 'di'), 2
+('cabeça', 'ó'), 2
+('sta', 'na'), 2
+('díbidi', 'dadu'), 2
+('mama', 'i'), 2
+('fassi', 'cussas'), 2
+('na', 'bida'), 2
+('na', 'stadu'), 2
+('di', 'tem'), 2
+('tudu', 'manera'), 2
+('pudi', 'fassi'), 2
+('nada', 'otchal'), 2
+('si', 'quinhon'), 2
+('di', 'conta'), 2
+('djubidu', 'suma'), 2
+('djintis', 'djusta'), 2
+('lei', 'qui'), 2
+('declaraçon', 'universal'), 2
+('ca', 'na'), 2
+('tchiga', 'pa'), 2
+('di', 'bai'), 2
+('qui', 'faladu'), 2
+('qui', 'padidu'), 2
+('qui', 'bom'), 2
+('bida', 'di'), 2
+('na', 'ora'), 2
+('qui', 'sinta'), 2
+('utrus', 'pa'), 2
+('puga', 'na'), 2
+('di', 'sedu'), 2
+('mundu', 'i'), 2
+('tene', 'si'), 2
+('utrus', 'i'), 2
+('el', 'qui'), 2
+('otchal', 'di'), 2
+('interradu', 'n'), 2
+('otcha', 'qui'), 2
+('diritu', 'tudu'), 2
+('díbidi', 'tudjidu'), 2
+('diritu', 'artigo'), 2
+('assembleia', 'geral'), 2
+('pa', 'si'), 2
+('suma', 'cussa'), 2
+('qui', 'qui'), 2
+('cada', 'terra'), 2
+('udju', 'di'), 2
+('º', 'na'), 2
+('par', 'el'), 2
+('pudu', 'na'), 2
+('di', 'mati'), 2
+('qui', 'el'), 2
+('pa', 'fassi'), 2
+('cu', 'tudu'), 2
+('di', 'difindidu'), 2
+('pui', 'na'), 2
+('na', 'rua'), 2
+('si', 'cabeça'), 2
+('mintida', 'pa'), 2
+('pa', 'dianti'), 2
+('pecadur', 'padidu'), 2
+('un', 'son'), 2
+('si', 'tarbadju'), 2
+('mostral', 'caminhu'), 2
+('pecadur', 'qui'), 2
+('di', 'tarbadju'), 2
+('barbadi', 'pa'), 2
+('qui', 'omi'), 2
+('na', 'nin'), 1
+('mesmu', 'diritu'), 1
+('na', 'sabura'), 1
+('castigadu', 'enton'), 1
+('mundu', 'ca'), 1
+('son', 'djurmenti'), 1
+('bai', 'queixa'), 1
+('mundu', 'ó'), 1
+('terra', 'ta'), 1
+('malbadessa', 'na'), 1
+('ca', 'tchigal'), 1
+('pidi', 'si'), 1
+('si', 'bicu'), 1
+('qui', 'bin'), 1
+('pudi', 'fassil'), 1
+('djudadu', 'diritu'), 1
+('qui', 'pecadur'), 1
+('suma', 'mundu'), 1
+('na', 'declaração'), 1
+('bardadi', 'qui'), 1
+('si', 'mininus'), 1
+('sênu', 'assembleia'), 1
+('ncunha', 'na'), 1
+('ta', 'ricibi'), 1
+('pa', 'sugura'), 1
+('cu', 'mamé'), 1
+('malbadessa', 'artigo'), 1
+('cumpanher', 'artigo'), 1
+('tudu', 'omis'), 1
+('povu', 'cu'), 1
+('scola', 'técnica'), 1
+('si', 'comunidadi'), 1
+('ê', 'cassa'), 1
+('fidju', 'di'), 1
+('discunfia', 'tê'), 1
+('i', 'papiadu'), 1
+('nada', 'otchau'), 1
+('faladu', 'di'), 1
+('murri', 'na'), 1
+('mal', 'utchal'), 1
+('pudi', 'tudji'), 1
+('paz', 'i'), 1
+('djusta', 'ê'), 1
+('pa', 'viki'), 1
+('fia', 'di'), 1
+('ianda', 'el'), 1
+('propi', 'i'), 1
+('di', 'bisti'), 1
+('cussas', 'cu'), 1
+('ta', 'fassi'), 1
+('djunta', 'cu'), 1
+('djuda', 'povu'), 1
+('pensa', 'artigo'), 1
+
+Самые частотные триграммы:
+('tem', 'diritu', 'di'), 30
+('artigo', 'º', 'tudu'), 17
+('º', 'tudu', 'pecadur'), 16
+('pecadur', 'tem', 'diritu'), 15
+('tudu', 'pecadur', 'tem'), 14
+('qui', 'i', 'misti'), 6
+('artigo', 'º', 'ninguin'), 5
+('ninguin', 'ca', 'pudi'), 5
+('na', 'metadi', 'di'), 5
+('º', 'ninguin', 'ca'), 5
+('pa', 'ca', 'nada'), 4
+('ninguin', 'ca', 'díbidi'), 4
+('i', 'ca', 'pudi'), 4
+('qui', 'tudu', 'djintis'), 4
+('na', 'terra', 'qui'), 4
+('manera', 'di', 'pensa'), 4
+('i', 'tem', 'diritu'), 4
+('el', 'artigo', 'º'), 4
+('stadu', 'artigo', 'º'), 4
+('tudu', 'tem', 'diritu'), 4
+('terra', 'qui', 'misti'), 3
+('metadi', 'di', 'utrus'), 3
+('cu', 'liberdadi', 'qui'), 3
+('di', 'si', 'terra'), 3
+('qui', 'misti', 'ó'), 3
+('di', 'diritu', 'di'), 3
+('dianti', 'di', 'lei'), 3
+('di', 'lei', 'tudu'), 3
+('diritus', 'cu', 'liberdadi'), 3
+('di', 'pensa', 'di'), 3
+('pa', 'cada', 'quin'), 3
+('quil', 'qui', 'na'), 3
+('diritu', 'di', 'djubidu'), 3
+('djintis', 'di', 'si'), 2
+('i', 'pa', 'ê'), 2
+('terra', 'qui', 'sinta'), 2
+('lei', 'tudu', 'djintis'), 2
+('na', 'cada', 'terra'), 2
+('ca', 'díbidi', 'pudu'), 2
+('djusta', 'na', 'tudu'), 2
+('na', 'bida', 'di'), 2
+('quinhon', 'na', 'stadu'), 2
+('ó', 'na', 'si'), 2
+('puga', 'na', 'terra'), 2
+('qui', 'sta', 'n'), 2
+('sta', 'na', 'mundu'), 2
+('ó', 'pabia', 'i'), 2
+('pa', 'tudu', 'ladu'), 2
+('tudu', 'djintis', 'djusta'), 2
+('universal', 'di', 'diritu'), 2
+('difindidu', 'dianti', 'di'), 2
+('nada', 'otchal', 'di'), 2
+('di', 'si', 'manera'), 2
+('tarbadju', 'i', 'di'), 2
+('di', 'difindidu', 'dianti'), 2
+('otchal', 'di', 'mal'), 2
+('n', 'el', 'i'), 2
+('diritu', 'di', 'difindidu'), 2
+('di', 'stadu', 'artigo'), 2
+('i', 'pa', 'i'), 2
+('udju', 'di', 'stadu'), 2
+('interradu', 'n', 'el'), 2
+('pa', 'tudu', 'djintis'), 2
+('i', 'misti', 'i'), 2
+('otcha', 'qui', 'lei'), 2
+('diritu', 'di', 'omi'), 2
+('qui', 'pui', 'na'), 2
+('ora', 'qui', 'tudu'), 2
+('ora', 'di', 'duença'), 2
+('declaraçon', 'universal', 'di'), 2
+('quê', 'qui', 'i'), 2
+('diritu', 'di', 'tene'), 2
+('cassa', 'ó', 'na'), 2
+('pa', 'quin', 'qui'), 2
+('qui', 'na', 'djudal'), 2
+('n', 'el', 'artigo'), 2
+('diritu', 'artigo', 'º'), 2
+('artigo', 'º', 'dianti'), 2
+('barbadi', 'pa', 'tudu'), 2
+('pa', 'djintis', 'di'), 2
+('si', 'cabeça', 'ó'), 2
+('bicu', 'interradu', 'n'), 2
+('º', 'cada', 'pecadur'), 2
+('qui', 'sta', 'na'), 2
+('si', 'manera', 'di'), 2
+('ca', 'díbidi', 'tudjidu'), 2
+('cada', 'pecadur', 'tem'), 2
+('ca', 'nada', 'otchal'), 2
+('i', 'di', 'cudji'), 2
+('diritu', 'di', 'pagadu'), 2
+('liberdadi', 'qui', 'faladu'), 2
+('na', 'ora', 'di'), 2
+('diritu', 'di', 'bai'), 2
+('qui', 'naçon', 'unida'), 2
+('ó', 'fassi', 'associaçon'), 2
+('si', 'quinhon', 'na'), 2
+('di', 'tudu', 'manera'), 2
+('di', 'utrus', 'i'), 2
+('artigo', 'º', 'na'), 2
+('pa', 'quila', 'i'), 2
+('quin', 'qui', 'i'), 2
+('º', 'dianti', 'di'), 2
+('i', 'tchiga', 'pa'), 2
+('ora', 'qui', 'i'), 2
+('i', 'díbidi', 'fassi'), 2
+('diritu', 'di', 'mati'), 2
+('faladu', 'na', 'ê'), 2
+('nin', 'qui', 'quila'), 2
+('di', 'utrus', 'pa'), 2
+('di', 'terra', 'qui'), 2
+('sta', 'n', 'el'), 2
+('diritu', 'di', 'tem'), 2
+('quila', 'ninguin', 'ca'), 2
+('artigo', 'º', 'cada'), 2
+('tudu', 'pecadur', 'na'), 2
+('suma', 'quil', 'qui'), 2
+('diritu', 'di', 'omis'), 2
+('di', 'si', 'religion'), 2
+('diritu', 'di', 'dadu'), 2
+('cada', 'quin', 'pudi'), 2
+('nundê', 'qui', 'tudu'), 1
+('tudu', 'cussas', 'qui'), 1
+('di', 'cume', 'di'), 1
+('di', 'si', 'cultura'), 1
+('di', 'tem', 'ora'), 1
+('na', 'son', 'djurmenti'), 1
+('si', 'diritu', 'artigo'), 1
+('pa', 'sugura', 'si'), 1
+('ianda', 'pa', 'dianti'), 1
+('quin', 'pudi', 'rispita'), 1
+('risso', 'si', 'fiança'), 1
+('díbidi', 'pagadu', 'tudu'), 1
+('fia', 'di', 'ca'), 1
+('fassidu', 'nunde', 'qui'), 1
+('cudji', 'terra', 'qui'), 1
+('ó', 'dana', 'diritu'), 1
+('cabalindadi', 'ó', 'malbadessa'), 1
+('ca', 'pudi', 'sedu'), 1
+('ladu', 'di', 'mundu'), 1
+('i', 'ta', 'fassi'), 1
+('nada', 'otchau', 'di'), 1
+('sufri', 'pabia', 'utru'), 1
+('cada', 'papé', 'cu'), 1
+('un', 'balur', 'garandi'), 1
+('mintida', 'pa', 'lei'), 1
+('mundu', 'i', 'pa'), 1
+('ó', 'di', 'tribunal'), 1
+('ricibi', 'ninguin', 'ca'), 1
+('qui', 'padidu', 'tem'), 1
+('i', 'pa', 'djuda'), 1
+('intidu', 'ó', 'pa'), 1
+('díbidi', 'dadu', 'família'), 1
+('º', 'tudu', 'pacadur'), 1
+('liberdadi', 'fundamental', 'di'), 1
+('mati', 'tudu', 'manifestaçon'), 1
+('na', 'djudal', 'vivi'), 1
+('cussa', 'qui', 'tudu'), 1
+('de', 'dezemdro', 'di'), 1
+('i', 'se', 'diritus'), 1
+('di', 'politica', 'ó'), 1
+('utrus', 'manera', 'di'), 1
+('nin', 'un', 'scudju'), 1
+('força', 'pa', 'i'), 1
+('padidu', 'livre', 'ninguin'), 1
+('qui', 'dissil', 'ninguin'), 1
+('pensa', 'na', 'metadi'), 1
+('pa', 'i', 'rispitadu'), 1
+('i', 'díbidi', 'dadu'), 1
+('ca', 'pudi', 'ncunha'), 1
+('pui', 'na', 'un'), 1
+('ba', 'ta', 'quirci'), 1
+('ca', 'pudi', 'bai'), 1
+('declaraçon', 'povu', 'cu'), 1
+('djintis', 'djusta', 'scudju'), 1
+('scola', 'pa', 'mininus'), 1
+('pensa', 'artigo', 'º'), 1
+('pa', 'pudi', 'contenta'), 1
+('i', 'fica', 'sin'), 1
+('na', 'pratu', 'limpu'), 1
+('dibidi', 'lebadu', 'pa'), 1
+('djintis', 'díbidi', 'mama'), 1
+('na', 'ê', 'declaçon'), 1
+('suma', 'na', 'mundu'), 1
+('djintis', 'i', 'ta'), 1
+('ca', 'tem', 'qui'), 1
+('scudju', 'di', 'rassa'), 1
+('mundu', 'intidu', 'suma'), 1
+('dadu', 'asilu', 'pa'), 1
+('sinta', 'tudu', 'pecadur'), 1
+('qui', 'ta', 'djudal'), 1
+('di', 'qui', 'terra'), 1
+('rispita', 'diritus', 'cu'), 1
+('cabeça', 'ó', 'utru'), 1
+('un', 'dia', 'ês'), 1
+('el', 'ó', 'cussa'), 1
+('i', 'pa', 'mostral'), 1
+('sinti', 'diritu', 'na'), 1
+('mistidu', 'só', 'ora'), 1
+('di', 'tudu', 'terra'), 1
+('cada', 'quin', 'dibidi'), 1
+('culpa', 'cumsa', 'artigo'), 1
+('sinta', 'artigo', 'º'), 1
+('qui', 'el', 'própi'), 1
+('ê', 'ca', 'díbidi'), 1
+('di', 'conta', 'djintis'), 1
+('di', 'bida', 'na'), 1
+('cussas', 'di', 'cume'), 1
+('tudu', 'mininus', 'qui'), 1
+('na', 'si', 'papia'), 1
+('lei', 'cumsa', 'pudu'), 1
+('nada', 'nim', 'di'), 1
+('di', 'omi', 'suma'), 1
+('i', 'nega', 'artigo'), 1
+('qui', 'roçon', 'caba'), 1
+('ê', 'declaraçon', 'i'), 1
+('tudu', 'pecadur', 'qui'), 1
+('unida', 'mistil', 'par'), 1
+('ó', 'cu', 'djintis'), 1
+('scudju', 'na', 'statutu'), 1
+('rua', 'pa', 'difindi'), 1
+('na', 'si', 'cartas'), 1
+('qui', 'bin', 'di'), 1
+('pa', 'sina', 'tudu'), 1
+('pa', 'bu', 'castigadu'), 1
+('sibi', 'rispita', 'liberdadi'), 1
+('suma', 'qui', 'lei'), 1
+('a', 'força', 'artigo'), 1
+('quin', 'qui', 'misti'), 1
+('di', 'mal', 'artigo'), 1
+('cunsi', 'ê', 'declaraçon'), 1
+('alguin', 'qui', 'cudjidu'), 1
+('díbidi', 'fassi', 'djintis'), 1
+('pudu', 'tarbadja', 'a'), 1
+('tudu', 'tarbadjur', 'tem'), 1
+('di', 'djubidu', 'diritu'), 1
+('declaraçon', 'i', 'pa'), 1
+('diritu', 'di', 'chatial'), 1
+('ó', 'di', 'conta'), 1
+('suma', 'cussa', 'qui'), 1
+('pudu', 'djudal', 'na'), 1
+('di', 'tudu', 'membru'), 1
+('viki', 'pa', 'quila'), 1
+('conta', 'mintida', 'pa'), 1
+('sedu', 'suma', 'pecadur'), 1
+('garandi', 'di', 'sociedadi'), 1
+('declaçon', 'ora', 'qui'), 1
+('fassil', 'sintidu', 'qui'), 1
+('sin', 'discunfia', 'tê'), 1
+('di', 'dadu', 'bom'), 1
+('di', 'tudu', 'coldadi'), 1
+('pudu', 'sufri', 'pabia'), 1
+('mati', 'i', 'ê'), 1
+('fassi', 'utrus', 'manera'), 1
+('aladje', 'ó', 'pabia'), 1
+('qui', 'cudjidu', 'pa'), 1
+('pudi', 'passadu', 'pa'), 1
+('padidu', 'ora', 'qui'), 1
+('diritu', 'di', 'ianda'), 1
+('culpa', 'nin', 'qui'), 1
+('ca', 'tene', 'medu'), 1
+('cussas', 'cu', 'ermondadi'), 1
+('carta', 'qui', 'naçon'), 1
+('associaçon', 'di', 'ermondadi'), 1
+('diritu', 'di', 'djudadu'), 1
+('tudjidu', 'puga', 'na'), 1
+('i', 'un', 'balur'), 1
+('diritu', 'na', 'metadi'), 1
+('qui', 'tchiga', 'i'), 1
+('povu', 'pa', 'ê'), 1
+('pratu', 'limpu', 'si'), 1
+('bali', 'n', 'el'), 1
+('di', 'cunsi', 'cu'), 1
+('caminhu', 'artigo', 'º'), 1
+('ê', 'tene', 'sempri'), 1
+('pa', 'djubi', 'tê'), 1
+('qui', 'na', 'leba'), 1
+('dos', 'homens', 'artigo'), 1
+('tê', 'ora', 'qui'), 1
+('coitadessa', 'i', 'papia'), 1
+('di', 'djubudu', 'pa'), 1
+('scribi', 'pa', 'si'), 1
+('di', 'sedu', 'livre'), 1
+('si', 'família', 'pa'), 1
+('misti', 'quil', 'qui'), 1
+('liberdadi', 'di', 'utrus'), 1
+('díbidi', 'djubidu', 'suma'), 1
+('cural', 'tene', 'si'), 1
+('coragem', 'pa', 'ê'), 1
+('díbidi', 'tudjidu', 'riba'), 1
+('i', 'pissadu', 'ó'), 1
+('tudu', 'djintis', 'díbidi'), 1
+('qui', 'papiadu', 'artigo'), 1
+('omis', 'tomado', 'i'), 1
+('quin', 'qui', 'pudi'), 1
+('misti', 'pa', 'sê'), 1
+('prindidu', 'nin', 'fitchadu'), 1
+('qui', 'diritus', 'cu'), 1
+('na', 'pudu', 'pa'), 1
+('caminhu', 'di', 'ianda'), 1
+('ninguin', 'ca', 'tem'), 1

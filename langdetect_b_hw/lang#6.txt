@@ -1,0 +1,905 @@
+Самые частотные слова:
+'nier', 81
+'xief', 67
+'niexxir', 61
+'niex', 58
+'novdiex', 49
+'qianrlif', 37
+'dor', 37
+'tav', 31
+'gof', 28
+'bor', 24
+'sox', 23
+'zifyour', 22
+'gaif', 21
+'hif', 21
+'hufniv', 17
+'dav', 16
+'liex', 16
+'sefhuif', 15
+'qianrlir', 15
+'riv', 13
+'niev', 13
+'guanfdor', 13
+'nav', 12
+'guirjiax', 12
+'renfhor', 11
+'zuf', 11
+'zer', 11
+'gixzex', 9
+'xianxyanr', 8
+'huarlir', 8
+'taif', 8
+'baovhuf', 7
+'zif', 7
+'xix', 7
+'siv', 7
+'wortuv', 7
+'jiaofyir', 7
+'div', 7
+'jief', 6
+'renrqianr', 6
+'cov', 6
+'daivxir', 6
+'xianvsouf', 6
+'garhaf', 5
+'zuif', 5
+'sirxianf', 5
+'goxniex', 5
+'pinrdenv', 5
+'puvbianf', 5
+'zongxjiaof', 5
+'guirjir', 5
+'hofnief', 5
+'xinrsif', 5
+'daf', 5
+'guirjiaxdiex', 5
+'zifyourdiex', 4
+'yer', 4
+'sov', 4
+'tovlenv', 4
+'tir', 4
+'xinrweir', 4
+'cenrrenf', 4
+'renfyif', 4
+'jixbenv', 4
+'nov', 4
+'sifgaif', 4
+'guirjif', 4
+'qiordinf', 4
+'naof', 4
+'lianrhor', 4
+'guir', 4
+'wor', 3
+'novbar', 3
+'huarzanv', 3
+'senxhor', 3
+'zifxif', 3
+'zunxyanr', 3
+'ongr', 3
+'qirsif', 3
+'ger', 3
+'congxhunf', 3
+'xierqif', 3
+'naf', 3
+'canxjiax', 3
+'hxaf', 3
+'jiersouf', 3
+'nurdif', 3
+'boxlirdiex', 3
+'gongxkaix', 3
+'xinrweirdiex', 3
+'xianfzif', 3
+'xinfyanv', 3
+'baovzanf', 3
+'xianvzer', 3
+'hurlif', 3
+'rev', 3
+'ganxser', 3
+'zixgex', 3
+'caircanv', 3
+'jier', 3
+'qianrlirdiex', 3
+'yifwuf', 3
+'qinxhaif', 2
+'zongfyaof', 2
+'diefciv', 2
+'hunx', 2
+'lirlu', 2
+'norgarnir', 2
+'qianrlifdiex', 2
+'huartinr', 2
+'xinrhuar', 2
+'wenrhuaf', 2
+'gaivbianf', 2
+'cursenx', 2
+'bur', 2
+'zuvzanx', 2
+'zongxziv', 2
+'guanxxif', 2
+'youf', 2
+'zuvzir', 2
+'weirbeif', 2
+'yanrzer', 2
+'horpinr', 2
+'jixcuv', 2
+'lifyif', 2
+'jinxsenr', 2
+'ongv', 2
+'renrger', 2
+'cuxjir', 2
+'lianrxinx', 2
+'partir', 2
+'bifmianv', 2
+'gongxjir', 2
+'koxxior', 2
+'zongvzur', 2
+'zaoxsouf', 2
+'yifzif', 2
+'caf', 2
+'yixzaof', 2
+'xianvjiv', 2
+'gongxzenf', 2
+'huar', 2
+'qinrkuanf', 2
+'bordor', 2
+'hunxsenx', 2
+'jinfbuf', 2
+'sanxdongf', 1
+'gongxgongf', 1
+'puvcir', 1
+'biryaof', 1
+'duifdaif', 1
+'biaovxianf', 1
+'bianfhuf', 1
+'terbier', 1
+'siryinf', 1
+'aixliermor', 1
+'baovzenf', 1
+'nuryif', 1
+'panfdinf', 1
+'yivyanr', 1
+'guanvxiar', 1
+'niexkax', 1
+'yanrlunf', 1
+'huanvpanf', 1
+'civ', 1
+'perhaif', 1
+'canrhuif', 1
+'sar', 1
+'beifper', 1
+'kufxinr', 1
+'curjinf', 1
+'renrdaof', 1
+'muflanx', 1
+'jinxdor', 1
+'renrsenx', 1
+'tix', 1
+'jianfgaiv', 1
+'senxhunf', 1
+'durlir', 1
+'buryir', 1
+'biaoxzunv', 1
+'zenfzifxinf', 1
+'xixyaof', 1
+'tiaorwenr', 1
+'tour', 1
+'huanf', 1
+'gongxwuf', 1
+'denv', 1
+'dafhuif', 1
+'yifsur', 1
+'yir', 1
+'jiaofhuiv', 1
+'lixkoxlof', 1
+'qixlier', 1
+'dif', 1
+'xiaofgov', 1
+'dianfwux', 1
+'jif', 1
+'jinxjif', 1
+'xinfnianf', 1
+'zenxzenf', 1
+'jixjinf', 1
+'suivpinr', 1
+'pov', 1
+'zivkongfdiex', 1
+'cenryanr', 1
+'norgarnirdiex', 1
+'workuv', 1
+'weirhuanv', 1
+'laovgax', 1
+'nganxqianr', 1
+'qianr', 1
+'danxyanr', 1
+'maxdiex', 1
+'xiaoxxir', 1
+'yafper', 1
+'senvxinf', 1
+'duv', 1
+'jianfjinf', 1
+'enrjier', 1
+'zifyouf', 1
+'murdir', 1
+'zovnirdiex', 1
+'gev', 1
+'hunxyor', 1
+'senxminf', 1
+'zuxyanr', 1
+'sefliex', 1
+'gongxhuif', 1
+'zenfdanf', 1
+'er', 1
+'cour', 1
+'zongvluif', 1
+'maivmaif', 1
+'youvxiaof', 1
+'wenrxior', 1
+'wuvruvxinf', 1
+'jiafzir', 1
+'moursenx', 1
+'gaoxdenv', 1
+'haxrir', 1
+'sif', 1
+'meivsur', 1
+'guirgaif', 1
+'davhar', 1
+'qivsuf', 1
+'gaox', 1
+'weirhuf', 1
+'novbardiex', 1
+'qinrxinf', 1
+'hurriv', 1
+'jiaofyif', 1
+'huanfzur', 1
+'minrnianf', 1
+'zorpinv', 1
+'nongv', 1
+'zenfsir', 1
+'minrzuv', 1
+'deryiv', 1
+'horsir', 1
+'youxxianx', 1
+'sivrev', 1
+'zunxzongf', 1
+'xianfhuar', 1
+'diex', 1
+'horger', 1
+'yanfwanf', 1
+'gaivcur', 1
+'gaivsif', 1
+'jifsur', 1
+'baofxinr', 1
+'baofxinrdiex', 1
+'noxdiex', 1
+'zaofguf', 1
+'huxser', 1
+'buvjiuf', 1
+'yifjianf', 1
+'yevmanr', 1
+'baofzenf', 1
+'corsix', 1
+'houvrenf', 1
+'zirjier', 1
+'tiaorjanf', 1
+'zixyanr', 1
+'huarzif', 1
+'gongftongr', 1
+'ziryer', 1
+'huifyanrguirdiex', 1
+'neixxir', 1
+'zunxxinr', 1
+'xiongxdif', 1
+'kongfzif', 1
+'zifduf', 1
+'guixdinf', 1
+'bifhuf', 1
+'bivlier', 1
+'yixliaor', 1
+'wurzir', 1
+'minryif', 1
+'aivliermor', 1
+
+Самые частотные биграммы:
+('qianrlif', 'xief'), 28
+('niexxir', 'qianrlif'), 24
+('tav', 'dor'), 21
+('xief', 'niexxir'), 11
+('dav', 'zer'), 11
+('niev', 'hif'), 10
+('guanfdor', 'nier'), 10
+('niexxir', 'qianrlir'), 9
+('nav', 'hif'), 9
+('zifyour', 'xief'), 8
+('qianrlir', 'xief'), 8
+('novdiex', 'hufniv'), 8
+('novdiex', 'nier'), 8
+('xief', 'novdiex'), 8
+('gaif', 'xianxyanr'), 6
+('nier', 'novdiex'), 6
+('nier', 'qianrlif'), 6
+('xianvsouf', 'niexxir'), 6
+('dor', 'nav'), 6
+('novdiex', 'guanfdor'), 5
+('niex', 'zifyour'), 5
+('hufniv', 'dav'), 5
+('niexxir', 'zifyour'), 5
+('xief', 'niev'), 4
+('lianrhor', 'guir'), 4
+('nier', 'guirjiax'), 4
+('xief', 'gaif'), 4
+('huarlir', 'gof'), 4
+('dor', 'niev'), 4
+('nier', 'renfhor'), 4
+('qianrlif', 'niex'), 4
+('xianxyanr', 'gof'), 3
+('niex', 'zifyourdiex'), 3
+('zuf', 'niexxir'), 3
+('sefhuif', 'niex'), 3
+('gaif', 'qianrlif'), 3
+('xief', 'nav'), 3
+('xief', 'renfhor'), 3
+('gof', 'hxaf'), 3
+('zunxyanr', 'niex'), 3
+('div', 'niexxir'), 3
+('qianrlirdiex', 'niex'), 3
+('ger', 'novdiex'), 3
+('zer', 'nier'), 3
+('gof', 'baovhuf'), 3
+('riv', 'niexxir'), 3
+('naf', 'daf'), 3
+('dor', 'novdiex'), 3
+('tav', 'niexxir'), 3
+('xief', 'hofnief'), 3
+('sox', 'tovlenv'), 3
+('riv', 'tav'), 3
+('sov', 'novdiex'), 3
+('zer', 'bor'), 2
+('liex', 'zuf'), 2
+('niexxir', 'xinrweir'), 2
+('ongv', 'novdiex'), 2
+('sefhuif', 'wortuv'), 2
+('niex', 'sefhuif'), 2
+('zongxziv', 'niex'), 2
+('qianrlir', 'niex'), 2
+('gof', 'riv'), 2
+('renrqianr', 'xianxyanr'), 2
+('cenrrenf', 'niex'), 2
+('novdiex', 'niex'), 2
+('hif', 'nier'), 2
+('hunx', 'jier'), 2
+('nier', 'jixcuv'), 2
+('xierqif', 'siv'), 2
+('xief', 'guanfdor'), 2
+('nier', 'caircanv'), 2
+('hif', 'wor'), 2
+('guirjif', 'nier'), 2
+('siv', 'bor'), 2
+('xix', 'taif'), 2
+('sifgaif', 'renrqianr'), 2
+('nier', 'sefhuif'), 2
+('wor', 'novdiex'), 2
+('nier', 'huarlir'), 2
+('goxniex', 'zongxjiaof'), 2
+('hif', 'novdiex'), 2
+('wortuv', 'guanfdor'), 2
+('liex', 'niexxir'), 2
+('huarlir', 'zixgex'), 2
+('baovhuf', 'dor'), 2
+('liex', 'novdiex'), 2
+('nier', 'zongxziv'), 2
+('zixgex', 'nier'), 2
+('zif', 'liex'), 2
+('novdiex', 'sefhuif'), 2
+('niex', 'yanrzer'), 2
+('hif', 'yer'), 2
+('ganxser', 'tav'), 2
+('guirjiaxdiex', 'nier'), 2
+('nier', 'jinxsenr'), 2
+('niex', 'qianrlir'), 2
+('xinrsif', 'zuif'), 2
+('niex', 'jixbenv'), 2
+('hif', 'niev'), 2
+('rev', 'novdiex'), 2
+('congxhunf', 'sirxianf'), 2
+('ongr', 'nier'), 2
+('zuif', 'xief'), 2
+('sirxianf', 'niexxir'), 2
+('yanrzer', 'weirbeif'), 2
+('baovhuf', 'xianvsouf'), 2
+('novdiex', 'bor'), 2
+('zifyour', 'congxhunf'), 2
+('garhaf', 'nier'), 2
+('gof', 'liex'), 2
+('renfyif', 'bordor'), 2
+('niev', 'novdiex'), 2
+('jief', 'taif'), 2
+('zuf', 'niex'), 2
+('xief', 'tav'), 2
+('gaivbianf', 'niexxir'), 2
+('nav', 'novdiex'), 2
+('cov', 'nier'), 2
+('baovzanf', 'xief'), 2
+('jief', 'riv'), 2
+('bordor', 'tav'), 2
+('zongxjiaof', 'sox'), 2
+('div', 'nier'), 2
+('pinrdenv', 'baovhuf'), 2
+('hif', 'sov'), 2
+('hif', 'rev'), 2
+('guirjir', 'sox'), 2
+('xief', 'xix'), 2
+('nier', 'cov'), 2
+('zif', 'tav'), 2
+('zer', 'niexxir'), 2
+('dor', 'sov'), 2
+('novdiex', 'jief'), 2
+('riv', 'dor'), 2
+('puvbianf', 'niex'), 2
+('sox', 'xinfyanv'), 2
+('gaif', 'qianrlirdiex'), 2
+('jiaofyir', 'gof'), 2
+('xief', 'jief'), 2
+('hif', 'ger'), 2
+('hxaf', 'nier'), 2
+('gof', 'dav'), 2
+('canxjiax', 'niexxir'), 2
+('liex', 'gaif'), 2
+('nier', 'lifyif'), 2
+('niex', 'guirjif'), 2
+('yer', 'novdiex'), 2
+('jinfbuf', 'niex'), 2
+('guir', 'nier'), 2
+('zer', 'dor'), 2
+('nier', 'guirjir'), 2
+('hif', 'nav'), 2
+('sefhuif', 'nier'), 2
+('xief', 'gixzex'), 2
+('renfhor', 'guirjiax'), 2
+('bor', 'jiaofhuiv'), 1
+('panf', 'tav'), 1
+('yevmanr', 'zif'), 1
+('guirjiax', 'huartinr'), 1
+('lirlur', 'gaif'), 1
+('niex', 'gaiflir'), 1
+('maxdiex', 'bianfhuf'), 1
+('guirjiax', 'zifliv'), 1
+('nier', 'jief'), 1
+('bor', 'div'), 1
+('niex', 'liex'), 1
+('naof', 'niex'), 1
+('axpix', 'tax'), 1
+('niex', 'lianrxinx'), 1
+('cuxjir', 'niex'), 1
+('gaif', 'qianrlifdiex'), 1
+('jief', 'xianvzer'), 1
+('niex', 'pinrdenv'), 1
+('bor', 'qixlier'), 1
+('zovnirdiex', 'nier'), 1
+('zuxyanr', 'niex'), 1
+('biaovsif', 'niexxir'), 1
+('jifsur', 'niex'), 1
+('niexxir', 'jixhuif'), 1
+('tiaorwenr', 'gaivsif'), 1
+('bor', 'yifwuf'), 1
+('kongfzif', 'tav'), 1
+('zuvzanx', 'xief'), 1
+('jixjinf', 'sox'), 1
+('niexxir', 'zunxyanr'), 1
+('senvpanf', 'tir'), 1
+('guirjiax', 'bifhuf'), 1
+('nov', 'naof'), 1
+('qianrlir', 'nier'), 1
+('haxrir', 'gaif'), 1
+('nier', 'zifxif'), 1
+('lianrxinx', 'niex'), 1
+('liex', 'minrzuv'), 1
+('xinrsif', 'zivkongfdiex'), 1
+('sox', 'sefhuif'), 1
+('serlir', 'dor'), 1
+('yifsur', 'xianvsouf'), 1
+('xief', 'zongvzur'), 1
+('xinfyanv', 'gaivbianf'), 1
+('gixzex', 'wortuv'), 1
+('dor', 'ongv'), 1
+('renfhor', 'tiaorwenr'), 1
+('sox', 'zifyour'), 1
+('nier', 'liv'), 1
+('huar', 'gof'), 1
+('hufniv', 'senxminf'), 1
+('murdir', 'novdiex'), 1
+('qixbierdiex', 'axpix'), 1
+('jiaofyir', 'yifwuf'), 1
+('taif', 'tav'), 1
+('bor', 'songxkox'), 1
+('hurlif', 'siryinf'), 1
+('hif', 'ongr'), 1
+('jixbenv', 'renrger'), 1
+('siv', 'renfhor'), 1
+('qianr', 'liex'), 1
+('niex', 'sef'), 1
+('niexxir', 'daifbiaov'), 1
+('nier', 'xief'), 1
+('zongvzur', 'huxser'), 1
+('liex', 'minr'), 1
+('guirjir', 'xief'), 1
+('novdiex', 'wortav'), 1
+('huarlir', 'guixdinf'), 1
+('niexxir', 'xinfnianf'), 1
+('daf', 'xinrsif'), 1
+('bor', 'bav'), 1
+('tav', 'nier'), 1
+('nier', 'zongvluif'), 1
+('cenryanr', 'naof'), 1
+('muflanx', 'dafhuif'), 1
+('bor', 'zongfyaof'), 1
+('gof', 'nuryif'), 1
+('div', 'tav'), 1
+('gongxkaix', 'sox'), 1
+('cenryanrdiex', 'hufniv'), 1
+('terbier', 'zaofguf'), 1
+('sirjianf', 'livbaif'), 1
+('huarbiaov', 'niexxir'), 1
+('qianrlir', 'qinxhaif'), 1
+('renrdaof', 'tav'), 1
+('jief', 'dav'), 1
+('guirjiax', 'zuf'), 1
+('zuf', 'baovzanf'), 1
+('guirjiax', 'nier'), 1
+('bor', 'youxxianx'), 1
+('cenrrenf', 'sifgaif'), 1
+('niex', 'wuvmier'), 1
+('pinrdenv', 'tongf'), 1
+('novdiex', 'huarlir'), 1
+('sox', 'lianrhor'), 1
+('novdiex', 'dav'), 1
+('daf', 'gof'), 1
+('zaoxsouf', 'tav'), 1
+('xief', 'rev'), 1
+('gof', 'gongxzenf'), 1
+('jiersouf', 'dor'), 1
+('xiaofgov', 'xief'), 1
+('hordongf', 'sox'), 1
+('liex', 'huifyanrguirdiex'), 1
+('xianvzer', 'nier'), 1
+('xix', 'panf'), 1
+('tav', 'aivliermor'), 1
+('baovhuf', 'niexxir'), 1
+('danxyanr', 'tianfranr'), 1
+('bor', 'baovhuf'), 1
+('hufniv', 'zixger'), 1
+('dor', 'wor'), 1
+('zongfyaof', 'liex'), 1
+('neixxir', 'qianrlif'), 1
+('partir', 'moursenx'), 1
+('norgarnir', 'naof'), 1
+('xinrhuar', 'canrrenv'), 1
+('huix', 'hunxsenx'), 1
+('xix', 'zenfsir'), 1
+('jixbenv', 'sefhuif'), 1
+('norgarnir', 'davzer'), 1
+('renrqianr', 'jixbenv'), 1
+('biaovxianf', 'dor'), 1
+('gof', 'qiordinf'), 1
+('yifzif', 'dinfqix'), 1
+('niex', 'zunxzongf'), 1
+('zifyourdiex', 'puvbianf'), 1
+('nov', 'gof'), 1
+('qiev', 'xinrsif'), 1
+('huxser', 'xinfbier'), 1
+('gixzex', 'hunxyinx'), 1
+('qirsif', 'tav'), 1
+('zifyour', 'siv'), 1
+('niex', 'ongr'), 1
+('xinfbier', 'yivyanr'), 1
+('xixyaof', 'qiordinf'), 1
+('sefhuif', 'jixgoufdiex'), 1
+('xinrweirdiex', 'sox'), 1
+('songxkox', 'niexxir'), 1
+('taif', 'xix'), 1
+('zunxxinr', 'puvbianf'), 1
+('garhaf', 'hufniv'), 1
+('duv', 'nier'), 1
+('sefhuif', 'danxyanr'), 1
+
+Самые частотные триграммы:
+('niexxir', 'qianrlif', 'xief'), 23
+('niexxir', 'qianrlir', 'xief'), 8
+('qianrlif', 'xief', 'novdiex'), 7
+('xief', 'niexxir', 'qianrlif'), 7
+('niexxir', 'zifyour', 'xief'), 5
+('xianvsouf', 'niexxir', 'qianrlif'), 5
+('dor', 'nav', 'hif'), 5
+('hufniv', 'dav', 'zer'), 5
+('xief', 'novdiex', 'nier'), 4
+('nier', 'qianrlif', 'xief'), 4
+('tav', 'dor', 'nav'), 4
+('xief', 'niev', 'hif'), 4
+('xianxyanr', 'gof', 'hxaf'), 3
+('tav', 'dor', 'novdiex'), 3
+('dor', 'niev', 'hif'), 3
+('gaif', 'xianxyanr', 'gof'), 3
+('riv', 'tav', 'dor'), 3
+('qianrlif', 'niex', 'zifyour'), 3
+('guanfdor', 'nier', 'guirjiax'), 3
+('dav', 'zer', 'nier'), 3
+('novdiex', 'guanfdor', 'nier'), 3
+('qianrlif', 'xief', 'niev'), 3
+('xief', 'nav', 'hif'), 3
+('qianrlirdiex', 'niex', 'zifyourdiex'), 3
+('zunxyanr', 'niex', 'qianrlir'), 2
+('qianrlif', 'xief', 'gaif'), 2
+('dor', 'novdiex', 'hufniv'), 2
+('wortuv', 'guanfdor', 'nier'), 2
+('goxniex', 'zongxjiaof', 'sox'), 2
+('nier', 'cov', 'nier'), 2
+('xief', 'tav', 'dor'), 2
+('baovhuf', 'xianvsouf', 'niexxir'), 2
+('dav', 'zer', 'dor'), 2
+('sifgaif', 'renrqianr', 'xianxyanr'), 2
+('qianrlir', 'xief', 'hofnief'), 2
+('zongxjiaof', 'sox', 'xinfyanv'), 2
+('gof', 'baovhuf', 'dor'), 2
+('renfyif', 'bordor', 'tav'), 2
+('zif', 'tav', 'dor'), 2
+('gof', 'hxaf', 'nier'), 2
+('qianrlir', 'niex', 'zifyour'), 2
+('gaif', 'qianrlirdiex', 'niex'), 2
+('xief', 'jief', 'taif'), 2
+('xief', 'novdiex', 'guanfdor'), 2
+('dav', 'zer', 'bor'), 2
+('zuif', 'xief', 'xix'), 2
+('hif', 'sov', 'novdiex'), 2
+('bordor', 'tav', 'dor'), 2
+('novdiex', 'hufniv', 'dav'), 2
+('xierqif', 'siv', 'bor'), 2
+('xief', 'gaif', 'qianrlif'), 2
+('qianrlif', 'xief', 'renfhor'), 2
+('niex', 'yanrzer', 'weirbeif'), 2
+('qianrlif', 'xief', 'gixzex'), 2
+('dav', 'zer', 'niexxir'), 2
+('zongxziv', 'niex', 'yanrzer'), 2
+('guir', 'nier', 'zongxziv'), 2
+('nier', 'qianrlif', 'niex'), 2
+('lianrhor', 'guir', 'nier'), 2
+('nier', 'zongxziv', 'niex'), 2
+('hif', 'ger', 'novdiex'), 2
+('hif', 'yer', 'novdiex'), 2
+('baovzanf', 'xief', 'niexxir'), 2
+('niex', 'ongr', 'nier'), 1
+('nier', 'nurdif', 'zifduf'), 1
+('huarlir', 'gof', 'baovhuf'), 1
+('xief', 'maxdiex', 'bianfhuf'), 1
+('cour', 'dav', 'zer'), 1
+('xinrweirdiex', 'sox', 'bur'), 1
+('xief', 'gev', 'tav'), 1
+('guirjif', 'nier', 'zifxif'), 1
+('songxkox', 'niexxir', 'qianrlif'), 1
+('qixlier', 'tav', 'dor'), 1
+('wortuv', 'daofder', 'gongxgongf'), 1
+('zif', 'niexxir', 'qianrlif'), 1
+('xianvzer', 'nier', 'qianrlif'), 1
+('hufniv', 'xief', 'niexxir'), 1
+('gaox', 'xix', 'taif'), 1
+('lirlur', 'gaif', 'qianrlirdiex'), 1
+('nier', 'boxlirdiex', 'jiersouf'), 1
+('canxjiax', 'neixxir', 'qianrlif'), 1
+('yanrzer', 'weirbeif', 'niexxir'), 1
+('yer', 'novdiex', 'diefciv'), 1
+('nier', 'zuxyanr', 'niex'), 1
+('puvtongx', 'nier', 'novdiex'), 1
+('niex', 'zunxxinr', 'puvbianf'), 1
+('xinfyanv', 'gaivbianf', 'niexxir'), 1
+('guirjir', 'gaivbianf', 'niexxir'), 1
+('kufxinr', 'riv', 'tav'), 1
+('tav', 'dor', 'goxniex'), 1
+('huifyanrguirdiex', 'nier', 'novdiex'), 1
+('dor', 'goxniex', 'rongryif'), 1
+('xinrweir', 'gof', 'weirhaif'), 1
+('ongr', 'novdiex', 'guanfdor'), 1
+('gof', 'hxaf', 'niexxir'), 1
+('suivzunv', 'yer', 'sivbax'), 1
+('niev', 'hif', 'rev'), 1
+('aivliermor', 'renrqianr', 'huarzif'), 1
+('horsir', 'nier', 'jief'), 1
+('zivkongfdiex', 'panfdinf', 'daivxir'), 1
+('sirxianf', 'daivxir', 'niev'), 1
+('hofnief', 'gaif', 'xianxyanr'), 1
+('cov', 'ongr', 'nier'), 1
+('gof', 'nuryif', 'tav'), 1
+('hif', 'wor', 'novbardiex'), 1
+('sefhuif', 'wortuv', 'daofder'), 1
+('nurdif', 'zifduf', 'niex'), 1
+('sox', 'tovlenv', 'senxhunf'), 1
+('sox', 'mirmir', 'jiaofyif'), 1
+('novdiex', 'guirjir', 'xief'), 1
+('niexxir', 'xinrweir', 'gof'), 1
+('norgarnir', 'naof', 'zifyouf'), 1
+('guir', 'guirjiaxdiex', 'nier'), 1
+('niexxir', 'tourpiaof', 'sox'), 1
+('niex', 'senxhor', 'suivpinr'), 1
+('baofxinr', 'yevmanr', 'zif'), 1
+('tinv', 'er', 'zouvxianv'), 1
+('hufniv', 'xinrsif', 'zuif'), 1
+('niex', 'norgarnir', 'naof'), 1
+('huanvpanf', 'tav', 'aivliermor'), 1
+('nier', 'guirjir', 'gaivbianf'), 1
+('nov', 'naof', 'sefhuif'), 1
+('dor', 'lianrhor', 'guir'), 1
+('xief', 'rev', 'novdiex'), 1
+('novdiex', 'horpinr', 'dav'), 1
+('guirjiax', 'nier', 'guirjif'), 1
+('sox', 'tovlenv', 'jianfgaiv'), 1
+('baovhuf', 'dor', 'guirjiaxdiex'), 1
+('dor', 'novdiex', 'huarlir'), 1
+('niexxir', 'hordongf', 'sox'), 1
+('jief', 'riv', 'zifyour'), 1
+('zer', 'nier', 'gixzex'), 1
+('xinfyanv', 'zifyour', 'xief'), 1
+('novdiex', 'nongv', 'liex'), 1
+('qianr', 'liex', 'minr'), 1
+('xief', 'xix', 'panf'), 1
+('nurdif', 'maivmaif', 'hufniv'), 1
+('niev', 'hif', 'yer'), 1
+('youf', 'pianxyiv', 'taif'), 1
+('puvbianf', 'serlir', 'dor'), 1
+('liex', 'qivsuf', 'bor'), 1
+('novdiex', 'nier', 'cov'), 1
+('niexxir', 'daifbiaov', 'gof'), 1
+('zixgex', 'novdiex', 'hufniv'), 1
+('nier', 'tav', 'dor'), 1
+('hif', 'novdiex', 'hufniv'), 1
+('qirsif', 'tav', 'dor'), 1
+('nier', 'cenryanr', 'naof'), 1
+('nier', 'senxhor', 'suivzunv'), 1
+('zifyourdiex', 'siv', 'renfhor'), 1
+('naf', 'daf', 'div'), 1
+('goxniex', 'guirjiax', 'bor'), 1
+('xianxyanr', 'nier', 'renfhor'), 1
+('baovhuf', 'gaif', 'ganxser'), 1
+('jinfbuf', 'niex', 'gof'), 1
+('hofnief', 'gixzex', 'perhaif'), 1
+('hif', 'nier', 'noxdiex'), 1
+('niex', 'nurdif', 'maivmaif'), 1
+('meivsur', 'zorpinv', 'liex'), 1
+('ziryer', 'jiaofyir', 'puvbianf'), 1
+('zenfdanf', 'xixyaof', 'qiordinf'), 1
+('boxlirdiex', 'hunxsenx', 'sox'), 1
+('riv', 'zifyour', 'jief'), 1
+('hufniv', 'xierqif', 'siv'), 1
+('novdiex', 'hufniv', 'jiaofyir'), 1
+('weirbeif', 'niexxir', 'xinrweir'), 1
+('gixzex', 'hunxyinx', 'garhaf'), 1
+('novdiex', 'niex', 'sefhuif'), 1
+('xinrsif', 'zuif', 'xief'), 1
+('xief', 'xix', 'zenfsir'), 1
+('gongxzenf', 'niex', 'horsir'), 1
+('guirjiax', 'zifliv', 'xix'), 1
+('riv', 'niexxir', 'qianrlir'), 1
+('wortav', 'nier', 'guirjiax'), 1
+('gongxgongf', 'zifxif', 'nier'), 1
+('riv', 'nier', 'renfhor'), 1
+('gongxhuif', 'zuvzir', 'canxjiax'), 1
+('sox', 'gongxjir', 'zaoxsouf'), 1
+('xix', 'taif', 'lirlu'), 1
+('wor', 'novdiex', 'hufniv'), 1
+('xianxyanr', 'minrnianf', 'xierqif'), 1
+('zif', 'liex', 'sox'), 1
+('niev', 'hif', 'ongr'), 1
+('tav', 'aivliermor', 'renrqianr'), 1
+('niexxir', 'xinrweir', 'liex'), 1
+('nier', 'noxdiex', 'guanfdor'), 1
+('rev', 'novdiex', 'wortav'), 1
+('dafhuif', 'gaif', 'sifgaif'), 1
+('novdiex', 'hufniv', 'guanfdor'), 1
+('renfhor', 'qianrlif', 'niex'), 1
+('dor', 'sov', 'novdiex'), 1
+('hordongf', 'sox', 'xinrweir'), 1
+('xinrsif', 'nier', 'nurdif'), 1
+('novdiex', 'dav', 'xief'), 1
+('guirjiax', 'xief', 'goxniex'), 1
+('hufniv', 'yanrlunf', 'niex'), 1
+('bor', 'youxxianx', 'xianvzer'), 1
+('haxrir', 'gaif', 'sifyanf'), 1
+('qianrlif', 'xief', 'arniexdiex'), 1
+('dav', 'yir', 'niex'), 1
+('div', 'niexxir', 'jinxjif'), 1
+('tix', 'xix', 'curjinf'), 1
+('nier', 'sefhuif', 'wortuv'), 1
+('tour', 'cenrxif', 'gof'), 1
+('novdiex', 'diefciv', 'lianrxinx'), 1
+('zifyour', 'zenfyif', 'niex'), 1
+('zifyour', 'xief', 'niev'), 1
+('xianfhuar', 'sox', 'huarlir'), 1
+('senxhor', 'suivzunv', 'yer'), 1
+('jixbenv', 'renrger', 'zunxyanr'), 1
+('dor', 'cenrrenf', 'niex'), 1
+('zifyour', 'xief', 'gev'), 1
+('qianrlif', 'xief', 'gaifdux'), 1
+('xief', 'gaif', 'xianxyanr'), 1
+('jiaofyir', 'jiersouf', 'niexxir'), 1
+('gaif', 'qinxhaif', 'xinrweir'), 1
+('cenrrenf', 'niex', 'zunxzongf'), 1
+('renfyif', 'ganxser', 'tav'), 1
+('guanfdor', 'nier', 'qianrlif'), 1
+('tav', 'dor', 'wor'), 1
+('jiaofyir', 'cenrjir', 'liex'), 1
+('nier', 'novdiex', 'nier'), 1
+('sox', 'tovlenv', 'kongfzif'), 1
+('xinfyanv', 'biaovsif', 'niexxir'), 1
+('novdiex', 'renfyif', 'daifbuv'), 1
+('zouvxianv', 'baofzenf', 'niex'), 1
+('jief', 'taif', 'xix'), 1
+('qiordinf', 'gaif', 'qianrlifdiex'), 1
+('dor', 'nierbar', 'gixzex'), 1
+('gof', 'biaovxianf', 'dor'), 1
+('nier', 'guirjif', 'nier'), 1
+('yevmanr', 'zif', 'liex'), 1
+('dor', 'jifsur', 'niex'), 1
+('qianrlif', 'houvrenf', 'tav'), 1
+('qiev', 'xinrsif', 'nier'), 1
+('bor', 'xief', 'niexxir'), 1
+('lianrhor', 'guir', 'xianfzanx'), 1
+('daf', 'gof', 'gongxzenf'), 1
+('yanrlunf', 'niex', 'xinfyanv'), 1
+('davzer', 'niexxir', 'qianrlir'), 1
+('horpinr', 'nier', 'jixcuv'), 1
+('nier', 'niexkax', 'cov'), 1
+('lifyif', 'bor', 'baovhuf'), 1
+('tir', 'niex', 'liex'), 1
+('nier', 'zongvluif', 'bor'), 1
+('goxniex', 'qianrlif', 'niex'), 1
+('liex', 'niexxir', 'jixbenv'), 1
+('boxlirdiex', 'jiersouf', 'dor'), 1
+('nier', 'huarlir', 'zixgex'), 1
+('gixzex', 'livxinf', 'niex'), 1
+('hif', 'niev', 'nov'), 1
+('nav', 'hif', 'nav'), 1
+('liex', 'zongfyaof', 'aixliermor'), 1
+('siv', 'tav', 'dor'), 1
+('niex', 'yifjianf', 'huarbiaov'), 1
+('nier', 'gixzex', 'livxinf'), 1
+('hunx', 'jier', 'zuf'), 1
+('xinrweirdiex', 'niex', 'gaif'), 1
+('qianxxir', 'niex', 'ongr'), 1
+('bor', 'sefhuif', 'baovzanf'), 1
+('sirxianf', 'niexxir', 'qianrlif'), 1
+('xierqif', 'zuf', 'niex'), 1
+('xief', 'gixzex', 'wortuv'), 1
+('guanxxif', 'nier', 'jinxsenr'), 1
+('minrzuv', 'nier', 'sefhuif'), 1
+('qianrlif', 'xief', 'nav'), 1
+('zuvzir', 'canxjiax', 'neixxir'), 1
+('hufniv', 'pinrdenv', 'baovhuf'), 1
+('zifxif', 'wortuv', 'gaif'), 1
+('niex', 'zifyourdiex', 'puvbianf'), 1
+('arniexdiex', 'boxlirdiex', 'terbier'), 1
+('gixzex', 'wortuv', 'guanfdor'), 1
+('tav', 'dor', 'ongv'), 1
+('qianrlir', 'xief', 'ger'), 1
+('rongryif', 'niex', 'minryif'), 1
+('serlir', 'dor', 'gaoxdenv'), 1
+('nov', 'gof', 'nuryif'), 1
+('nier', 'sar', 'novdiex'), 1
+('hif', 'ongr', 'novdiex'), 1
+('yixzaof', 'bor', 'zuif'), 1
+('guixdinf', 'duv', 'nier'), 1
+('jiaofhuiv', 'niex', 'jiaofyir'), 1
+('xianvjiv', 'gof', 'biaovxianf'), 1
+('bor', 'jiaofhuiv', 'niex'), 1
+('zongxjiaof', 'zenfzif', 'sox'), 1
+('curjinf', 'guirjiax', 'nier'), 1
+('nier', 'guirjir', 'renfyif'), 1
+('guanxxif', 'caf', 'huarzanv'), 1
+('div', 'nier', 'senxhor'), 1
+('puvcir', 'xix', 'taif'), 1
+('senxhor', 'canxjiax', 'niexxir'), 1
+('nov', 'renfhor', 'gaif'), 1
+('zer', 'bor', 'youf'), 1
+('bor', 'zongfyaof', 'liex'), 1
+('hufniv', 'zixger', 'xief'), 1
+('qivsuf', 'bor', 'gaif'), 1
+('niev', 'hif', 'sov'), 1
+('huartinr', 'horger', 'gaif'), 1
+('tav', 'niexxir', 'sifgaif'), 1
+('niex', 'zongxjiaof', 'zifyour'), 1

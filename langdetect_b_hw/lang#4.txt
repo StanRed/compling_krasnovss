@@ -1,0 +1,827 @@
+Самые частотные слова:
+'ema', 94
+'iha', 80
+'nia', 77
+'e', 69
+'ida', 55
+'bele', 52
+'ne', 41
+'atu', 38
+'tomak', 35
+'tuir', 34
+'la', 32
+'moris', 32
+'direitu', 32
+'sei', 32
+'hetan', 31
+'artigu', 30
+'seluk', 28
+'ho', 26
+'nasaun', 26
+'be', 26
+'ba', 26
+'hodi', 24
+'halo', 22
+'hotu', 21
+'hanesan', 20
+'laran', 19
+'tulun', 19
+'naran', 19
+'tan', 17
+'fo', 16
+'rai', 14
+'hakarak', 14
+'ukun', 14
+'mos', 13
+'serbisu', 13
+'ak', 12
+'uaihira', 12
+'di', 12
+'lia', 11
+'hosi', 11
+'liberdade', 11
+'rain', 10
+'uma', 10
+'dalan', 10
+'susar', 9
+'hahalok', 9
+'fatin', 8
+'matenek', 8
+'deklarasaun', 8
+'hamutuk', 8
+'fiar', 7
+'buka', 7
+'eskola', 7
+'tada', 7
+'los', 7
+'hasoru', 7
+'idak', 6
+'justisa', 6
+'sai', 6
+'malu', 6
+'kain', 6
+'sira', 6
+'foin', 5
+'damen', 5
+'tama', 5
+'hirak', 5
+'aat', 5
+'buat', 5
+'u', 5
+'rasik', 5
+'liu', 5
+'simu', 5
+'o', 5
+'klibur', 5
+'na', 4
+'boot', 4
+'let', 4
+'ona', 4
+'nune', 4
+'mundu', 4
+'katak', 4
+'ruma', 4
+'hatene', 4
+'monu', 4
+'in', 4
+'raiklaran', 3
+'karik', 3
+'hanorin', 3
+'feto', 3
+'de', 3
+'hanoin', 3
+'otak', 3
+'nian', 3
+'it', 3
+'neon', 3
+'tahan', 3
+'hakmatek', 3
+'uain', 3
+'hateten', 3
+'tinan', 3
+'metin', 3
+'n', 3
+'foti', 3
+'oan', 3
+'kona', 3
+'duni', 3
+'povu', 3
+'tau', 3
+'lakohi', 3
+'nu', 2
+'asembleia', 2
+'mesak', 2
+'maka', 2
+'lori', 2
+'halakon', 2
+'heuuai', 2
+'kabe', 2
+'ata', 2
+'tur', 2
+'kaben', 2
+'loke', 2
+'knua', 2
+'husik', 2
+'ka', 2
+'sala', 2
+'alin', 2
+'habelar', 2
+'haruka', 2
+'surat', 2
+'kuran', 2
+'sasán', 2
+'án', 2
+'selu', 2
+'maun', 2
+'loron', 2
+'habadak', 2
+'sindikatu', 2
+'an', 2
+'haklaken', 2
+'dauk', 2
+'kolen', 2
+'hili', 2
+'harí', 2
+'hasai', 2
+'rua', 2
+'lolós', 2
+'dadur', 2
+'kastigu', 2
+'hatudu', 2
+'mane', 2
+'buras', 2
+'rin', 2
+'afoin', 1
+'ksumik', 1
+'desembru', 1
+'reinu', 1
+'ospitál', 1
+'badaen', 1
+'ik', 1
+'knar', 1
+'otas', 1
+'teknik', 1
+'fila', 1
+'tusan', 1
+'moras', 1
+'noin', 1
+'hatais', 1
+'rezolusaun', 1
+'hametin', 1
+'liman', 1
+'mai', 1
+'ki', 1
+'folin', 1
+'dame', 1
+'hahú', 1
+'terus', 1
+'kbahen', 1
+'habiit', 1
+'politik', 1
+'lisan', 1
+'aman', 1
+'isin', 1
+'faluk', 1
+'perdua', 1
+'laek', 1
+'hola', 1
+'bandu', 1
+'oi', 1
+'maski', 1
+'haketak', 1
+'lae', 1
+'halibur', 1
+'fulan', 1
+'funu', 1
+'hahán', 1
+'kair', 1
+'kles', 1
+'hadiuk', 1
+'idakán', 1
+'fahe', 1
+'ukur', 1
+'hakmá', 1
+'hatán', 1
+'a', 1
+'to', 1
+'hahoris', 1
+'molok', 1
+'oin', 1
+'todan', 1
+'labarik', 1
+'estilu', 1
+'ninia', 1
+'salan', 1
+'taka', 1
+'haknauk', 1
+'iii', 1
+'kosok', 1
+'lalika', 1
+'ter', 1
+'kluhak', 1
+'hikas', 1
+'balu', 1
+
+Самые частотные биграммы:
+('ne', 'e'), 41
+('ema', 'ida'), 27
+('e', 'be'), 26
+('la', 'bele'), 22
+('ema', 'tomak'), 21
+('iha', 'direitu'), 18
+('tuir', 'nia'), 15
+('artigu', 'ema'), 15
+('direitu', 'atu'), 14
+('ema', 'seluk'), 12
+('di', 'ak'), 12
+('hetan', 'tulun'), 12
+('ema', 'hotu'), 11
+('naran', 'ema'), 11
+('bele', 'moris'), 11
+('tomak', 'iha'), 10
+('nia', 'hakarak'), 10
+('nia', 'direitu'), 9
+('sei', 'hetan'), 9
+('nia', 'rain'), 8
+('nasaun', 'ida'), 8
+('artigu', 'naran'), 8
+('moris', 'ho'), 7
+('iha', 'nasaun'), 7
+('nasaun', 'tomak'), 7
+('ida', 'la'), 7
+('ho', 'liberdade'), 7
+('fo', 'tada'), 7
+('be', 'nia'), 6
+('uma', 'kain'), 6
+('hetan', 'susar'), 6
+('ema', 'nia'), 6
+('ida', 'idak'), 6
+('deklarasaun', 'ne'), 6
+('atu', 'hetan'), 6
+('dalan', 'los'), 5
+('tuir', 'dalan'), 5
+('hanesan', 'ema'), 5
+('nia', 'halo'), 5
+('moris', 'di'), 5
+('tada', 'iha'), 5
+('atu', 'ema'), 5
+('hotu', 'bele'), 5
+('hotu', 'hotu'), 5
+('susar', 'tan'), 5
+('tulun', 'hosi'), 5
+('ida', 'laran'), 5
+('ida', 'nia'), 5
+('ida', 'iha'), 5
+('iha', 'rai'), 5
+('hamutuk', 'ho'), 4
+('rai', 'ne'), 4
+('na', 'in'), 4
+('nune', 'e'), 4
+('atu', 'moris'), 4
+('nia', 'fiar'), 4
+('hirak', 'ne'), 4
+('moris', 'hanesan'), 4
+('iha', 'uma'), 4
+('ida', 'sei'), 4
+('ba', 'nia'), 4
+('hodi', 'hetan'), 4
+('artigu', 'la'), 4
+('bele', 'halo'), 4
+('fo', 'sai'), 4
+('hasoru', 'ema'), 4
+('e', 'ema'), 4
+('be', 'nasaun'), 4
+('atu', 'bele'), 4
+('direitu', 'ho'), 4
+('rai', 'seluk'), 4
+('nia', 'uma'), 4
+('iha', 'nia'), 4
+('seluk', 'hodi'), 4
+('iha', 'deklarasaun'), 4
+('hotu', 'hanesan'), 4
+('rai', 'ida'), 4
+('lia', 'hirak'), 4
+('e', 'artigu'), 4
+('ba', 'ema'), 3
+('hodi', 'halo'), 3
+('e', 'rai'), 3
+('tomak', 'nia'), 3
+('iha', 'mundu'), 3
+('eskola', 'ne'), 3
+('iha', 'tinan'), 3
+('hetan', 'mos'), 3
+('halo', 'tuir'), 3
+('foin', 'fo'), 3
+('e', 'hamutuk'), 3
+('ho', 'direitu'), 3
+('iha', 'fatin'), 3
+('o', 'n'), 3
+('tomak', 'ne'), 3
+('uma', 'laran'), 3
+('kona', 'ba'), 3
+('bele', 'tuir'), 3
+('ak', 'ba'), 3
+('laran', 'iha'), 3
+('sei', 'buka'), 3
+('direitu', 'iha'), 3
+('n', 'u'), 3
+('direitu', 'hanesan'), 3
+('iha', 'damen'), 3
+('moris', 'hakmatek'), 3
+('tama', 'iha'), 3
+('hetan', 'matenek'), 3
+('ida', 'bele'), 3
+('de', 'it'), 3
+('e', 'iha'), 3
+('damen', 'laran'), 3
+('tuir', 'lia'), 3
+('halo', 'ema'), 3
+('hakarak', 'iha'), 3
+('ema', 'ne'), 3
+('iha', 'o'), 3
+('be', 'fo'), 3
+('moris', 'tuir'), 3
+('hotu', 'sei'), 3
+('hahalok', 'ne'), 3
+('mos', 'tulun'), 3
+('kain', 'ida'), 3
+('e', 'sei'), 3
+('serbisu', 'iha'), 3
+('idak', 'bele'), 3
+('ak', 'hanesan'), 3
+('monu', 'ba'), 3
+('hanesan', 'iha'), 3
+('nia', 'serbisu'), 3
+('nasaun', 'seluk'), 3
+('tomak', 'sei'), 3
+('hakarak', 'atu'), 2
+('hetan', 'di'), 2
+('direitu', 'tuir'), 2
+('hosi', 'nia'), 2
+('sei', 'tuir'), 2
+('in', 'rua'), 2
+('iha', 'otak'), 2
+('be', 'hakarak'), 2
+('hanesan', 'ata'), 2
+('fatin', 'ida'), 2
+('tahan', 'ema'), 2
+('lia', 'ne'), 2
+('ba', 'susar'), 2
+('bele', 'dadur'), 2
+('atu', 'nia'), 2
+('hahalok', 'aat'), 2
+('ida', 'hosi'), 2
+('let', 'ema'), 2
+('kabe', 'na'), 2
+('ka', 'mane'), 2
+('be', 'foin'), 2
+('nia', 'kolen'), 2
+('seluk', 'nia'), 2
+('lori', 'ema'), 2
+('bele', 'kaben'), 2
+('tomak', 'bele'), 2
+('bele', 'hateten'), 2
+('seluk', 'halo'), 2
+('buras', 'artigu'), 2
+('ho', 'matenek'), 2
+('ho', 'justisa'), 2
+('rain', 'artigu'), 2
+('sei', 'halo'), 2
+('bele', 'fo'), 2
+('matenek', 'seluk'), 2
+('mundu', 'raiklaran'), 2
+('malu', 'atu'), 2
+('be', 'kuran'), 2
+('rai', 'nia'), 2
+('bele', 'tama'), 2
+('halo', 'rai'), 2
+('asembleia', 'boot'), 2
+('hetan', 'justisa'), 2
+('tur', 'iha'), 2
+('nia', 'hahalok'), 2
+('seluk', 'iha'), 2
+('hotu', 'iha'), 2
+('artigu', 'uaihira'), 2
+('e', 'uaihira'), 2
+('hanesan', 'maun'), 2
+('nia', 'moris'), 2
+('damen', 'iha'), 2
+('seluk', 'la'), 2
+('ho', 'neon'), 2
+('tan', 'ukun'), 2
+('ho', 'alin'), 2
+('bele', 'hasai'), 2
+('buka', 'tulun'), 2
+('hosi', 'ukun'), 2
+('moris', 'iha'), 2
+('e', 'atu'), 2
+('nu', 'u'), 2
+('atu', 'buka'), 2
+('buat', 'ida'), 2
+('iha', 'uain'), 2
+('atu', 'tama'), 2
+('la', 'serbisu'), 2
+('rasik', 'e'), 2
+('tuir', 'ukun'), 2
+('povu', 'tomak'), 2
+('tan', 'ema'), 2
+('ema', 'sei'), 2
+('nia', 'liberdade'), 2
+('hakmatek', 'bele'), 2
+('bele', 'hetan'), 2
+('bele', 'husik'), 2
+('hosi', 'nasaun'), 2
+('deklarasaun', 'kona'), 2
+('tuir', 'lolós'), 2
+('ida', 'tan'), 2
+('ukun', 'sira'), 2
+('hodi', 'la'), 2
+('ida', 'hodi'), 2
+('la', 'monu'), 2
+('nia', 'rin'), 2
+('tomak', 'hanesan'), 2
+('laran', 'artigu'), 2
+('foti', 'lia'), 2
+('naran', 'de'), 2
+('e', 'duni'), 2
+('sira', 'iha'), 2
+('feto', 'ka'), 2
+('seluk', 'e'), 2
+('serbisu', 'sei'), 2
+('seluk', 'ema'), 2
+('ho', 'nasaun'), 2
+('uaihira', 'monu'), 2
+('uaihira', 'ema'), 2
+('harí', 'klibur'), 2
+('fiar', 'tuir'), 2
+('nia', 'hanoin'), 2
+('tulun', 'uaihira'), 2
+('uaihira', 'hetan'), 2
+('direitu', 'artigu'), 2
+('tan', 'hahalok'), 2
+('serbisu', 'tuir'), 2
+('tulun', 'atu'), 2
+('fo', 'kastigu'), 2
+('halo', 'aat'), 2
+('los', 'hodi'), 2
+('maun', 'ho'), 2
+('tulun', 'ba'), 2
+('iha', 'eskola'), 2
+('tan', 'ne'), 2
+('hakarak', 'artigu'), 2
+('hodi', 'fo'), 2
+('nia', 'hetan'), 2
+('bele', 'mos'), 2
+('buat', 'ne'), 2
+('seluk', 'atu'), 2
+('nasaun', 'nia'), 2
+('mesak', 'e'), 2
+('sei', 'dauk'), 2
+('katak', 'nia'), 2
+('susar', 'ba'), 1
+('o', 'ona'), 1
+('let', 'la'), 1
+('hanesan', 'feto'), 1
+('moras', 'laran'), 1
+('hamutuk', 'tulun'), 1
+('án', 'artigu'), 1
+('hatudu', 'tuir'), 1
+('atu', 'ukun'), 1
+('isin', 'di'), 1
+('aat', 'ba'), 1
+('direitu', 'nia'), 1
+('ida', 'atu'), 1
+('simu', 'tusan'), 1
+('bele', 'la'), 1
+('iha', 'ukun'), 1
+('nasaun', 'bele'), 1
+('aat', 'hahalok'), 1
+('ona', 'ema'), 1
+('bele', 'halibur'), 1
+('tomak', 'tuir'), 1
+('alin', 'artigu'), 1
+('hosi', 'reinu'), 1
+('halo', 'duni'), 1
+('desembru', 'iha'), 1
+('matenek', 'boot'), 1
+('idakán', 'nia'), 1
+('rezolusaun', 'a'), 1
+('kaben', 'tur'), 1
+('seluk', 'mos'), 1
+('liu', 'ema'), 1
+('laran', 'faluk'), 1
+('susar', 'atu'), 1
+('tuir', 'mos'), 1
+('liberdade', 'ema'), 1
+('hanoin', 'iha'), 1
+('iha', 'rezolusaun'), 1
+('ida', 'buras'), 1
+('laran', 'hotu'), 1
+('hanesan', 'knua'), 1
+('sei', 'hatán'), 1
+('oin', 'labarik'), 1
+('tusan', 'los'), 1
+('karik', 'e'), 1
+('bele', 'kair'), 1
+
+Самые частотные триграммы:
+('ne', 'e', 'be'), 26
+('iha', 'direitu', 'atu'), 12
+('naran', 'ema', 'ida'), 11
+('tuir', 'nia', 'hakarak'), 8
+('ema', 'tomak', 'iha'), 8
+('artigu', 'ema', 'tomak'), 8
+('tomak', 'iha', 'direitu'), 7
+('artigu', 'naran', 'ema'), 7
+('deklarasaun', 'ne', 'e'), 6
+('ida', 'la', 'bele'), 6
+('e', 'be', 'nia'), 6
+('ema', 'ida', 'idak'), 5
+('fo', 'tada', 'iha'), 5
+('moris', 'di', 'ak'), 5
+('direitu', 'atu', 'hetan'), 5
+('ema', 'ida', 'la'), 5
+('moris', 'ho', 'liberdade'), 4
+('ida', 'iha', 'direitu'), 4
+('ema', 'hotu', 'bele'), 4
+('hirak', 'ne', 'e'), 4
+('e', 'be', 'nasaun'), 4
+('hetan', 'susar', 'tan'), 4
+('be', 'nia', 'halo'), 4
+('sei', 'hetan', 'tulun'), 4
+('ema', 'ida', 'iha'), 4
+('iha', 'rai', 'ne'), 4
+('iha', 'nasaun', 'ida'), 4
+('tada', 'iha', 'deklarasaun'), 4
+('bele', 'moris', 'ho'), 4
+('ne', 'e', 'artigu'), 4
+('rai', 'ne', 'e'), 4
+('artigu', 'ema', 'ida'), 4
+('artigu', 'la', 'bele'), 4
+('bele', 'moris', 'di'), 4
+('hotu', 'bele', 'moris'), 3
+('ema', 'nia', 'direitu'), 3
+('iha', 'deklarasaun', 'ne'), 3
+('lia', 'hirak', 'ne'), 3
+('eskola', 'ne', 'e'), 3
+('ema', 'ne', 'e'), 3
+('bele', 'tuir', 'dalan'), 3
+('nasaun', 'ida', 'laran'), 3
+('moris', 'ho', 'direitu'), 3
+('atu', 'hetan', 'tulun'), 3
+('e', 'be', 'fo'), 3
+('iha', 'uma', 'kain'), 3
+('ida', 'idak', 'bele'), 3
+('o', 'n', 'u'), 3
+('iha', 'damen', 'laran'), 3
+('hahalok', 'ne', 'e'), 3
+('direitu', 'ho', 'liberdade'), 3
+('iha', 'direitu', 'hanesan'), 3
+('iha', 'o', 'n'), 3
+('uma', 'kain', 'ida'), 3
+('nune', 'e', 'ema'), 3
+('hetan', 'mos', 'tulun'), 3
+('ne', 'e', 'sei'), 3
+('di', 'ak', 'ba'), 3
+('tomak', 'nia', 'direitu'), 3
+('hetan', 'tulun', 'hosi'), 3
+('ema', 'tomak', 'nia'), 3
+('tomak', 'ne', 'e'), 3
+('la', 'bele', 'halo'), 3
+('di', 'ak', 'hanesan'), 3
+('la', 'bele', 'moris'), 3
+('artigu', 'ema', 'hotu'), 3
+('sei', 'tuir', 'lolós'), 2
+('iha', 'mundu', 'raiklaran'), 2
+('sei', 'hetan', 'mos'), 2
+('ida', 'laran', 'iha'), 2
+('rain', 'artigu', 'ema'), 2
+('tama', 'iha', 'eskola'), 2
+('hosi', 'nia', 'rain'), 2
+('hamutuk', 'ho', 'nasaun'), 2
+('e', 'hamutuk', 'ho'), 2
+('ema', 'ida', 'sei'), 2
+('ak', 'hanesan', 'ema'), 2
+('moris', 'hakmatek', 'bele'), 2
+('la', 'bele', 'mos'), 2
+('seluk', 'la', 'bele'), 2
+('mesak', 'e', 'hamutuk'), 2
+('deklarasaun', 'kona', 'ba'), 2
+('hotu', 'iha', 'direitu'), 2
+('tuir', 'nia', 'fiar'), 2
+('e', 'be', 'hakarak'), 2
+('nia', 'rain', 'artigu'), 2
+('atu', 'bele', 'moris'), 2
+('matenek', 'seluk', 'halo'), 2
+('na', 'in', 'rua'), 2
+('maun', 'ho', 'alin'), 2
+('hosi', 'ukun', 'sira'), 2
+('serbisu', 'tuir', 'nia'), 2
+('ema', 'ida', 'bele'), 2
+('e', 'iha', 'rai'), 2
+('nia', 'hakarak', 'atu'), 2
+('monu', 'ba', 'susar'), 2
+('nasaun', 'ida', 'nia'), 2
+('kabe', 'na', 'in'), 2
+('hodi', 'hetan', 'tulun'), 2
+('hanesan', 'ema', 'tomak'), 2
+('tomak', 'hanesan', 'iha'), 2
+('feto', 'ka', 'mane'), 2
+('ida', 'sei', 'halo'), 2
+('nia', 'uma', 'laran'), 2
+('uaihira', 'monu', 'ba'), 2
+('kona', 'ba', 'ema'), 2
+('ba', 'nia', 'rain'), 2
+('nia', 'uma', 'kain'), 2
+('direitu', 'hanesan', 'ema'), 2
+('hetan', 'di', 'ak'), 2
+('naran', 'de', 'it'), 2
+('ema', 'ida', 'nia'), 2
+('moris', 'hanesan', 'ata'), 2
+('ema', 'ida', 'hosi'), 2
+('tan', 'ne', 'e'), 2
+('hetan', 'tulun', 'atu'), 2
+('buat', 'ne', 'e'), 2
+('ema', 'tomak', 'bele'), 2
+('e', 'artigu', 'ema'), 2
+('nasaun', 'tomak', 'iha'), 2
+('e', 'sei', 'hetan'), 2
+('e', 'rai', 'seluk'), 2
+('tulun', 'ba', 'nia'), 2
+('atu', 'ema', 'tomak'), 2
+('lia', 'ne', 'e'), 2
+('ema', 'seluk', 'nia'), 2
+('ho', 'nasaun', 'seluk'), 2
+('ho', 'matenek', 'seluk'), 2
+('seluk', 'nia', 'direitu'), 2
+('foin', 'fo', 'tada'), 2
+('nia', 'hakarak', 'iha'), 2
+('halo', 'rai', 'ida'), 2
+('nia', 'direitu', 'artigu'), 2
+('uaihira', 'hetan', 'susar'), 2
+('ema', 'hotu', 'hanesan'), 2
+('ida', 'hosi', 'nia'), 2
+('hanesan', 'iha', 'direitu'), 2
+('la', 'bele', 'hasai'), 2
+('moris', 'tuir', 'nia'), 2
+('iha', 'direitu', 'iha'), 2
+('ema', 'tomak', 'hanesan'), 2
+('la', 'bele', 'dadur'), 2
+('hanesan', 'maun', 'ho'), 2
+('e', 'be', 'kuran'), 2
+('ne', 'e', 'atu'), 2
+('ho', 'direitu', 'ho'), 2
+('tahan', 'ema', 'tomak'), 2
+('iha', 'nia', 'rain'), 2
+('nia', 'hakarak', 'artigu'), 2
+('la', 'bele', 'tuir'), 2
+('hotu', 'hotu', 'sei'), 2
+('e', 'artigu', 'naran'), 2
+('ema', 'hotu', 'hotu'), 2
+('iha', 'eskola', 'ne'), 2
+('e', 'be', 'foin'), 2
+('ema', 'ida', 'tan'), 2
+('hetan', 'tulun', 'uaihira'), 2
+('e', 'ema', 'seluk'), 2
+('ba', 'ema', 'tomak'), 2
+('be', 'nasaun', 'tomak'), 2
+('nia', 'neon', 'tuir'), 1
+('hosi', 'nasaun', 'sei'), 1
+('nia', 'direitu', 'nia'), 1
+('iha', 'deklarasaun', 'kona'), 1
+('bele', 'mos', 'foti'), 1
+('tuir', 'lia', 'ne'), 1
+('e', 'duni', 'iha'), 1
+('e', 'tau', 'ema'), 1
+('ho', 'eskola', 'ba'), 1
+('boot', 'fo', 'tada'), 1
+('folin', 'ema', 'hotu'), 1
+('tada', 'iha', 'rezolusaun'), 1
+('e', 'iha', 'fiar'), 1
+('tomak', 'fo', 'sai'), 1
+('lia', 'habadak', 'atu'), 1
+('ho', 'mos', 'liberdade'), 1
+('ema', 'tomak', 'halo'), 1
+('direitu', 'iha', 'otak'), 1
+('la', 'monu', 'hasoru'), 1
+('e', 'uaihira', 'hetan'), 1
+('uma', 'laran', 'nia'), 1
+('e', 'be', 'hahú'), 1
+('seluk', 'ema', 'tomak'), 1
+('fatin', 'seluk', 'e'), 1
+('maka', 'ema', 'balu'), 1
+('liu', 'liu', 'iha'), 1
+('iha', 'tinan', 'laran'), 1
+('e', 'be', 'ukun'), 1
+('tomak', 'ema', 'hotu'), 1
+('fo', 'matenek', 'boot'), 1
+('rai', 'nia', 'rin'), 1
+('iha', 'sasán', 'rasik'), 1
+('hosi', 'nasaun', 'artigu'), 1
+('rasik', 'uaihira', 'hetan'), 1
+('rai', 'ida', 'bele'), 1
+('los', 'atu', 'moris'), 1
+('buat', 'ida', 'hasoru'), 1
+('in', 'uma', 'kain'), 1
+('direitu', 'atu', 'serbisu'), 1
+('fo', 'tada', 'ona'), 1
+('hanesan', 'rai', 'nia'), 1
+('sai', 'katak', 'ema'), 1
+('nia', 'mos', 'ema'), 1
+('hotu', 'bele', 'tama'), 1
+('karik', 'nia', 'la'), 1
+('nia', 'direitu', 'atu'), 1
+('e', 'atu', 'ema'), 1
+('lia', 'ruma', 'hasoru'), 1
+('buka', 'moris', 'hanesan'), 1
+('dadur', 'let', 'la'), 1
+('hotu', 'hotu', 'iha'), 1
+('nia', 'rain', 'tan'), 1
+('hadiuk', 'iha', 'uain'), 1
+('liberdade', 'ema', 'ida'), 1
+('seluk', 'iha', 'direitu'), 1
+('bele', 'ter', 'hosi'), 1
+('in', 'rua', 'la'), 1
+('rai', 'seluk', 'atu'), 1
+('nia', 'fiar', 'haklaken'), 1
+('atu', 'ukun', 'nia'), 1
+('malu', 'ho', 'laran'), 1
+('ida', 'atu', 'ema'), 1
+('sei', 'simu', 'tusan'), 1
+('nia', 'direitu', 'tuir'), 1
+('nia', 'hakarak', 'hetan'), 1
+('tau', 'lia', 'ba'), 1
+('seluk', 'hodi', 'hetan'), 1
+('malu', 'dame', 'malu'), 1
+('halo', 'aat', 'ba'), 1
+('ema', 'seluk', 'iha'), 1
+('ukun', 'sei', 'tahan'), 1
+('bele', 'kaben', 'tur'), 1
+('rai', 'seluk', 'la'), 1
+('atu', 'hetan', 'buat'), 1
+('nia', 'liberdade', 'sei'), 1
+('e', 'atu', 'hodi'), 1
+('tuir', 'hahalok', 'ne'), 1
+('rain', 'nia', 'nasaun'), 1
+('di', 'ak', 'atu'), 1
+('hetan', 'tulun', 'hodi'), 1
+('moris', 'hamutuk', 'nu'), 1
+('seluk', 'moris', 'hanesan'), 1
+('ba', 'povu', 'tomak'), 1
+('idak', 'bele', 'simu'), 1
+('simu', 'nia', 'hodi'), 1
+('serbisu', 'nia', 'laran'), 1
+('atu', 'la', 'monu'), 1
+('ema', 'balu', 'halo'), 1
+('eskola', 'ida', 'sei'), 1
+('halo', 'la', 'monu'), 1
+('dalan', 'ne', 'e'), 1
+('kain', 'la', 'bele'), 1
+('fo', 'tada', 'nia'), 1
+('hatais', 'iha', 'uma'), 1
+('hodi', 'halo', 'tuir'), 1
+('nia', 'la', 'bele'), 1
+('tomak', 'ukun', 'tomak'), 1
+('ema', 'seluk', 'ema'), 1
+('tuir', 'ida', 'idak'), 1
+('teknik', 'ho', 'eskola'), 1
+('ho', 'liberdade', 'ne'), 1
+('afoin', 'sei', 'fo'), 1
+('ema', 'hotu', 'moris'), 1
+('bele', 'halibur', 'harí'), 1
+('sala', 'nia', 'salan'), 1
+('moris', 'hanesan', 'maun'), 1
+('tulun', 'hosi', 'ukun'), 1
+('buka', 'tulun', 'hosi'), 1
+('seluk', 'halo', 'rai'), 1
+('politik', 'tan', 'ukun'), 1
+('hotu', 'habiit', 'liu'), 1
+('mos', 'hahalok', 'tomak'), 1
+('tada', 'nia', 'hanoin'), 1
+('loke', 'let', 'ema'), 1
+('nia', 'an', 'rasik'), 1
+('ida', 'tan', 'noin'), 1
+('tama', 'iha', 'klibur'), 1
+('ba', 'seluk', 'hodi'), 1
+('mos', 'tulun', 'hosi'), 1
+('hasai', 'let', 'ema'), 1
+('tomak', 'sei', 'hatudu'), 1
+('tuir', 'dalan', 'ida'), 1
+('rain', 'rasik', 'uaihira'), 1
+('lia', 'tomak', 'ne'), 1
+('tan', 'heuuai', 'ema'), 1
+('halo', 'justisa', 'ema'), 1
+('hasoru', 'ema', 'aat'), 1
+('serbisu', 'iha', 'tinan'), 1
+('lori', 'ema', 'simu'), 1
+('tomak', 'bele', 'harí'), 1
+('monu', 'hasoru', 'ukun'), 1
+('katak', 'ema', 'tomak'), 1
+('matenek', 'tan', 'nasaun'), 1
+('nu', 'u', 'sala'), 1
+('hametin', 'damen', 'iha'), 1
+('ba', 'badaen', 'sei'), 1
+('ema', 'seluk', 'la'), 1
+('seluk', 'hodi', 'halo'), 1
+('uma', 'kain', 'la'), 1
+('ba', 'malu', 'atu'), 1

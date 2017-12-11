@@ -1,0 +1,905 @@
+Самые частотные слова:
+'di', 141
+'tudu', 76
+'cu', 67
+'nguê', 61
+'ni', 54
+'dirêtu', 52
+'e', 51
+'tê', 45
+'ca', 43
+'pô', 32
+'º', 30
+'artigo', 30
+'sá', 30
+'ê', 28
+'na', 27
+'dê', 27
+'fa', 27
+'sé', 26
+'ua', 25
+'ô', 20
+'téla', 18
+'cuá', 18
+'fé', 17
+'liberdade', 17
+'pa', 16
+'sê', 15
+'a', 15
+'hómé', 14
+'qualqué', 13
+'xi', 11
+'nen', 10
+'selá', 10
+'punda', 9
+'contla', 9
+'pê', 9
+'nê', 8
+'mêssê', 8
+'cuê', 8
+'estado', 8
+'lei', 7
+'maxi', 7
+'ôtlo', 7
+'cuma', 6
+'declaraçón', 6
+'social', 6
+'naçón', 6
+'mundu', 6
+'mali', 5
+'ploteçón', 5
+'tlabá', 5
+'religión', 5
+'justiça', 5
+'sa', 5
+'familia', 5
+'unida', 5
+'mina', 4
+'zisti', 4
+'dé', 4
+'muala', 4
+'vonté', 4
+'importanti', 4
+'ola', 4
+'ensino', 4
+'glupu', 4
+'nacionalidade', 4
+'sociedade', 4
+'de', 4
+'tocá', 4
+'vida', 4
+'mêmu', 4
+'educaçón', 4
+'situaçón', 4
+'stluviçu', 3
+'casá', 3
+'distinçón', 3
+'livli', 3
+'geral', 3
+'baseado', 3
+'manifestá', 3
+'telá', 3
+'modo', 3
+'flá', 3
+'andeji', 3
+'gozá', 3
+'cá', 3
+'igual', 3
+'d', 3
+'internacional', 3
+'vivê', 3
+'ba', 3
+'lispêtu', 3
+'ploclamá', 3
+'êlê', 3
+'segurança', 3
+'desenvolvimento', 3
+'laça', 3
+'universal', 3
+'motivo', 3
+'ké', 3
+'óla', 3
+'memblu', 2
+'amizade', 2
+'interesse', 2
+'coiê', 2
+'pôvô', 2
+'paz', 2
+'pena', 2
+'esclavatura', 2
+'político', 2
+'científico', 2
+'publicamente', 2
+'pesado', 2
+'cunxença', 2
+'plano', 2
+'mé', 2
+'conviçón', 2
+'félia', 2
+'plijudicá', 2
+'dignidade', 2
+'casadu', 2
+'participá', 2
+'pá', 2
+'milhó', 2
+'opinión', 2
+'tan', 2
+'lumadu', 2
+'n', 2
+'mudá', 2
+'entre', 2
+'obligado', 2
+'obligá', 2
+'xitu', 2
+'cata', 2
+'bilá', 2
+'básico', 2
+'vedé', 2
+'lêcêbê', 2
+'dependenxa', 2
+'organizaçón', 2
+'piquina', 2
+'ôtlô', 2
+'plomovê', 2
+'naxi', 2
+'tlibunal', 2
+'txilá', 2
+'cumpli', 2
+'assembleia', 2
+'plovocá', 2
+'base', 2
+'pensamento', 2
+'zá', 2
+'melhorá', 2
+'baleladu', 2
+'livlu', 2
+'associaçón', 2
+'mandá', 2
+'voto', 2
+'ploclamadu', 2
+'ngué', 2
+'moral', 2
+'importante', 2
+'txilé', 2
+'djá', 1
+'esclito', 1
+'esclavo', 1
+'inem', 1
+'gêlo', 1
+'obligaçón', 1
+'maternidade', 1
+'buá', 1
+'revoltá', 1
+'vencimento', 1
+'jurídico', 1
+'é', 1
+'lungua', 1
+'anu', 1
+'plotêgê', 1
+'realizá', 1
+'lugué', 1
+'mendu', 1
+'plesu', 1
+'dôtôlô', 1
+'obligué', 1
+'constituiçón', 1
+'dezemblo', 1
+'cloçón', 1
+'tirania', 1
+'gozo', 1
+'xiná', 1
+'disenvolvê', 1
+'ploteçon', 1
+'platicá', 1
+'duentxi', 1
+'quê', 1
+'dêfêndê', 1
+'pessoal', 1
+'secleto', 1
+'blagá', 1
+'castigá', 1
+'valê', 1
+'declará', 1
+'descanso', 1
+'desenvolvê', 1
+'condená', 1
+'sôflê', 1
+'patxi', 1
+'lesovido', 1
+'complomissu', 1
+'implicá', 1
+'stê', 1
+'autoridade', 1
+'lôpa', 1
+'cunxensa', 1
+'sluviçu', 1
+'honra', 1
+'saclifiçu', 1
+'sindicato', 1
+'fundá', 1
+'conselhá', 1
+'miséria', 1
+'flomá', 1
+'recurso', 1
+'estatuto', 1
+'ploibido', 1
+'mó', 1
+'tipu', 1
+'zuda', 1
+'govenu', 1
+'bendê', 1
+'mandamento', 1
+'patlón', 1
+'vê', 1
+'otlô', 1
+'podê', 1
+'ndá', 1
+'bén', 1
+'antê', 1
+'alén', 1
+'lumón', 1
+'casta', 1
+'assistência', 1
+'só', 1
+'cultura', 1
+'justu', 1
+'malvadez', 1
+'técnico', 1
+'fá', 1
+'proteçón', 1
+'data', 1
+'región', 1
+'quêlê', 1
+'pleâmbulo', 1
+'lentlá', 1
+'ligime', 1
+'ubuê', 1
+'saôji', 1
+'cursu', 1
+'bêndê', 1
+'sén', 1
+'inventá', 1
+'tlaté', 1
+'lutá', 1
+'discliminaçón', 1
+'povo', 1
+'sexo', 1
+'incomodá', 1
+'plotegido', 1
+'glupo', 1
+'luclá', 1
+'ne', 1
+'cultural', 1
+'material', 1
+'superior', 1
+'tençón', 1
+'concê', 1
+'toqué', 1
+'gêlu', 1
+'juntá', 1
+'democracia', 1
+'migida', 1
+'momento', 1
+'pensamentu', 1
+'uangá', 1
+'reputaçón', 1
+'ploculá', 1
+'pagá', 1
+'coplá', 1
+'pé', 1
+'literário', 1
+'meio', 1
+'displêzu', 1
+'tudo', 1
+'assunto', 1
+'mlacado', 1
+'goló', 1
+'andji', 1
+'afliçón', 1
+'pensá', 1
+'non', 1
+'côlô', 1
+
+Самые частотные биграммы:
+('tudu', 'nguê'), 39
+('dirêtu', 'di'), 34
+('artigo', 'º'), 30
+('tê', 'dirêtu'), 29
+('º', 'tudu'), 25
+('nguê', 'tê'), 23
+('ca', 'pô'), 21
+('na', 'ca'), 18
+('ua', 'nguê'), 12
+('a', 'na'), 12
+('di', 'téla'), 10
+('di', 'dirêtu'), 10
+('e', 'di'), 10
+('tudu', 'cuá'), 9
+('di', 'hómé'), 9
+('fa', 'artigo'), 8
+('cu', 'sá'), 7
+('dirêtu', 'cu'), 7
+('cuá', 'cu'), 7
+('dê', 'fa'), 7
+('cu', 'ca'), 7
+('xi', 'ê'), 7
+('ê', 'tê'), 7
+('di', 'liberdade'), 6
+('ni', 'tudu'), 6
+('ê', 'sá'), 6
+('téla', 'dê'), 6
+('di', 'tudu'), 6
+('nguê', 'cu'), 6
+('liberdade', 'di'), 6
+('cu', 'liberdade'), 6
+('nê', 'ua'), 5
+('nguê', 'di'), 5
+('pê', 'pô'), 5
+('naçón', 'unida'), 5
+('di', 'naçón'), 4
+('sé', 'na'), 4
+('di', 'mundu'), 4
+('pa', 'tudu'), 4
+('hómé', 'cu'), 4
+('declaraçón', 'sé'), 4
+('di', 'fé'), 4
+('ni', 'ua'), 4
+('sá', 'ni'), 4
+('e', 'ê'), 4
+('maxi', 'importanti'), 4
+('nguê', 'ca'), 4
+('cu', 'tudu'), 4
+('cuê', 'mêssê'), 4
+('ôtlo', 'nguê'), 3
+('di', 'sociedade'), 3
+('fé', 'tudu'), 3
+('lei', 'di'), 3
+('na', 'sá'), 3
+('nguê', 'fa'), 3
+('º', 'nê'), 3
+('nen', 'ca'), 3
+('ô', 'di'), 3
+('ni', 'dirêtu'), 3
+('di', 'estado'), 3
+('fa', 'xi'), 3
+('liberdade', 'cu'), 3
+('di', 'tê'), 3
+('mali', 'sé'), 3
+('qualqué', 'cuá'), 3
+('sé', 'artigo'), 3
+('ni', 'declaraçón'), 3
+('cuê', 'fé'), 3
+('baseado', 'ni'), 3
+('ê', 'na'), 3
+('dê', 'e'), 3
+('fé', 'pa'), 3
+('liberdade', 'maxi'), 3
+('di', 'justiça'), 3
+('familia', 'dê'), 3
+('qualqué', 'nguê'), 3
+('sê', 'motivo'), 3
+('di', 'telá'), 3
+('fa', 'ni'), 3
+('e', 'ni'), 3
+('cu', 'cá'), 2
+('na', 'txilé'), 2
+('cumpli', 'lei'), 2
+('ôtlo', 'téla'), 2
+('andeji', 'ê'), 2
+('mundu', 'e'), 2
+('contla', 'tudu'), 2
+('mêssê', 'artigo'), 2
+('maxi', 'pesado'), 2
+('mali', 'pena'), 2
+('desenvolvimento', 'di'), 2
+('ni', 'cata'), 2
+('ô', 'religión'), 2
+('selá', 'lei'), 2
+('naxi', 'tê'), 2
+('sé', 'a'), 2
+('importanti', 'cu'), 2
+('tudu', 'estado'), 2
+('nguê', 'na'), 2
+('pô', 'vivê'), 2
+('zisti', 'ni'), 2
+('sociedade', 'e'), 2
+('ni', 'glupu'), 2
+('religión', 'ô'), 2
+('di', 'segurança'), 2
+('pô', 'plijudicá'), 2
+('pô', 'obligá'), 2
+('di', 'pensamento'), 2
+('dirêtu', 'sé'), 2
+('fé', 'mali'), 2
+('pô', 'txilá'), 2
+('di', 'religión'), 2
+('contla', 'qualqué'), 2
+('declaraçón', 'universal'), 2
+('selá', 'ê'), 2
+('cu', 'di'), 2
+('sá', 'cuá'), 2
+('ké', 'dê'), 2
+('tan', 'ô'), 2
+('organizaçón', 'di'), 2
+('amizade', 'entre'), 2
+('ni', 'lei'), 2
+('cuá', 'sé'), 2
+('mêmu', 'dirêtu'), 2
+('di', 'participá'), 2
+('sé', 'ca'), 2
+('segurança', 'social'), 2
+('cuá', 'vedé'), 2
+('cuá', 'di'), 2
+('nen', 'sá'), 2
+('hómé', 'sé'), 2
+('tê', 'mêmu'), 2
+('importante', 'lumadu'), 2
+('tudu', 'hómé'), 2
+('nguê', 'sê'), 2
+('cuma', 'nen'), 2
+('livli', 'e'), 2
+('sá', 'importante'), 2
+('pô', 'flá'), 2
+('tê', 'ua'), 2
+('pô', 'sa'), 2
+('pô', 'mandá'), 2
+('universal', 'di'), 2
+('cu', 'mêssê'), 2
+('ê', 'mêssê'), 2
+('entre', 'tudu'), 2
+('mêssê', 'tudu'), 2
+('e', 'nen'), 2
+('ni', 'livlu'), 2
+('ploteçón', 'di'), 2
+('estado', 'memblu'), 2
+('nguê', 'sé'), 2
+('tudu', 'dirêtu'), 2
+('ê', 'ca'), 2
+('xi', 'ni'), 2
+('cu', 'muala'), 2
+('livlu', 'di'), 2
+('dê', 'contla'), 2
+('contla', 'vonté'), 2
+('tudu', 'pôvô'), 2
+('e', 'sê'), 2
+('e', 'a'), 2
+('vonté', 'di'), 2
+('cu', 'sa'), 2
+('pa', 'zisti'), 2
+('sá', 'obligado'), 2
+('sá', 'base'), 2
+('ni', 'plano'), 2
+('sê', 'distinçón'), 2
+('dê', 'tudu'), 2
+('nacionalidade', 'dê'), 2
+('cu', 'familia'), 2
+('nen', 'tê'), 2
+('cu', 'na'), 2
+('fa', 'e'), 2
+('participá', 'ni'), 2
+('lispêtu', 'di'), 2
+('ensino', 'básico'), 2
+('assembleia', 'geral'), 2
+('di', 'ploteçón'), 2
+('telá', 'dê'), 2
+('cu', 'ôtlo'), 2
+('cu', 'justiça'), 2
+('pô', 'fé'), 2
+('situaçón', 'cu'), 2
+('di', 'qualqué'), 2
+('e', 'selá'), 2
+('fé', 'qualqué'), 2
+('ni', 'tlibunal'), 2
+('ô', 'xi'), 2
+('punda', 'ê'), 2
+('cu', 'nen'), 2
+('cu', 'a'), 2
+('pa', 'pô'), 2
+('téla', 'e'), 2
+('téla', 'di'), 2
+('mina', 'piquina'), 2
+('pensamento', 'di'), 1
+('e', 'igual'), 1
+('fa', 'óla'), 1
+('mundu', 'ca'), 1
+('plano', 'social'), 1
+('mó', 'fala'), 1
+('tudu', 'assunto'), 1
+('ni', 'ducumento'), 1
+('sé', 'ni'), 1
+('mundu', 'cu'), 1
+('ola', 'cu'), 1
+('pô', 'sê'), 1
+('glupu', 'ô'), 1
+('dé', 'ploteçón'), 1
+('cá', 'plovocá'), 1
+('gêlo', 'sé'), 1
+('dê', 'modo'), 1
+('govenu', 'e'), 1
+('ola', 'casá'), 1
+('cu', 'ê'), 1
+('sé', 'selá'), 1
+('familia', 'ola'), 1
+('cuma', 'ultimu'), 1
+('félia', 'tudu'), 1
+('recurso', 'livolta'), 1
+('sá', 'plotegido'), 1
+('pensamento', 'político'), 1
+('pena', 'sé'), 1
+('conviçón', 'ua'), 1
+('esclavatura', 'cu'), 1
+('cunxensa', 'selá'), 1
+('casadu', 'fa'), 1
+('di', 'lutá'), 1
+('cuá', 'buá'), 1
+('propriedade', 'a'), 1
+('di', 'vida'), 1
+('universal', 'e'), 1
+('migida', 'di'), 1
+('pôji', 'pá'), 1
+('sê', 'fé'), 1
+('ploibido', 'artigo'), 1
+('e', 'cultural'), 1
+('pena', 'cu'), 1
+('ba', 'ôtlo'), 1
+('manifestá', 'ni'), 1
+('inventá', 'punda'), 1
+('región', 'dê'), 1
+('di', 'glupo'), 1
+('constituiçón', 'e'), 1
+('ni', 'ôtlo'), 1
+('resoluçón', 'di'), 1
+('ô', 'ni'), 1
+('piquina', 'mêmu'), 1
+('laça', 'di'), 1
+('sé', 'andeji'), 1
+('motivo', 'fa'), 1
+('inem', 'igual'), 1
+('di', 'muala'), 1
+('superior', 'selá'), 1
+('téla', 'punda'), 1
+('di', 'amizade'), 1
+('dependenxa', 'fa'), 1
+('ua', 'téla'), 1
+('fa', 'sá'), 1
+('sa', 'êlê'), 1
+('cuá', 'cuê'), 1
+('fá', 'artigo'), 1
+('democracia', 'sá'), 1
+('momento', 'cuê'), 1
+('ne', 'ua'), 1
+('di', 'bilá'), 1
+('mêssê', 'e'), 1
+('piá', 'laça'), 1
+('e', 'pa'), 1
+('di', 'saôji'), 1
+('justu', 'cu'), 1
+('sé', 'fa'), 1
+('tudo', 'nguê'), 1
+('ultimu', 'recurso'), 1
+('dentlu', 'di'), 1
+('non', 'ni'), 1
+('patlón', 'ô'), 1
+('contla', 'cusaçón'), 1
+('tê', 'cumé'), 1
+('a', 'saclifiçu'), 1
+('nguê', 'sá'), 1
+('selá', 'déssé'), 1
+('cata', 'dê'), 1
+('selá', 'patlón'), 1
+('ba', 'téla'), 1
+('ca', 'violá'), 1
+('di', 'pidji'), 1
+('e', 'coiê'), 1
+('plesseguido', 'ni'), 1
+('vivê', 'contla'), 1
+('mudá', 'di'), 1
+('téla', 'pô'), 1
+('tudu', 'organizaçón'), 1
+('nacionalidade', 'ô'), 1
+('cabeça', 'fa'), 1
+('ê', 'cumpli'), 1
+('di', 'educaçón'), 1
+('povo', 'sá'), 1
+
+Самые частотные триграммы:
+('tê', 'dirêtu', 'di'), 28
+('artigo', 'º', 'tudu'), 25
+('º', 'tudu', 'nguê'), 22
+('tudu', 'nguê', 'tê'), 22
+('nguê', 'tê', 'dirêtu'), 19
+('na', 'ca', 'pô'), 15
+('a', 'na', 'ca'), 11
+('fa', 'artigo', 'º'), 8
+('dirêtu', 'cu', 'liberdade'), 6
+('ê', 'tê', 'dirêtu'), 6
+('dirêtu', 'di', 'hómé'), 6
+('tudu', 'nguê', 'cu'), 6
+('tudu', 'cuá', 'cu'), 5
+('di', 'téla', 'dê'), 5
+('di', 'dirêtu', 'di'), 5
+('cu', 'sá', 'ni'), 4
+('nê', 'ua', 'nguê'), 4
+('di', 'naçón', 'unida'), 4
+('dirêtu', 'di', 'tê'), 3
+('sé', 'artigo', 'º'), 3
+('º', 'nê', 'ua'), 3
+('nguê', 'ca', 'pô'), 3
+('dê', 'fa', 'ni'), 3
+('sé', 'na', 'ca'), 3
+('ua', 'nguê', 'fa'), 3
+('artigo', 'º', 'nê'), 3
+('di', 'liberdade', 'di'), 3
+('pa', 'tudu', 'nguê'), 3
+('ni', 'declaraçón', 'sé'), 3
+('fé', 'tudu', 'cuá'), 3
+('ca', 'pô', 'obligá'), 2
+('ô', 'xi', 'ê'), 2
+('nacionalidade', 'dê', 'fa'), 2
+('ca', 'pô', 'mandá'), 2
+('nguê', 'cu', 'mêssê'), 2
+('e', 'a', 'na'), 2
+('sé', 'a', 'na'), 2
+('universal', 'di', 'dirêtu'), 2
+('fé', 'qualqué', 'cuá'), 2
+('liberdade', 'cu', 'sá'), 2
+('sá', 'ni', 'declaraçón'), 2
+('sá', 'importante', 'lumadu'), 2
+('declaraçón', 'universal', 'di'), 2
+('fa', 'e', 'a'), 2
+('cuê', 'mêssê', 'tudu'), 2
+('ni', 'livlu', 'di'), 2
+('nguê', 'na', 'ca'), 2
+('cu', 'familia', 'dê'), 2
+('cuê', 'fé', 'mali'), 2
+('di', 'mundu', 'e'), 2
+('qualqué', 'cuá', 'cu'), 2
+('amizade', 'entre', 'tudu'), 2
+('tudu', 'cuá', 'di'), 2
+('dirêtu', 'di', 'liberdade'), 2
+('hómé', 'cu', 'muala'), 2
+('cu', 'tudu', 'nguê'), 2
+('fa', 'xi', 'ni'), 2
+('dirêtu', 'di', 'participá'), 2
+('liberdade', 'maxi', 'importanti'), 2
+('di', 'fé', 'qualqué'), 2
+('mêssê', 'artigo', 'º'), 2
+('cu', 'liberdade', 'cu'), 2
+('xi', 'ê', 'na'), 2
+('nguê', 'cu', 'sá'), 2
+('ê', 'ca', 'pô'), 2
+('di', 'hómé', 'sé'), 2
+('ê', 'mêssê', 'artigo'), 2
+('di', 'dirêtu', 'cu'), 2
+('tudu', 'nguê', 'di'), 2
+('maxi', 'importanti', 'cu'), 2
+('tudu', 'dirêtu', 'cu'), 2
+('lispêtu', 'di', 'dirêtu'), 2
+('ca', 'pô', 'plijudicá'), 2
+('ua', 'nguê', 'na'), 2
+('sá', 'cuá', 'vedé'), 2
+('tudu', 'nguê', 'sê'), 2
+('e', 'ê', 'tê'), 2
+('cu', 'ôtlo', 'nguê'), 2
+('di', 'participá', 'ni'), 2
+('nguê', 'di', 'fé'), 2
+('nguê', 'di', 'mundu'), 2
+('di', 'telá', 'dê'), 2
+('di', 'hómé', 'cu'), 2
+('tudu', 'nguê', 'ca'), 2
+('dirêtu', 'di', 'ploteçón'), 2
+('tê', 'mêmu', 'dirêtu'), 2
+('ca', 'pô', 'txilá'), 2
+('fé', 'pa', 'tudu'), 2
+('tudu', 'estado', 'memblu'), 2
+('fé', 'mali', 'pena'), 2
+('mali', 'sé', 'artigo'), 2
+('livlu', 'di', 'justiça'), 2
+('cuá', 'cu', 'sá'), 2
+('sá', 'obligado', 'utilizá'), 1
+('entre', 'tudu', 'téla'), 1
+('di', 'justiça', 'internacional'), 1
+('glupu', 'sé', 'fa'), 1
+('sé', 'plotêgê', 'tudu'), 1
+('laça', 'di', 'côlô'), 1
+('dêfêndê', 'ubuê', 'dê'), 1
+('ca', 'dá', 'pê'), 1
+('tocá', 'zisti', 'ni'), 1
+('tudaxi', 'e', 'ê'), 1
+('inem', 'igual', 'e'), 1
+('naçón', 'unida', 'ca'), 1
+('ni', 'lei', 'artigo'), 1
+('fô', 'ploclamadu', 'cuma'), 1
+('di', 'estado', 'vonté'), 1
+('pagá', 'ensino', 'básico'), 1
+('di', 'tê', 'ua'), 1
+('ô', 'zuntadu', 'cu'), 1
+('iii', 'di', 'di'), 1
+('stluviçu', 'di', 'téla'), 1
+('ca', 'pô', 'toqué'), 1
+('clime', 'ô', 'xi'), 1
+('antê', 'cu', 'a'), 1
+('qualqué', 'ôtlo', 'situaçón'), 1
+('ôtlo', 'nguê', 'publicamente'), 1
+('piá', 'laça', 'nacionalidade'), 1
+('ua', 'associaçón', 'fá'), 1
+('fa', 'nê', 'obligué'), 1
+('tê', 'ua', 'nacionalidade'), 1
+('cunxença', 'e', 'di'), 1
+('condená', 'ua', 'nguê'), 1
+('ô', 'muala', 'casadu'), 1
+('glupu', 'cu', 'otlô'), 1
+('e', 'andeji', 'cu'), 1
+('qualqué', 'nguê', 'ca'), 1
+('nguê', 'pá', 'fundá'), 1
+('resoluçón', 'di', 'iii'), 1
+('ca', 'pô', 'dé'), 1
+('nguê', 'tê', 'liberdade'), 1
+('dependenxa', 'zá', 'ô'), 1
+('ploglesso', 'social', 'pa'), 1
+('naçón', 'unida', 'ploclamá'), 1
+('ni', 'tlibunal', 'cu'), 1
+('cata', 'dê', 'fa'), 1
+('sá', 'nôcentxi', 'antê'), 1
+('º', 'tudu', 'hómé'), 1
+('livolta', 'contla', 'tirania'), 1
+('sa', 'livli', 'pê'), 1
+('ni', 'glupu', 'sé'), 1
+('liberdade', 'di', 'voto'), 1
+('geral', 'ploclamá', 'ni'), 1
+('e', 'di', 'religión'), 1
+('mundu', 'cu', 'tudu'), 1
+('cu', 'ca', 'castigá'), 1
+('nguê', 'cu', 'tudu'), 1
+('opinión', 'dê', 'e'), 1
+('dirêtu', 'di', 'ndá'), 1
+('lumadu', 'pa', 'hómé'), 1
+('zisti', 'ni', 'tudu'), 1
+('de', 'ua', 'associaçón'), 1
+('sá', 'esclito', 'ni'), 1
+('hómé', 'sé', 'cuma'), 1
+('e', 'óla', 'cu'), 1
+('di', 'conheximentu', 'e'), 1
+('pê', 'cumpli', 'lei'), 1
+('zisti', 'contla', 'vonté'), 1
+('dezemblo', 'di', 'pleâmbulo'), 1
+('dê', 'tê', 'cumé'), 1
+('tudu', 'hómé', 'di'), 1
+('e', 'dirêtu', 'd'), 1
+('xi', 'ê', 'naxi'), 1
+('pa', 'plomovê', 'lispêtu'), 1
+('ê', 'sá', 'êlê'), 1
+('cuá', 'cu', 'cá'), 1
+('dirêtu', 'sé', 'na'), 1
+('opressón', 'punda', 'ê'), 1
+('esclavo', 'sá', 'ploibido'), 1
+('dê', 'fa', 'nê'), 1
+('e', 'cu', 'tudu'), 1
+('di', 'ndá', 'e'), 1
+('ploteçón', 'di', 'sociedade'), 1
+('internacional', 'ua', 'modo'), 1
+('malvadez', 'cu', 'ca'), 1
+('cuma', 'nen', 'ca'), 1
+('e', 'coiê', 'ké'), 1
+('mali', 'pena', 'cu'), 1
+('plomovê', 'ni', 'cooperaçón'), 1
+('pô', 'concê', 'e'), 1
+('nguê', 'di', 'téla'), 1
+('declaraçón', 'sé', 'sá'), 1
+('quêlê', 'ni', 'cuá'), 1
+('unida', 'ca', 'fé'), 1
+('hómé', 'ô', 'muala'), 1
+('pô', 'platicá', 'tudu'), 1
+('natureza', 'di', 'téla'), 1
+('govenu', 'e', 'gozo'), 1
+('mundu', 'punda', 'fata'), 1
+('sén', 'fa', 'artigo'), 1
+('passá', 'afliçón', 'tudu'), 1
+('di', 'proteçón', 'di'), 1
+('selá', 'patlón', 'ô'), 1
+('importante', 'lumadu', 'conselhá'), 1
+('alén', 'di', 'cuá'), 1
+('nen', 'declará', 'cuma'), 1
+('selá', 'educaçón', 'contribui'), 1
+('patxi', 'de', 'ua'), 1
+('cu', 'tudu', 'organizaçón'), 1
+('ni', 'cuá', 'cuê'), 1
+('sa', 'ni', 'glupu'), 1
+('sê', 'piá', 'laça'), 1
+('ni', 'tudu', 'xitu'), 1
+('di', 'tudo', 'nguê'), 1
+('pensamento', 'di', 'cunxença'), 1
+('di', 'bilá', 'ba'), 1
+('pô', 'vivê', 'contla'), 1
+('bilá', 'ba', 'téla'), 1
+('di', 'téla', 'ô'), 1
+('di', 'cunxença', 'e'), 1
+('interesse', 'di', 'glupo'), 1
+('dirêtu', 'sé', 'ca'), 1
+('di', 'ploteçón', 'social'), 1
+('dirêtu', 'e', 'liberdade'), 1
+('sá', 'ploibido', 'artigo'), 1
+('cu', 'assembleia', 'geral'), 1
+('sá', 'ni', 'ducumento'), 1
+('sê', 'motivo', 'qualqué'), 1
+('ca', 'gozá', 'dirêtu'), 1
+('nguê', 'fa', 'xi'), 1
+('tudu', 'nguê', 'xi'), 1
+('e', 'di', 'liberdade'), 1
+('conheximentu', 'e', 'displêzu'), 1
+('téla', 'dê', 'tudu'), 1
+('tirania', 'e', 'opressón'), 1
+('ni', 'constituiçón', 'e'), 1
+('tan', 'ô', 'zuntadu'), 1
+('ké', 'dôtôlô', 'cu'), 1
+('pê', 'pô', 'flá'), 1
+('dirêtu', 'di', 'bilá'), 1
+('goló', 'lêcêbê', 'e'), 1
+('liberdade', 'selá', 'ê'), 1
+('fé', 'artigo', 'º'), 1
+('ca', 'pô', 'zisti'), 1
+('ca', 'desenvolvê', 'fa'), 1
+('familia', 'dê', 'tê'), 1
+('flá', 'ni', 'dirêtu'), 1
+('a', 'ca', 'julgué'), 1
+('cu', 'ca', 'violá'), 1
+('n', 'ôtlô', 'situaçón'), 1
+('baseado', 'ni', 'estatuto'), 1
+('ni', 'democracia', 'sá'), 1
+('andeji', 'ê', 'tocá'), 1
+('sluviçu', 'fa', 'tudu'), 1
+('ca', 'dé', 'meio'), 1
+('contla', 'qualqué', 'cuá'), 1
+('fa', 'ni', 'familia'), 1
+('ô', 'conviçón', 'ua'), 1
+('internacional', 'a', 'na'), 1
+('tudu', 'pé', 'só'), 1
+('mundu', 'pô', 'fé'), 1
+('tocá', 'pagá', 'ensino'), 1
+('tudu', 'téla', 'punda'), 1
+('sê', 'mendu', 'e'), 1
+('sé', 'cu', 'justiça'), 1
+('mundu', 'e', 'dirêtu'), 1
+('ni', 'plano', 'internacional'), 1
+('democracia', 'sá', 'cuá'), 1
+('nguê', 'xi', 'ê'), 1
+('sé', 'sê', 'distinçón'), 1
+('justiça', 'internacional', 'a'), 1
+('maxi', 'nglandji', 'punda'), 1
+('ni', 'ua', 'ligime'), 1
+('mlacado', 'zá', 'ni'), 1
+('fa', 'tudu', 'nguê'), 1
+('milhó', 'vida', 'ni'), 1
+('tudu', 'nguê', 'sé'), 1
+('ca', 'violá', 'dirêtu'), 1
+('pô', 'bêndê', 'fa'), 1
+('ploteçón', 'di', 'dirêtu'), 1
+('pô', 'obligá', 'ne'), 1
+('di', 'sociedade', 'ê'), 1
+('cá', 'plovocá', 'mali'), 1
+('vedé', 'tudu', 'dirêtu'), 1
+('mêssê', 'fé', 'cursu'), 1
+('vivê', 'baleladu', 'cu'), 1
+('lecolê', 'ni', 'stluviçu'), 1
+('voto', 'secleto', 'e'), 1
+('di', 'tlabá', 'di'), 1
+('e', 'di', 'coperaçón'), 1
+('na', 'sá', 'mina'), 1
+('nê', 'di', 'téla'), 1
+('ô', 'di', 'sociedade'), 1
+('cuá', 'buá', 'pa'), 1
+('duentxi', 'xi', 'ê'), 1
+('familia', 'dê', 'sê'), 1
+('lei', 'di', 'telá'), 1
+('e', 'ê', 'sá'), 1
+('tudu', 'laça', 'ô'), 1
+('mina', 'di', 'hómé'), 1
+('dê', 'e', 'di'), 1
+('liberdade', 'maxi', 'nglandji'), 1
+('tê', 'cunxensa', 'selá'), 1
+('pô', 'na', 'txilé'), 1
+('ni', 'momento', 'cuê'), 1
+('ê', 'sôflê', 'acidente'), 1
+('obligué', 'mudá', 'nacionalidade'), 1
+('sê', 'discliminaçón', 'cu'), 1
+('sá', 'plesseguido', 'ni'), 1

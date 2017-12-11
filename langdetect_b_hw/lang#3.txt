@@ -1,0 +1,905 @@
+Самые частотные слова:
+'mu', 184
+'ni', 154
+'o', 121
+'ua', 86
+'ku', 83
+'kia', 72
+'uoso', 64
+'mba', 61
+'mutu', 54
+'ubinganu', 47
+'ia', 42
+'a', 38
+'kua', 37
+'uê', 29
+'ixi', 27
+'uala', 27
+'ufolo', 24
+'atu', 24
+'se', 22
+'dia', 22
+'ka', 21
+'tokala', 20
+'ma', 17
+'ioso', 17
+'ja', 16
+'ngongo', 16
+'kioso', 16
+'ujitu', 13
+'iê', 13
+'kala', 12
+'kale', 11
+'kana', 11
+'makuinhi', 11
+'kisangela', 11
+'jixi', 10
+'ki', 10
+'kuila', 10
+'akale', 10
+'ibatu', 10
+'dikuinhi', 10
+'kionge', 10
+'kikalakalu', 10
+'bu', 10
+'katungu', 9
+'oso', 9
+'kanaku', 9
+'aiadi', 9
+'kubanga', 9
+'kuijia', 9
+'kutena', 8
+'maka', 8
+'mutokala', 8
+'muene', 8
+'dikuatekesu', 8
+'ala', 8
+'dimatekenu', 7
+'ukaza', 7
+'kutetulula', 7
+'ikalakalu', 7
+'ene', 7
+'bange', 7
+'bana', 7
+'kumoxi', 6
+'ihi', 6
+'kukala', 6
+'kimoxi', 6
+'jihundu', 6
+'kusota', 6
+'kiki', 6
+'kudilonga', 5
+'akua', 5
+'mabata', 5
+'nguzu', 5
+'ditala', 5
+'kikuma', 5
+'imbamba', 5
+'uhu', 5
+'kuê', 4
+'kubana', 4
+'ubika', 4
+'u', 4
+'kiambote', 4
+'mukanda', 4
+'kambe', 4
+'utuminu', 4
+'kibuka', 4
+'afundixi', 4
+'kiene', 4
+'kitangana', 4
+'tenena', 3
+'kio', 3
+'utena', 3
+'kiadi', 3
+'kuatekesa', 3
+'kisangusangu', 3
+'umoxi', 3
+'mesena', 3
+'mokonda', 3
+'atena', 3
+'kixinganeku', 3
+'kanga', 3
+'jindandu', 3
+'dinake', 3
+'kaxiaxi', 3
+'muhatu', 3
+'pe', 3
+'kiê', 3
+'dikota', 3
+'ibuka', 3
+'kubixila', 3
+'bangesa', 3
+'diê', 3
+'bixila', 3
+'kidi', 3
+'kiandala', 3
+'muiji', 3
+'ukunji', 3
+'ne', 3
+'kilondekesu', 3
+'kituxi', 3
+'te', 3
+'nembe', 3
+'ijila', 3
+'kusola', 3
+'divua', 3
+'die', 3
+'muaxaxi', 3
+'jinguvulu', 3
+'diala', 3
+'kuoso', 3
+'andala', 3
+'mukua', 3
+'jengi', 2
+'nzambi', 2
+'uvualukilu', 2
+'kifuxi', 2
+'mo', 2
+'kilunji', 2
+'kididi', 2
+'ke', 2
+'kudibana', 2
+'didi', 2
+'kiuana', 2
+'jimbandu', 2
+'ikuma', 2
+'kuendesa', 2
+'axaxi', 2
+'vualela', 2
+'kuata', 2
+'hadi', 2
+'kitungu', 2
+'londekesa', 2
+'dimoxi', 2
+'ituminu', 2
+'kusokela', 2
+'kuxisa', 2
+'kosokana', 2
+'ifua', 2
+'kuzediua', 2
+'ukamba', 2
+'mabanzelu', 2
+'ufunu', 2
+'ikoka', 2
+'uonene', 2
+'kikoue', 2
+'kukatula', 2
+'ikale', 2
+'kiu', 2
+'dikuatenenu', 2
+'fuamena', 2
+'kitanu', 2
+'kue', 2
+'muxima', 2
+'ulongeselu', 2
+'kuandala', 2
+'kaxaxi', 2
+'kuxikana', 2
+'henda', 2
+'kumu', 2
+'kitena', 2
+'kamukua', 2
+'jimbambe', 2
+'dibandulukilu', 2
+'kuzuela', 2
+'udandu', 2
+'kikangu', 2
+'kudituna', 2
+'kisamanu', 2
+'kitatu', 2
+'joso', 2
+'kumutela', 2
+'kibangesa', 2
+'jimbanbe', 2
+'muenhu', 2
+'kutunga', 2
+'mbandu', 2
+'dingi', 2
+'kikonda', 2
+'kidika', 2
+'vuala', 2
+'kubatula', 2
+'atumini', 2
+'nia', 2
+'akuetu', 2
+'iú', 2
+'ta', 2
+'kikexilu', 2
+'ngo', 2
+'inzo', 2
+'uvalelu', 2
+'ie', 2
+'mbote', 2
+'moso', 2
+'kijimbuete', 2
+'kie', 2
+'jioso', 2
+'matunda', 2
+'mueniu', 1
+'akuamukua', 1
+'engi', 1
+'kutatama', 1
+'kukuata', 1
+'idikiza', 1
+'ubangesa', 1
+'uana', 1
+'unzambi', 1
+'idiandu', 1
+'kusanha', 1
+'mujijidila', 1
+'kusokelela', 1
+'upange', 1
+'binganu', 1
+'ukale', 1
+'muêniu', 1
+'kubanza', 1
+'kiena', 1
+'kutumina', 1
+'kole', 1
+'uixi', 1
+'futa', 1
+'jimbongo', 1
+'uenji', 1
+'adikola', 1
+'mogongo', 1
+'kuxinganeka', 1
+'mikanda', 1
+'kilembu', 1
+'si', 1
+'ulembua', 1
+'musumbula', 1
+'tena', 1
+'uambe', 1
+'kuendi', 1
+'kunhoha', 1
+'abixile', 1
+'beta', 1
+'avulu', 1
+'suamena', 1
+'mundele', 1
+'kusanguluka', 1
+'fundisa', 1
+'sambuadi', 1
+'disoneku', 1
+'akitena', 1
+'mê', 1
+'tobesa', 1
+'sambela', 1
+'bangé', 1
+'mukuata', 1
+'kusansumuka', 1
+'unjenje', 1
+'dikangu', 1
+'tatu', 1
+'okikuma', 1
+'tululuka', 1
+'kitumu', 1
+'kiahiba', 1
+'muala', 1
+'talesa', 1
+'mukusokela', 1
+'kutanga', 1
+'kubulula', 1
+'kifua', 1
+'musokani', 1
+'kunangenena', 1
+'buisa', 1
+'iuka', 1
+'kuijihisa', 1
+'jinzumbi', 1
+'itena', 1
+'azuele', 1
+'kidifua', 1
+'dizubilu', 1
+'kutetuluka', 1
+'naiú', 1
+'kohonene', 1
+'naiu', 1
+'kuiuka', 1
+'uabesa', 1
+'homa', 1
+
+Самые частотные биграммы:
+('mutu', 'uoso'), 28
+('uoso', 'uoso'), 27
+('ubinganu', 'ua'), 25
+('ni', 'ubinganu'), 22
+('uala', 'ni'), 20
+('uoso', 'uala'), 18
+('ni', 'ufolo'), 12
+('o', 'ubinganu'), 10
+('ixi', 'iê'), 10
+('ufolo', 'ua'), 10
+('makuinhi', 'aiadi'), 9
+('a', 'mu'), 9
+('mu', 'ku'), 9
+('dikuinhi', 'ni'), 9
+('kana', 'ku'), 8
+('ku', 'mutu'), 8
+('aiadi', 'ni'), 8
+('mutu', 'a'), 8
+('atu', 'oso'), 8
+('ujitu', 'ua'), 8
+('kia', 'mutokala'), 8
+('ua', 'tokala'), 8
+('ni', 'ku'), 7
+('mu', 'ngongo'), 7
+('ku', 'kala'), 7
+('uê', 'mu'), 7
+('mba', 'mu'), 7
+('uê', 'ni'), 7
+('o', 'kutetulula'), 6
+('kuila', 'o'), 6
+('uala', 'uê'), 6
+('kia', 'mu'), 6
+('ua', 'atu'), 6
+('kia', 'tokala'), 6
+('se', 'ua'), 6
+('ibatu', 'ia'), 6
+('kutetulula', 'kuila'), 6
+('kikalakalu', 'kia'), 6
+('bana', 'o'), 6
+('ngongo', 'ioso'), 6
+('kionge', 'kia'), 6
+('mu', 'kikalakalu'), 6
+('ku', 'mu'), 6
+('katungu', 'ka'), 5
+('mu', 'ibatu'), 5
+('mutu', 'mu'), 5
+('ku', 'kale'), 5
+('ala', 'ni'), 5
+('kisangela', 'kia'), 5
+('mba', 'ku'), 5
+('mu', 'ikalakalu'), 5
+('ubinganu', 'uhu'), 5
+('ikalakalu', 'ia'), 5
+('ni', 'a'), 5
+('atu', 'ni'), 4
+('mba', 'bu'), 4
+('kia', 'ubinganu'), 4
+('o', 'ku'), 4
+('a', 'ixi'), 4
+('ua', 'mutu'), 4
+('jihundu', 'ja'), 4
+('kioso', 'kioso'), 4
+('kutena', 'kua'), 4
+('ua', 'ku'), 4
+('kiambote', 'o'), 4
+('akale', 'ni'), 4
+('mu', 'ujitu'), 4
+('ni', 'kutena'), 4
+('kia', 'kisangela'), 4
+('mu', 'tokala'), 4
+('ufolo', 'ni'), 4
+('ubinganu', 'ni'), 4
+('utuminu', 'ua'), 4
+('kukala', 'ni'), 4
+('kua', 'atu'), 4
+('iê', 'ni'), 4
+('ku', 'bana'), 4
+('kala', 'ni'), 4
+('mu', 'kitangana'), 4
+('ni', 'ujitu'), 3
+('ia', 'afundixi'), 3
+('mu', 'kaxiaxi'), 3
+('kumoxi', 'mu'), 3
+('kuijia', 'kua'), 3
+('kia', 'ngongo'), 3
+('kitangana', 'kia'), 3
+('mu', 'bangesa'), 3
+('mu', 'kisangela'), 3
+('kaxiaxi', 'ka'), 3
+('o', 'maka'), 3
+('kia', 'atu'), 3
+('atu', 'mu'), 3
+('ubinganu', 'mu'), 3
+('ngongo', 'ni'), 3
+('mu', 'kixinganeku'), 3
+('ka', 'ixi'), 3
+('o', 'kuijia'), 3
+('uoso', 'ua'), 3
+('uoso', 'a'), 3
+('bu', 'ditala'), 3
+('mutokala', 'o'), 3
+('ni', 'mu'), 3
+('atu', 'a'), 3
+('kioso', 'ni'), 3
+('mu', 'ubinganu'), 3
+('ioso', 'o'), 3
+('ki', 'kale'), 3
+('kia', 'ixi'), 3
+('jinguvulu', 'ja'), 3
+('dia', 'kisangela'), 3
+('mu', 'kusota'), 3
+('ua', 'dikuatekesu'), 3
+('kala', 'mu'), 3
+('muaxaxi', 'ka'), 3
+('uoso', 'kia'), 3
+('ja', 'jixi'), 3
+('bu', 'kanga'), 3
+('dimatekenu', 'dia'), 3
+('kubanga', 'ni'), 3
+('ni', 'ma'), 3
+('bange', 'ni'), 3
+('o', 'kikalakalu'), 3
+('ufolo', 'mu'), 3
+('o', 'mutu'), 3
+('dinake', 'mutu'), 3
+('o', 'kudilonga'), 3
+('o', 'ixi'), 3
+('kilondekesu', 'kia'), 3
+('mu', 'kuatekesa'), 3
+('ioso', 'mu'), 3
+('ixi', 'ia'), 3
+('imbamba', 'ia'), 3
+('oso', 'mu'), 3
+('ditala', 'dia'), 3
+('ua', 'dimatekenu'), 2
+('kambe', 'o'), 2
+('se', 'ku'), 2
+('kimoxi', 'mutu'), 2
+('ua', 'ubinganu'), 2
+('bixila', 'mu'), 2
+('ni', 'divua'), 2
+('o', 'nguzu'), 2
+('ku', 'katungu'), 2
+('uê', 'mba'), 2
+('bu', 'kididi'), 2
+('uoso', 'ala'), 2
+('ja', 'ngongo'), 2
+('mu', 'vuala'), 2
+('kididi', 'kia'), 2
+('ibatu', 'ihi'), 2
+('nembe', 'ua'), 2
+('dia', 'kuijia'), 2
+('uoso', 'ni'), 2
+('mu', 'kikuma'), 2
+('ni', 'kitatu'), 2
+('ia', 'mu'), 2
+('kua', 'mu'), 2
+('mu', 'mukanda'), 2
+('kale', 'o'), 2
+('kia', 'ni'), 2
+('kifuxi', 'kia'), 2
+('jixi', 'ja'), 2
+('kidi', 'kioso'), 2
+('uoso', 'se'), 2
+('mu', 'kaxaxi'), 2
+('kudilonga', 'kua'), 2
+('kikuma', 'mba'), 2
+('ie', 'ni'), 2
+('kuendesa', 'o'), 2
+('mabata', 'ma'), 2
+('muene', 'ngo'), 2
+('ukaza', 'ni'), 2
+('ni', 'dikuatekesu'), 2
+('mu', 'ulongeselu'), 2
+('mu', 'utuminu'), 2
+('mutu', 'ni'), 2
+('ni', 'kiuana'), 2
+('kubixila', 'mu'), 2
+('ni', 'akale'), 2
+('ni', 'akua'), 2
+('kanaku', 'mutu'), 2
+('ni', 'ditala'), 2
+('kusota', 'o'), 2
+('kumoxi', 'ni'), 2
+('se', 'katungu'), 2
+('tokala', 'mu'), 2
+('kiene', 'kimoxi'), 2
+('mokonda', 'dia'), 2
+('mu', 'imbamba'), 2
+('mu', 'kuijia'), 2
+('mba', 'kana'), 2
+('ku', 'kuata'), 2
+('kuxisa', 'o'), 2
+('o', 'dikuatekesu'), 2
+('ia', 'mesena'), 2
+('ubinganu', 'umoxi'), 2
+('jioso', 'mu'), 2
+('uê', 'makuinhi'), 2
+('dikuatenenu', 'dia'), 2
+('tokala', 'a'), 2
+('ixi', 'mba'), 2
+('ia', 'ngongo'), 2
+('o', 'kusola'), 2
+('ku', 'bixila'), 2
+('nguzu', 'ia'), 2
+('kua', 'ixi'), 2
+('kisangusangu', 'mu'), 2
+('kixinganeku', 'kia'), 2
+('axaxi', 'ka'), 2
+('tenena', 'mu'), 2
+('ukaza', 'ene'), 2
+('ene', 'uoso'), 2
+('kia', 'muene'), 2
+('dia', 'ubinganu'), 2
+('atu', 'uoso'), 2
+('kibangesa', 'o'), 2
+('mu', 'bana'), 2
+('kale', 'mu'), 2
+('mu', 'kidi'), 2
+('oso', 'ala'), 2
+('o', 'jindandu'), 2
+('kioso', 'kia'), 2
+('mu', 'axaxi'), 2
+('kia', 'uvalelu'), 2
+('iê', 'kua'), 2
+('ni', 'kisamanu'), 2
+('jixi', 'jengi'), 2
+('kia', 'jixi'), 2
+('uhu', 'ni'), 2
+('ukaza', 'uê'), 2
+('mu', 'kiki'), 2
+('o', 'dimatekenu'), 2
+('ka', 'atu'), 2
+('kaxaxi', 'ka'), 2
+('mba', 'ua'), 2
+('o', 'ukaza'), 2
+('mu', 'dimatekenu'), 2
+('mu', 'kutena'), 2
+('muxima', 'ua'), 2
+('ni', 'dinake'), 2
+('ua', 'kambe'), 2
+('kiuana', 'mutu'), 2
+('diala', 'mba'), 2
+('tokala', 'ku'), 2
+('mba', 'jinguvulu'), 2
+('kitanu', 'mutu'), 2
+('ia', 'bange'), 2
+('divua', 'mutu'), 2
+('ua', 'kukala'), 2
+('mu', 'kionge'), 2
+('mu', 'kusokela'), 2
+('ua', 'dikota'), 2
+('atumini', 'a'), 2
+('mu', 'muenhu'), 2
+('o', 'kisangusangu'), 2
+('ku', 'jixi'), 2
+('ua', 'maka'), 2
+('kanaku', 'katungu'), 2
+('o', 'kusota'), 2
+('ioso', 'ni'), 2
+('ni', 'kuijia'), 2
+('ua', 'ufolo'), 2
+('mu', 'kikexilu'), 2
+('jixi', 'jioso'), 2
+('tokala', 'kubanga'), 2
+('o', 'dikuatenenu'), 2
+('ni', 'udandu'), 2
+('mabanzelu', 'ma'), 2
+('dikota', 'ni'), 2
+('ifua', 'ia'), 2
+('o', 'kikoue'), 2
+('kutena', 'kumoxi'), 2
+('ni', 'kimoxi'), 2
+('mu', 'ituminu'), 2
+('tokala', 'o'), 2
+('ubinganu', 'uoso'), 2
+('dikuatekesu', 'mu'), 2
+('mu', 'jihundu'), 2
+('kuandala', 'kua'), 2
+('jixi', 'joso'), 2
+('mba', 'muhatu'), 2
+('nguzu', 'mu'), 2
+('kubana', 'o'), 2
+('kuê', 'mu'), 2
+('ni', 'kia'), 2
+('kale', 'kua'), 2
+('kia', 'bange'), 2
+('kitungu', 'kia'), 2
+('ni', 'kiadi'), 2
+('kikangu', 'kia'), 2
+('kitatu', 'mutu'), 2
+('dikuatekesu', 'dia'), 2
+('tokala', 'uê'), 2
+('o', 'ujitu'), 2
+('kia', 'ufolo'), 2
+('ni', 'kitanu'), 2
+('ua', 'ixi'), 2
+('bangesa', 'o'), 2
+('ia', 'ku'), 2
+('ni', 'ia'), 2
+
+Самые частотные триграммы:
+('mutu', 'uoso', 'uoso'), 25
+('uoso', 'uala', 'ni'), 17
+('uoso', 'uoso', 'uala'), 16
+('ni', 'ubinganu', 'ua'), 15
+('uala', 'ni', 'ubinganu'), 15
+('makuinhi', 'aiadi', 'ni'), 8
+('ni', 'ufolo', 'ua'), 7
+('uala', 'uê', 'ni'), 6
+('ku', 'mutu', 'a'), 6
+('o', 'ubinganu', 'ua'), 5
+('kutetulula', 'kuila', 'o'), 5
+('kana', 'ku', 'mutu'), 5
+('mu', 'kikalakalu', 'kia'), 5
+('o', 'kutetulula', 'kuila'), 5
+('ku', 'bana', 'o'), 4
+('mu', 'ibatu', 'ia'), 4
+('ua', 'atu', 'ni'), 4
+('ixi', 'iê', 'ni'), 4
+('mu', 'ujitu', 'ua'), 4
+('mu', 'ikalakalu', 'ia'), 4
+('o', 'ubinganu', 'uhu'), 4
+('ala', 'ni', 'ubinganu'), 3
+('uoso', 'ua', 'tokala'), 3
+('dinake', 'mutu', 'uoso'), 3
+('bu', 'ditala', 'dia'), 3
+('ubinganu', 'ua', 'ku'), 3
+('ubinganu', 'ua', 'mutu'), 3
+('atu', 'oso', 'mu'), 3
+('uê', 'ni', 'ubinganu'), 3
+('kia', 'mutokala', 'o'), 3
+('uala', 'ni', 'kutena'), 3
+('mu', 'kaxiaxi', 'ka'), 3
+('ubinganu', 'ni', 'ufolo'), 3
+('ubinganu', 'ua', 'dikuatekesu'), 3
+('mu', 'kisangela', 'kia'), 3
+('uoso', 'uoso', 'kia'), 3
+('kia', 'mu', 'tokala'), 3
+('ku', 'kala', 'mu'), 3
+('ni', 'ku', 'bana'), 3
+('kisangela', 'kia', 'ixi'), 3
+('mu', 'kitangana', 'kia'), 3
+('ni', 'ubinganu', 'umoxi'), 2
+('kionge', 'kia', 'kisangela'), 2
+('a', 'mu', 'bana'), 2
+('ni', 'kiuana', 'mutu'), 2
+('ubinganu', 'ua', 'ufolo'), 2
+('mba', 'bu', 'kididi'), 2
+('a', 'ixi', 'iê'), 2
+('atumini', 'a', 'ixi'), 2
+('ni', 'kutena', 'kua'), 2
+('o', 'ukaza', 'uê'), 2
+('jixi', 'jioso', 'mu'), 2
+('diala', 'mba', 'muhatu'), 2
+('ditala', 'dia', 'kuijia'), 2
+('ujitu', 'ua', 'ubinganu'), 2
+('kua', 'atu', 'oso'), 2
+('ene', 'uoso', 'ala'), 2
+('mu', 'bangesa', 'o'), 2
+('mu', 'bana', 'o'), 2
+('o', 'dikuatenenu', 'dia'), 2
+('uoso', 'a', 'mu'), 2
+('mu', 'axaxi', 'ka'), 2
+('ku', 'kala', 'ni'), 2
+('divua', 'mutu', 'uoso'), 2
+('ubinganu', 'ua', 'kukala'), 2
+('kikalakalu', 'kia', 'bange'), 2
+('ua', 'kukala', 'ni'), 2
+('ni', 'kimoxi', 'mutu'), 2
+('mutu', 'mu', 'ngongo'), 2
+('ni', 'ufolo', 'ni'), 2
+('ngongo', 'ioso', 'mu'), 2
+('ku', 'kale', 'kua'), 2
+('uoso', 'kia', 'mutokala'), 2
+('kitatu', 'mutu', 'uoso'), 2
+('mu', 'kidi', 'kioso'), 2
+('kitanu', 'mutu', 'uoso'), 2
+('kia', 'ngongo', 'ioso'), 2
+('ua', 'ufolo', 'mu'), 2
+('uoso', 'uoso', 'ua'), 2
+('ubinganu', 'uhu', 'ni'), 2
+('ka', 'ixi', 'iê'), 2
+('atu', 'a', 'ixi'), 2
+('ja', 'ngongo', 'ioso'), 2
+('ujitu', 'ua', 'atu'), 2
+('a', 'mu', 'vuala'), 2
+('mu', 'ku', 'kuata'), 2
+('mu', 'ngongo', 'ni'), 2
+('mu', 'kaxaxi', 'ka'), 2
+('kiuana', 'mutu', 'uoso'), 2
+('ni', 'kutena', 'kumoxi'), 2
+('mutu', 'uoso', 'uala'), 2
+('ixi', 'iê', 'kua'), 2
+('ua', 'tokala', 'mu'), 2
+('ua', 'mutu', 'ni'), 2
+('ibatu', 'ia', 'afundixi'), 2
+('uoso', 'uoso', 'a'), 2
+('ni', 'ubinganu', 'mu'), 2
+('uoso', 'ala', 'ni'), 2
+('mba', 'jinguvulu', 'ja'), 2
+('ni', 'dinake', 'mutu'), 2
+('kionge', 'kia', 'jixi'), 2
+('ikalakalu', 'ia', 'bange'), 2
+('ni', 'kitatu', 'mutu'), 2
+('ni', 'divua', 'mutu'), 2
+('mu', 'kixinganeku', 'kia'), 2
+('kaxaxi', 'ka', 'ixi'), 2
+('mu', 'utuminu', 'ua'), 2
+('ku', 'mu', 'kuatekesa'), 2
+('ni', 'kitanu', 'mutu'), 2
+('mba', 'bu', 'kanga'), 2
+('kutena', 'kumoxi', 'mu'), 2
+('ubinganu', 'ua', 'atu'), 2
+('uoso', 'uoso', 'se'), 2
+('bu', 'kididi', 'kia'), 2
+('tokala', 'kubanga', 'ni'), 2
+('ixi', 'ia', 'ofolo'), 1
+('kia', 'kosokana', 'o'), 1
+('kutana', 'kua', 'ufolo'), 1
+('kikonda', 'kie', 'ixi'), 1
+('sambuadi', 'mutu', 'uoso'), 1
+('akuatekisi', 'a', 'kionge'), 1
+('ku', 'dikuatekesu', 'mu'), 1
+('nembe', 'ua', 'bange'), 1
+('uixi', 'kia', 'tokala'), 1
+('kituxi', 'o', 'kia'), 1
+('kuxikinina', 'mu', 'ubinganu'), 1
+('ufolo', 'mo', 'boke'), 1
+('mu', 'ibuka', 'ioso'), 1
+('mukua', 'kua', 'muambata'), 1
+('kulunga', 'kue', 'mba'), 1
+('uoso', 'ni', 'ku'), 1
+('pe', 'kua', 'ejihisa'), 1
+('ki', 'binganu', 'ni'), 1
+('axaxi', 'ka', 'atu'), 1
+('mu', 'kionge', 'mba'), 1
+('akuetu', 'mu', 'ujitu'), 1
+('mba', 'imbamba', 'itenesu'), 1
+('o', 'jindandu', 'je'), 1
+('ja', 'kionge', 'kia'), 1
+('kuendesa', 'o', 'kikalakalu'), 1
+('o', 'kikonda', 'kiê'), 1
+('kuata', 'mbandu', 'ia'), 1
+('uê', 'mutu', 'uala'), 1
+('ua', 'atu', 'mu'), 1
+('kia', 'usueki', 'mba'), 1
+('kifundise', 'mu', 'kionge'), 1
+('kumoxi', 'mu', 'utuminu'), 1
+('o', 'kudilonga', 'kuendi'), 1
+('mba', 'mu', 'ekexilu'), 1
+('ubinganu', 'kua', 'mutu'), 1
+('tokala', 'kuenda', 'ni'), 1
+('unzambi', 'uê', 'mba'), 1
+('dia', 'kusokelela', 'kua'), 1
+('jixi', 'jo', 'okole'), 1
+('ni', 'ku', 'mu'), 1
+('bangesa', 'o', 'kusota'), 1
+('ni', 'muxima', 'ua'), 1
+('bange', 'kikuma', 'mba'), 1
+('ma', 'uvualukilu', 'mba'), 1
+('atu', 'engi', 'a'), 1
+('kuijia', 'ku', 'ixika'), 1
+('a', 'mujijidila', 'ku'), 1
+('ua', 'ima', 'ia'), 1
+('nzambi', 'mba', 'kana'), 1
+('jinbu', 'ihi', 'ia'), 1
+('ua', 'kubixila', 'mu'), 1
+('pe', 'o', 'dimatekenu'), 1
+('bu', 'kanga', 'ni'), 1
+('kua', 'kubanda', 'mba'), 1
+('atu', 'ua', 'tokala'), 1
+('u', 'kalakala', 'a'), 1
+('uê', 'mu', 'axaxi'), 1
+('kua', 'afundixi', 'a'), 1
+('kijingu', 'ni', 'mu'), 1
+('mba', 'ni', 'akua'), 1
+('o', 'nguzu', 'mu'), 1
+('ni', 'mukusokela', 'kua'), 1
+('nzambi', 'iê', 'kia'), 1
+('ki', 'bangé', 'mu'), 1
+('jixi', 'mu', 'ku'), 1
+('kixinganeku', 'kimoxi', 'mu'), 1
+('kia', 'uvalelu', 'mba'), 1
+('ngo', 'mu', 'ulongeselu'), 1
+('oso', 'mba', 'jinguvulu'), 1
+('kikale', 'o', 'kikonda'), 1
+('kionge', 'kioso', 'kioso'), 1
+('ni', 'ubíganu', 'ua'), 1
+('iê', 'kia', 'beta'), 1
+('ku', 'bixila', 'mu'), 1
+('ka', 'ujitu', 'ku'), 1
+('kue', 'mba', 'kuila'), 1
+('kutala', 'o', 'kusansumuka'), 1
+('ku', 'banga', 'kiu'), 1
+('kusokela', 'kumoxi', 'mu'), 1
+('kilondegesa', 'mu', 'ibatu'), 1
+('akale', 'mumbundu', 'mba'), 1
+('mene', 'moso', 'a'), 1
+('otenese', 'kilondekesu', 'kia'), 1
+('ia', 'ibuka', 'ia'), 1
+('ua', 'maka', 'udifuanganesa'), 1
+('ujitu', 'ku', 'binga'), 1
+('akua', 'bu', 'kanga'), 1
+('ka', 'ufolo', 'uonene'), 1
+('ngongo', 'ni', 'kuijia'), 1
+('ni', 'kimbamba', 'kiê'), 1
+('ni', 'ufolo', 'uala'), 1
+('ia', 'ku', 'mubeta'), 1
+('kiê', 'ni', 'kutanga'), 1
+('dia', 'tenena', 'mu'), 1
+('kiki', 'a', 'kitetulele'), 1
+('iê', 'kuzuela', 'kioso'), 1
+('mu', 'kuatekesa', 'o'), 1
+('ijila', 'ihi', 'kia'), 1
+('ku', 'diongeka', 'ni'), 1
+('kiu', 'katené', 'ku'), 1
+('uvalelu', 'kana', 'ku'), 1
+('kia', 'kisangela', 'adikola'), 1
+('ubinganu', 'uoso', 'ni'), 1
+('ku', 'mufuta', 'mu'), 1
+('tululuka', 'mba', 'upange'), 1
+('ni', 'kionge', 'kia'), 1
+('o', 'mu', 'dixiganeku'), 1
+('mabata', 'mba', 'jinguvulu'), 1
+('kuzubidisa', 'kiamutokala', 'dingi'), 1
+('kumoxi', 'ni', 'kionge'), 1
+('ki', 'kidika', 'tanu'), 1
+('kimoxi', 'mu', 'kubekela'), 1
+('tue', 'kioso', 'ni'), 1
+('ku', 'ubanga', 'mu'), 1
+('kilumba', 'a', 'kihijia'), 1
+('mu', 'bangesa', 'ku'), 1
+('kuila', 'o', 'dibanzelu'), 1
+('makanga', 'ni', 'a'), 1
+('mu', 'sueke', 'dikuinhi'), 1
+('jinguma', 'uala', 'uê'), 1
+('ngongo', 'ni', 'kuxikinina'), 1
+('ma', 'ufolo', 'mo'), 1
+('kia', 'ukaza', 'ene'), 1
+('kikangu', 'kia', 'kosola'), 1
+('mba', 'kana', 'akale'), 1
+('kutenena', 'kua', 'atu'), 1
+('kua', 'mbote', 'kua'), 1
+('kala', 'mu', 'kikalakalu'), 1
+('ku', 'londekesa', 'atu'), 1
+('dia', 'kubana', 'ujitu'), 1
+('maka', 'mê', 'kana'), 1
+('dia', 'kisangela', 'kia'), 1
+('kua', 'ufolo', 'iú'), 1
+('ia', 'kaiula', 'ka'), 1
+('ni', 'kutanga', 'mba'), 1
+('kuijia', 'o', 'ujitu'), 1
+('bana', 'o', 'ubinganu'), 1
+('uvualukilu', 'mba', 'mabata'), 1
+('ufolo', 'mu', 'kixinganeku'), 1
+('kifua', 'kia', 'ubinganu'), 1
+('ubinganu', 'ua', 'ixi'), 1
+('kua', 'bindamena', 'akuetu'), 1
+('kia', 'ufolo', 'ua'), 1
+('ku', 'suamena', 'ku'), 1
+('muene', 'ngó', 'mba'), 1
+('kubanga', 'ni', 'ujitu'), 1
+('ki', 'ua', 'dimatekenu'), 1
+('kibuka', 'kio', 'bange'), 1
+('o', 'dilau', 'die'), 1
+('kudisenga', 'kiene', 'kimosi'), 1
+('ja', 'jixi', 'ja'), 1
+('ioso', 'mu', 'jihundu'), 1
+('ua', 'mutu', 'jikale'), 1
+('ua', 'kubanza', 'kiambote'), 1
+('ia', 'akua', 'ixi'), 1
+('atu', 'uoso', 'ni'), 1
+('ni', 'ki', 'kale'), 1
+('mutokala', 'o', 'kikalakalu'), 1
+('kuijia', 'kua', 'dikota'), 1
+('ejihisa', 'kiambote', 'o'), 1
+('ua', 'muêniu', 'ufolo'), 1
+('muenhu', 'ua', 'ima'), 1
+('a', 'jitambule', 'mukonda'), 1
+('jiji', 'ja', 'ubinganu'), 1
+('ditungu', 'mu', 'kisangela'), 1
+('kia', 'tenena', 'mu'), 1
+('mba', 'muhatu', 'kia'), 1
+('uoso', 'uala', 'uê'), 1
+('kioso', 'kikale', 'o'), 1
+('ku', 'ibatu', 'ene'), 1
+('muxima', 'ua', 'kukatula'), 1
+('ukamba', 'mu', 'jixi'), 1
+('ni', 'buoso', 'buandala'), 1
+('ni', 'kudibana', 'kua'), 1
+('o', 'kusanguluka', 'ni'), 1
+('mu', 'kubanga', 'naiú'), 1
+('fundu', 'diala', 'mba'), 1
+('kua', 'mu', 'kitungu'), 1
+('dijina', 'die', 'mu'), 1
+('ioso', 'o', 'kioso'), 1
+('ni', 'kisamanu', 'mutu'), 1
+('uê', 'kubanga', 'ioso'), 1
+('kidi', 'kioso', 'ni'), 1
+('kua', 'kingoho', 'se'), 1
+('azuele', 'putu', 'mba'), 1

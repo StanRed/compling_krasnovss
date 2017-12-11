@@ -1,0 +1,905 @@
+Самые частотные слова:
+'ai', 126
+'nie', 77
+'xie', 53
+'qianlif', 43
+'do', 42
+'novzeu', 41
+'xi', 38
+'ta', 33
+'zeu', 31
+'dav', 22
+'go', 21
+'kylix', 21
+'iv', 20
+'gyxzeu', 19
+'ov', 19
+'lax', 19
+'riv', 18
+'bonie', 17
+'lie', 16
+'nav', 16
+'zifyou', 15
+'niev', 14
+'zu', 14
+'ti', 14
+'daov', 14
+'sefhuif', 13
+'nov', 10
+'guijia', 9
+'ku', 9
+'zif', 8
+'huali', 8
+'jief', 8
+'baovhuf', 7
+'div', 7
+'guijiazeu', 7
+'ca', 6
+'guaiv', 6
+'nongv', 6
+'naof', 6
+'xianyan', 6
+'lianho', 5
+'renqian', 5
+'tai', 5
+'hun', 5
+'zuif', 5
+'nieka', 5
+'zunyan', 5
+'gavxi', 5
+'qita', 5
+'xinsif', 5
+'cov', 5
+'gahaf', 5
+'guiji', 5
+'baovzanf', 5
+'gui', 5
+'canjia', 4
+'huazanv', 4
+'bu', 4
+'api', 4
+'qi', 4
+'qinkuanf', 4
+'li', 4
+'jibenv', 4
+'caicanv', 4
+'bifmianv', 4
+'cujinf', 4
+'sov', 4
+'puvbianf', 4
+'novba', 4
+'di', 4
+'bav', 4
+'qian', 4
+'renfyif', 4
+'geuv', 4
+'tou', 3
+'zongjiaof', 3
+'xianfzif', 3
+'jie', 3
+'gongzenf', 3
+'cenrenf', 3
+'zifxif', 3
+'pati', 3
+'xinwei', 3
+'hxong', 3
+'ongv', 3
+'diefciv', 3
+'renge', 3
+'hopin', 3
+'conghunf', 3
+'novgani', 3
+'heuf', 3
+'lu', 3
+'dafhax', 3
+'qiev', 3
+'sa', 3
+'liev', 3
+'hulif', 3
+'ye', 3
+'lai', 3
+'qioden', 3
+'qianlifzeu', 3
+'zifyouzeu', 3
+'hxaf', 3
+'wo', 3
+'xianvze', 3
+'zixge', 3
+'nudif', 3
+'yifwuf', 3
+'reuv', 3
+'piaof', 3
+'xinweizeu', 2
+'xinhua', 2
+'zenzenf', 2
+'baofcou', 2
+'weihuf', 2
+'gofxinf', 2
+'zovyi', 2
+'yanze', 2
+'lifyif', 2
+'sifgaif', 2
+'gao', 2
+'qiba', 2
+'huaten', 2
+'sehuif', 2
+'zuvzi', 2
+'zenfzif', 2
+'mudi', 2
+'wenhuaf', 2
+'jicuv', 2
+'tiaojianf', 2
+'lixtolo', 2
+'jinsen', 2
+'qianliff', 2
+'aniex', 2
+'guanxif', 2
+'xianvsouf', 2
+'bodo', 2
+'cuji', 2
+'koxio', 2
+'ganse', 2
+'hosif', 2
+'zongziv', 2
+'yifzif', 2
+'ha', 2
+'guijif', 2
+'sixianf', 2
+'die', 2
+'siv', 2
+'renfho', 2
+'hodongf', 2
+'xianvjiv', 2
+'akaizeu', 2
+'puvci', 2
+'tao', 2
+'zongvzu', 2
+'dai', 2
+'gongkai', 2
+'tiv', 2
+'pindenv', 2
+'hua', 2
+'xinfbie', 1
+'biaovxianf', 1
+'kongfzif', 1
+'zopinv', 1
+'duifdaif', 1
+'qianli', 1
+'tebie', 1
+'bianfhuf', 1
+'suivpin', 1
+'jifsu', 1
+'jiafzi', 1
+'lancan', 1
+'xinfyanv', 1
+'pehaif', 1
+'xiaofgo', 1
+'gengaiv', 1
+'ma', 1
+'daiv', 1
+'zivkongfzeu', 1
+'buvjiuf', 1
+'zongfyaofxinf', 1
+'daofde', 1
+'si', 1
+'dianfwu', 1
+'cenxif', 1
+'rendaof', 1
+'jinfxin', 1
+'baofzenf', 1
+'guanxi', 1
+'conghun', 1
+'gaivsif', 1
+'huanvpanf', 1
+'tongxinf', 1
+'zo', 1
+'baofxin', 1
+'wuzi', 1
+'houvrenf', 1
+'huazif', 1
+'yiliao', 1
+'tongyif', 1
+'cenyanzeu', 1
+'hodongfzeu', 1
+'nganqian', 1
+'aba', 1
+'yisou', 1
+'hxeu', 1
+'panfden', 1
+'kuaka', 1
+'weiyi', 1
+'zifduf', 1
+'yevman', 1
+'bifhuf', 1
+'min', 1
+'huwuf', 1
+'hoge', 1
+'baofxinzeu', 1
+'huanf', 1
+'zifliv', 1
+'xinfzi', 1
+'jituanzeu', 1
+'daifyif', 1
+'gonghuif', 1
+'dafhuif', 1
+'xiongdif', 1
+'senvpanf', 1
+'sou', 1
+'ji', 1
+'canrenv', 1
+'qilie', 1
+'panfdenf', 1
+'liqif', 1
+'xivba', 1
+'tiaowen', 1
+'davzeu', 1
+'gaiduanf', 1
+'busif', 1
+'senhunf', 1
+'livxinf', 1
+'dafbie', 1
+'wuvruv', 1
+'huxse', 1
+'nuyif', 1
+'xinfnianf', 1
+'wuvmie', 1
+'akai', 1
+'nafbi', 1
+'sef', 1
+'hu', 1
+'laovga', 1
+'pov', 1
+'weici', 1
+'buyi', 1
+'mianf', 1
+'danyan', 1
+'wusif', 1
+'guidenf', 1
+'minzuv', 1
+'tongf', 1
+'amu', 1
+'pofhuaif', 1
+'tuantiv', 1
+'ianfhua', 1
+'puvtong', 1
+'sandongf', 1
+'gonggongf', 1
+'hunyin', 1
+'invji', 1
+'tenvezouvxianv', 1
+'congv', 1
+'huansif', 1
+'jituan', 1
+'huif', 1
+'jivben', 1
+'myef', 1
+'biyaof', 1
+'pianyiv', 1
+'yafpe', 1
+'jihuif', 1
+'denqi', 1
+'zenfdanf', 1
+'wotav', 1
+'cenyan', 1
+'zongvzuzeu', 1
+'songvko', 1
+'pu', 1
+'gaodenv', 1
+'baovzenf', 1
+'kongfgaof', 1
+'aivga', 1
+'ziyan', 1
+'soti', 1
+'guan', 1
+'qivsuf', 1
+'kufxin', 1
+'xianfzan', 1
+'hala', 1
+'minyif', 1
+'pebudeyiv', 1
+'meivsu', 1
+'siyinf', 1
+
+Самые частотные биграммы:
+('ai', 'qianlif'), 36
+('qianlif', 'xie'), 33
+('ta', 'do'), 22
+('dav', 'zeu'), 21
+('novzeu', 'kylix'), 12
+('ti', 'ai'), 11
+('niev', 'nie'), 10
+('gyxzeu', 'daov'), 9
+('nav', 'nie'), 9
+('novzeu', 'ai'), 8
+('xie', 'novzeu'), 8
+('zeu', 'ai'), 8
+('daov', 'ai'), 7
+('zeu', 'bonie'), 7
+('kylix', 'dav'), 6
+('ta', 'ai'), 5
+('lianho', 'gui'), 5
+('xie', 'ai'), 5
+('do', 'nav'), 5
+('riv', 'ai'), 5
+('nov', 'naof'), 5
+('xie', 'iv'), 5
+('iv', 'xianyan'), 5
+('xi', 'nie'), 4
+('go', 'baovhuf'), 4
+('zu', 'ai'), 4
+('nie', 'zifyou'), 4
+('bonie', 'bav'), 4
+('xie', 'xi'), 4
+('jief', 'riv'), 4
+('zunyan', 'nie'), 4
+('do', 'niev'), 4
+('xie', 'gyxzeu'), 4
+('novzeu', 'gyxzeu'), 4
+('zeu', 'xi'), 4
+('div', 'ai'), 4
+('sov', 'novzeu'), 3
+('iv', 'dav'), 3
+('guijiazeu', 'ai'), 3
+('nav', 'bu'), 3
+('baovzanf', 'ti'), 3
+('canjia', 'ai'), 3
+('ai', 'zunyan'), 3
+('liev', 'do'), 3
+('lie', 'xi'), 3
+('bifmianv', 'ai'), 3
+('ai', 'caicanv'), 3
+('zeu', 'ta'), 3
+('huali', 'go'), 3
+('xi', 'bifmianv'), 3
+('api', 'bonie'), 3
+('novba', 'novgani'), 3
+('xi', 'cujinf'), 3
+('ov', 'zu'), 3
+('ai', 'zifyou'), 3
+('xie', 'niev'), 3
+('riv', 'do'), 3
+('do', 'novzeu'), 3
+('go', 'daov'), 3
+('qianlif', 'nie'), 3
+('piaof', 'tou'), 3
+('qinkuanf', 'pati'), 3
+('cujinf', 'do'), 3
+('ai', 'nieka'), 3
+('hxaf', 'ai'), 3
+('ai', 'guijia'), 3
+('zifyou', 'nie'), 3
+('ai', 'mudi'), 2
+('nie', 'hosif'), 2
+('conghunf', 'riv'), 2
+('tai', 'ai'), 2
+('nie', 'jief'), 2
+('cenrenf', 'xi'), 2
+('sefhuif', 'nie'), 2
+('zif', 'ai'), 2
+('wo', 'novzeu'), 2
+('nongv', 'ai'), 2
+('zu', 'guijia'), 2
+('hun', 'jie'), 2
+('zifyou', 'xie'), 2
+('niev', 'novzeu'), 2
+('ai', 'qinkuanf'), 2
+('nie', 'reuv'), 2
+('nie', 'nav'), 2
+('ai', 'diefciv'), 2
+('guiji', 'lax'), 2
+('xie', 'geuv'), 2
+('xianvze', 'ai'), 2
+('ai', 'jicuv'), 2
+('xianyan', 'go'), 2
+('heuf', 'novzeu'), 2
+('gongzenf', 'nie'), 2
+('nongv', 'lax'), 2
+('zongziv', 'nie'), 2
+('riv', 'daov'), 2
+('qian', 'xie'), 2
+('nie', 'novzeu'), 2
+('bonie', 'sefhuif'), 2
+('bav', 'ta'), 2
+('qioden', 'ai'), 2
+('nie', 'yanze'), 2
+('nie', 'heuf'), 2
+('baovhuf', 'do'), 2
+('hosif', 'nie'), 2
+('do', 'lianho'), 2
+('nie', 'geuv'), 2
+('baovhuf', 'ti'), 2
+('xi', 'lax'), 2
+('nie', 'qianlif'), 2
+('lax', 'qita'), 2
+('do', 'zeu'), 2
+('do', 'sov'), 2
+('sefhuif', 'ai'), 2
+('nie', 'jibenv'), 2
+('lixtolo', 'ca'), 2
+('zif', 'xi'), 2
+('novzeu', 'jief'), 2
+('hxong', 'ai'), 2
+('sefhuif', 'baovzanf'), 2
+('gahaf', 'ai'), 2
+('xie', 'nav'), 2
+('nie', 'sov'), 2
+('tai', 'xi'), 2
+('ku', 'gyxzeu'), 2
+('lax', 'zongjiaof'), 2
+('ai', 'zeu'), 2
+('ai', 'sefhuif'), 2
+('ai', 'jinsen'), 2
+('zuif', 'xie'), 2
+('guaiv', 'zovyi'), 2
+('zixge', 'ai'), 2
+('ai', 'qianlifzeu'), 2
+('geuv', 'novzeu'), 2
+('novzeu', 'ov'), 2
+('ai', 'xinwei'), 2
+('nie', 'ongv'), 2
+('qianlifzeu', 'nie'), 2
+('ca', 'zif'), 2
+('novzeu', 'guijiazeu'), 2
+('yanze', 'dav'), 2
+('gyxzeu', 'ku'), 2
+('xie', 'do'), 2
+('nav', 'novzeu'), 2
+('ov', 'xie'), 2
+('xi', 'iv'), 2
+('riv', 'zu'), 2
+('nie', 'wo'), 2
+('ongv', 'novzeu'), 2
+('go', 'hxaf'), 2
+('go', 'ov'), 2
+('reuv', 'novzeu'), 2
+('tiv', 'xi'), 2
+('xinsif', 'zuif'), 2
+('xie', 'go'), 2
+('caicanv', 'qian'), 2
+('gui', 'ai'), 2
+('zifyou', 'ov'), 2
+('bodo', 'ta'), 2
+('nie', 'niev'), 2
+('daov', 'nie'), 2
+('naof', 'go'), 2
+('nie', 'guaiv'), 2
+('huali', 'zixge'), 2
+('hun', 'nongv'), 2
+('nie', 'ye'), 2
+('ai', 'zongziv'), 2
+('nie', 'zifyouzeu'), 2
+('renfyif', 'bodo'), 2
+('lie', 'novzeu'), 2
+('gyxzeu', 'lifyif'), 1
+('huali', 'qioden'), 1
+('go', 'xianfzif'), 1
+('qilie', 'ta'), 1
+('jibenv', 'zifyou'), 1
+('xie', 'ma'), 1
+('weici', 'bonie'), 1
+('li', 'nie'), 1
+('ai', 'novba'), 1
+('ai', 'gofxinf'), 1
+('do', 'ongv'), 1
+('gui', 'xianfzan'), 1
+('xinweizeu', 'gyxzeu'), 1
+('dafbie', 'xianvze'), 1
+('ai', 'guanxi'), 1
+('aivga', 'amu'), 1
+('baovhuf', 'ai'), 1
+('ai', 'gongkai'), 1
+('zu', 'qita'), 1
+('novzeu', 'qita'), 1
+('gahaf', 'hun'), 1
+('sefhuif', 'go'), 1
+('puvbianf', 'riv'), 1
+('hxeu', 'nie'), 1
+('gongzenf', 'gongkai'), 1
+('diefciv', 'gao'), 1
+('di', 'xi'), 1
+('nov', 'nav'), 1
+('zifyou', 'hxeu'), 1
+('zongjiaof', 'zenfzif'), 1
+('sifgaif', 'renqian'), 1
+('kylix', 'senminf'), 1
+('zivkongfzeu', 'panfden'), 1
+('lax', 'nuyif'), 1
+('xi', 'siyinf'), 1
+('guiji', 'xie'), 1
+('jinsen', 'go'), 1
+('dafhuif', 'nav'), 1
+('lai', 'puvci'), 1
+('cuji', 'nie'), 1
+('ai', 'wenhuaf'), 1
+('ai', 'jief'), 1
+('huali', 'guidenf'), 1
+('ov', 'xiaofgo'), 1
+('nudif', 'lax'), 1
+('mudi', 'conghunf'), 1
+('xi', 'qiev'), 1
+('go', 'biaovxianf'), 1
+('gyxzeu', 'hunyin'), 1
+('gavxi', 'go'), 1
+('zifyou', 'piaof'), 1
+('qita', 'huansif'), 1
+('renge', 'cenrenf'), 1
+('huaten', 'hoge'), 1
+('do', 'jief'), 1
+('kylix', 'iv'), 1
+('baofxinzeu', 'novzeu'), 1
+('nie', 'sehuif'), 1
+('do', 'guijiazeu'), 1
+('akaizeu', 'hun'), 1
+('huansif', 'ai'), 1
+('die', 'iv'), 1
+('kylix', 'zeu'), 1
+('xi', 'dav'), 1
+('aniex', 'aba'), 1
+('do', 'xinhua'), 1
+('lie', 'ta'), 1
+('xie', 'nov'), 1
+('xinwei', 'go'), 1
+('ov', 'dav'), 1
+('senhunf', 'dav'), 1
+('xinwei', 'lie'), 1
+('kylix', 'lianho'), 1
+('do', 'novba'), 1
+('suivzunv', 'ti'), 1
+('minyif', 'ha'), 1
+('nie', 'wuzi'), 1
+('panfden', 'gavxi'), 1
+('sefhuif', 'minzuv'), 1
+('lie', 'zu'), 1
+('nenli', 'tao'), 1
+('lu', 'xi'), 1
+('senvpanf', 'ti'), 1
+('lancan', 'hxong'), 1
+('lax', 'iv'), 1
+('nie', 'yifwuf'), 1
+('ha', 'xi'), 1
+('qi', 'nie'), 1
+('huwuf', 'xie'), 1
+('iv', 'zifxif'), 1
+('daifyif', 'lax'), 1
+('jibenv', 'ov'), 1
+('go', 'gyxzeu'), 1
+('do', 'cenrenf'), 1
+('ianfhua', 'lax'), 1
+('renqian', 'huazif'), 1
+('qiba', 'liev'), 1
+('canjia', 'yifsu'), 1
+('lie', 'do'), 1
+('xianyan', 'zixge'), 1
+('xi', 'huali'), 1
+('kylix', 'api'), 1
+('nieka', 'suivpin'), 1
+('xie', 'xiongdif'), 1
+('bonie', 'youf'), 1
+('yiliao', 'nie'), 1
+('hxong', 'bonie'), 1
+('zuvzi', 'nie'), 1
+('huazanv', 'xi'), 1
+('ku', 'iv'), 1
+('kylix', 'qiev'), 1
+('nov', 'qiba'), 1
+('bonie', 'pehaif'), 1
+('nie', 'piaof'), 1
+('lax', 'gyxzeu'), 1
+('iv', 'xianfzif'), 1
+('bonie', 'baofcou'), 1
+('iv', 'qianlifzeu'), 1
+('lie', 'ai'), 1
+('puvbianf', 'hulif'), 1
+('xianfzif', 'sou'), 1
+('xianvjiv', 'go'), 1
+('guan', 'ta'), 1
+('ma', 'zeu'), 1
+('geuv', 'ta'), 1
+('nongv', 'lie'), 1
+('novzeu', 'renfyif'), 1
+('do', 'gaodenv'), 1
+('ai', 'cenxif'), 1
+('zongjiaof', 'jituanzeu'), 1
+('zenzenf', 'nie'), 1
+
+Самые частотные триграммы:
+('ai', 'qianlif', 'xie'), 32
+('ti', 'ai', 'qianlif'), 10
+('dav', 'zeu', 'bonie'), 7
+('qianlif', 'xie', 'novzeu'), 7
+('gyxzeu', 'daov', 'ai'), 7
+('kylix', 'dav', 'zeu'), 6
+('qianlif', 'xie', 'iv'), 5
+('dav', 'zeu', 'ai'), 5
+('do', 'nav', 'nie'), 5
+('xie', 'novzeu', 'ai'), 4
+('novzeu', 'gyxzeu', 'daov'), 4
+('ta', 'do', 'nav'), 4
+('dav', 'zeu', 'xi'), 4
+('novzeu', 'kylix', 'dav'), 3
+('qianlif', 'xie', 'gyxzeu'), 3
+('api', 'bonie', 'bav'), 3
+('qianlif', 'nie', 'zifyou'), 3
+('daov', 'ai', 'guijia'), 3
+('qianlif', 'xie', 'niev'), 3
+('canjia', 'ai', 'qianlif'), 3
+('jief', 'riv', 'ai'), 3
+('baovzanf', 'ti', 'ai'), 3
+('iv', 'dav', 'zeu'), 3
+('zeu', 'ai', 'qianlif'), 3
+('xie', 'niev', 'nie'), 3
+('do', 'niev', 'nie'), 3
+('dav', 'zeu', 'ta'), 3
+('baovhuf', 'ti', 'ai'), 2
+('zongziv', 'nie', 'yanze'), 2
+('go', 'daov', 'nie'), 2
+('nie', 'sov', 'novzeu'), 2
+('cujinf', 'do', 'lianho'), 2
+('ai', 'qianlif', 'nie'), 2
+('xie', 'nav', 'nie'), 2
+('go', 'baovhuf', 'do'), 2
+('ai', 'zunyan', 'nie'), 2
+('gui', 'ai', 'zongziv'), 2
+('ta', 'do', 'novzeu'), 2
+('gongzenf', 'nie', 'hosif'), 2
+('nie', 'geuv', 'novzeu'), 2
+('ca', 'zif', 'xi'), 2
+('nov', 'naof', 'go'), 2
+('conghunf', 'riv', 'daov'), 2
+('nie', 'hosif', 'nie'), 2
+('zuif', 'xie', 'xi'), 2
+('ta', 'do', 'sov'), 2
+('bonie', 'bav', 'ta'), 2
+('nie', 'yanze', 'dav'), 2
+('bodo', 'ta', 'do'), 2
+('bifmianv', 'ai', 'qianlif'), 2
+('lianho', 'gui', 'ai'), 2
+('yanze', 'dav', 'zeu'), 2
+('qianlif', 'xie', 'nav'), 2
+('zunyan', 'nie', 'qianlif'), 2
+('ai', 'qinkuanf', 'pati'), 2
+('ai', 'zongziv', 'nie'), 2
+('iv', 'xianyan', 'go'), 2
+('bav', 'ta', 'do'), 2
+('qianlifzeu', 'nie', 'zifyouzeu'), 2
+('ongv', 'novzeu', 'kylix'), 2
+('naof', 'go', 'daov'), 2
+('do', 'lianho', 'gui'), 2
+('nie', 'novzeu', 'kylix'), 2
+('hxaf', 'ai', 'qianlif'), 2
+('ov', 'zu', 'ai'), 2
+('go', 'hxaf', 'ai'), 2
+('ai', 'caicanv', 'qian'), 2
+('xie', 'iv', 'xianyan'), 2
+('xi', 'bifmianv', 'ai'), 2
+('nie', 'guaiv', 'zovyi'), 2
+('xi', 'cujinf', 'do'), 2
+('xie', 'gyxzeu', 'ku'), 2
+('do', 'novzeu', 'kylix'), 2
+('renfyif', 'bodo', 'ta'), 2
+('caicanv', 'qian', 'xie'), 2
+('daov', 'nie', 'guaiv'), 2
+('xianyan', 'go', 'hxaf'), 2
+('nie', 'jief', 'riv'), 2
+('qianlif', 'xie', 'go'), 2
+('zeu', 'ta', 'ai'), 2
+('wenxio', 'lax', 'meivsu'), 1
+('nieka', 'cov', 'hxong'), 1
+('akai', 'tebie', 'nie'), 1
+('kylix', 'senminf', 'zifyou'), 1
+('gavxi', 'nov', 'naof'), 1
+('novzeu', 'renfyif', 'zo'), 1
+('go', 'daiv', 'ai'), 1
+('bonie', 'iv', 'ganse'), 1
+('tongxinf', 'renfyif', 'ganse'), 1
+('hua', 'lax', 'guijif'), 1
+('qianlif', 'xie', 'reuv'), 1
+('xinsif', 'ai', 'nudif'), 1
+('meivsu', 'zopinv', 'lie'), 1
+('bonie', 'sefhuif', 'baovzanf'), 1
+('ta', 'do'), 1
+('hua', 'lie', 'xinsif'), 1
+('riv', 'ai', 'qianlif'), 1
+('sivreuv', 'ai', 'qianlif'), 1
+('novzeu', 'kylix', 'senminf'), 1
+('ganse', 'ta', 'do'), 1
+('lancan', 'hxong', 'bonie'), 1
+('ov', 'dav', 'zeu'), 1
+('hulif', 'ai', 'zenfdanf'), 1
+('myef', 'nongv', 'ai'), 1
+('novzeu', 'ai', 'caicanv'), 1
+('zu', 'guijia', 'huaten'), 1
+('baovzanf', 'lie', 'do'), 1
+('lie', 'novzeu', 'ov'), 1
+('ai', 'mudi', 'weiyi'), 1
+('xianvze', 'ai', 'daifbiaov'), 1
+('ti', 'huali', 'lie'), 1
+('zif', 'xi', 'cujinf'), 1
+('weiyi', 'novzeu', 'ov'), 1
+('caicanv', 'nongv', 'lax'), 1
+('sou', 'yisou', 'iv'), 1
+('qinkuanf', 'pati', 'nieka'), 1
+('zifxif', 'ku', 'iv'), 1
+('sefhuif', 'ov', 'yifwuf'), 1
+('do', 'renqian', 'huazif'), 1
+('ai', 'xinweizeu', 'lax'), 1
+('pindenv', 'buyi', 'cenrenf'), 1
+('lax', 'xinwei', 'riv'), 1
+('zeu', 'puvbianf', 'riv'), 1
+('novba', 'novgani', 'zongvzu'), 1
+('guanxif', 'tai', 'ai'), 1
+('xi', 'gyxzeu', 'livxinf'), 1
+('baofxinzeu', 'novzeu', 'ai'), 1
+('huansif', 'ai', 'sefhuif'), 1
+('iv', 'qianlifnzeu', 'zifyouzeu'), 1
+('qita', 'guijia', 'ku'), 1
+('xianvjiv', 'puvbianf', 'nie'), 1
+('minyif', 'ha', 'ta'), 1
+('xi', 'panfdenf', 'ta'), 1
+('niev', 'novzeu', 'kylix'), 1
+('hala', 'xi', 'iv'), 1
+('bu', 'xinweizeu', 'gyxzeu'), 1
+('senvpanf', 'ti', 'huali'), 1
+('ai', 'guiji', 'renfyif'), 1
+('tai', 'ai', 'zuifxin'), 1
+('liev', 'do', 'zeu'), 1
+('davxi', 'ti', 'ai'), 1
+('guijiazeu', 'dafhax', 'riv'), 1
+('novzeu', 'kylix', 'sa'), 1
+('novzeu', 'kylix', 'nudif'), 1
+('lie', 'kylix', 'dav'), 1
+('lax', 'wuvruv', 'ai'), 1
+('zeu', 'bonie', 'gyxzeu'), 1
+('weihuf', 'bonie', 'gonghuif'), 1
+('gui', 'xianfzan', 'ku'), 1
+('qinkuanf', 'lie', 'xi'), 1
+('xie', 'ai', 'caicanv'), 1
+('reuv', 'novzeu', 'kylix'), 1
+('novzeu', 'ai', 'xinweizeu'), 1
+('kylix', 'nudif', 'lax'), 1
+('zeu', 'qian', 'div'), 1
+('bifhuf', 'div', 'bonie'), 1
+('qi', 'lai', 'qi'), 1
+('jicuv', 'iv', 'yifzif'), 1
+('hodongf', 'lax', 'xinwei'), 1
+('ta', 'ai', 'sifgaif'), 1
+('tenvezouvxianv', 'baofzenf', 'nie'), 1
+('ai', 'zenfdanf', 'div'), 1
+('puvtong', 'zeu', 'ai'), 1
+('cov', 'hxong', 'ai'), 1
+('nie', 'zifyouzeu', 'pofhuaif'), 1
+('guijia', 'go', 'baovhuf'), 1
+('cenrenf', 'xi', 'nie'), 1
+('nie', 'yifwuf', 'qioden'), 1
+('huazanv', 'xi', 'cujinf'), 1
+('nov', 'qiba', 'zif'), 1
+('die', 'iv', 'qianlifnzeu'), 1
+('zongjiaof', 'zenfzif', 'lax'), 1
+('aivga', 'amu', 'dafhuif'), 1
+('nav', 'nie', 'wo'), 1
+('pu', 'xi', 'lu'), 1
+('zeu', 'ta', 'ta'), 1
+('liev', 'do', 'guijiazeu'), 1
+('bonie', 'div', 'ai'), 1
+('baovzanf', 'xi', 'nie'), 1
+('songvko', 'ai', 'qianlif'), 1
+('ta', 'ai', 'xinwei'), 1
+('ta', 'do', 'xinhua'), 1
+('hulif', 'weici', 'bonie'), 1
+('renqian', 'xianyan', 'zixge'), 1
+('nie', 'jiafzi', 'ov'), 1
+('zifyou', 'xianvze', 'ai'), 1
+('ov', 'renge', 'zunyan'), 1
+('zenfsi', 'dai', 'zuif'), 1
+('nov', 'puvtong', 'zeu'), 1
+('ai', 'jibenv', 'qianlif'), 1
+('huazanv', 'renqian', 'nie'), 1
+('do', 'jifsu', 'nie'), 1
+('qianlif', 'xie', 'geuv'), 1
+('huali', 'zixge', 'novzeu'), 1
+('guaiv', 'qianlif', 'nie'), 1
+('yevman', 'zif', 'lie'), 1
+('li', 'nie', 'xinfyanv'), 1
+('yifwuf', 'qioden', 'gavxi'), 1
+('guidenf', 'qi', 'nie'), 1
+('gonghuif', 'zuvzi', 'canjia'), 1
+('qianlif', 'xie', 'akaizeu'), 1
+('siv', 'ai', 'huali'), 1
+('ta', 'ai', 'lax'), 1
+('nie', 'jibenv', 'zifyou'), 1
+('zeu', 'xi', 'zunyan'), 1
+('geuv', 'novzeu', 'zifyou'), 1
+('nie', 'guijia', 'go'), 1
+('nav', 'novzeu', 'nongv'), 1
+('niev', 'nie', 'niev'), 1
+('div', 'ai', 'nieka'), 1
+('ai', 'xianfzif', 'sou'), 1
+('go', 'di', 'xi'), 1
+('sifgaif', 'renqian', 'xianyan'), 1
+('guijif', 'hua', 'lie'), 1
+('huanvpanf', 'xi', 'jinfxin'), 1
+('qianlif', 'xie', 'zeu'), 1
+('ai', 'nieka', 'cov'), 1
+('ta', 'do', 'puvci'), 1
+('ov', 'qilie', 'ta'), 1
+('nie', 'zifyou', 'xie'), 1
+('ku', 'iv', 'xianyan'), 1
+('qianlif', 'houvrenf', 'ta'), 1
+('senhunf', 'dav', 'zeu'), 1
+('go', 'baovhuf', 'liev'), 1
+('iv', 'xianfzif', 'qioden'), 1
+('bonie', 'youf', 'pianyiv'), 1
+('gengaiv', 'ai', 'qianlif'), 1
+('cujinf', 'do', 'aniex'), 1
+('riv', 'do', 'min'), 1
+('ai', 'caicanv', 'renfyif'), 1
+('xie', 'kylix', 'api'), 1
+('jibenv', 'ov', 'renge'), 1
+('xianyan', 'hxaf', 'ai'), 1
+('ai', 'zunyan', 'dav'), 1
+('nie', 'zifyou', 'ov'), 1
+('qi', 'ku', 'ai'), 1
+('novgani', 'davzeu', 'ai'), 1
+('do', 'guaiv', 'rongyif'), 1
+('zu', 'qita', 'huansif'), 1
+('qi', 'nie', 'ta'), 1
+('naof', 'guaiv', 'qianlif'), 1
+('puvci', 'cuji', 'nie'), 1
+('do', 'sov', 'novzeu'), 1
+('baofzenf', 'nie', 'yafpe'), 1
+('nie', 'lixtolo', 'ca'), 1
+('pebudeyiv', 'tenvezouvxianv', 'baofzenf'), 1
+('ai', 'zifyou', 'xie'), 1
+('xie', 'nov', 'naof'), 1
+('novzeu', 'zifyou', 'sefhuif'), 1
+('ov', 'zongfyaofxinf', 'qi'), 1
+('zif', 'ai', 'qianlif'), 1
+('lax', 'sefhuif', 'cusen'), 1
+('ai', 'ianfhua', 'lax'), 1
+('jinfxin', 'ta', 'liev'), 1
+('novba', 'seu', 'laovga'), 1
+('siv', 'ta', 'do'), 1
+('do', 'canrenv', 'ai'), 1
+('huali', 'zixge', 'ai'), 1
+('sefhuif', 'baovzanf', 'lie'), 1
+('ti', 'ai', 'qinkuanf'), 1
+('baovhuf', 'do', 'niev'), 1
+('ai', 'nieka', 'tiaojianf'), 1
+('sif', 'do', 'jifsu'), 1
+('sehuif', 'nie', 'wenhuaf'), 1
+('do', 'novba', 'novgani'), 1
+('ai', 'guijia', 'zifliv'), 1
+('buvjiuf', 'riv', 'ai'), 1
+('do', 'pov', 'ta'), 1
+('ai', 'huaten', 'nav'), 1
+('qi', 'xie', 'aivga'), 1
+('pati', 'nieka', 'ai'), 1
+('xi', 'qiev', 'qinkuanf'), 1
+('ai', 'lax', 'wuvruv'), 1
+('guijia', 'ku', 'bifhuf'), 1
+('niev', 'nie', 'nav'), 1
+('zu', 'ai', 'koxio'), 1
+('xi', 'iv', 'qisif'), 1
+('zu', 'ai', 'jinsen'), 1
+('ta', 'tai', 'ta'), 1
+('zifyou', 'conghunf', 'riv'), 1
+('daov', 'ai', 'caicanv'), 1
+('zeu', 'yifwuf', 'xinfzi'), 1
+('ai', 'nenli', 'tao'), 1
+('lifyif', 'ov', 'baovhuf'), 1
+('renqian', 'jibenv', 'ov'), 1
+('lie', 'xi', 'niev'), 1
+('li', 'ov', 'zu'), 1
+('zifxif', 'nav', 'bu'), 1
+('daofde', 'gonggongf', 'zifxif'), 1
+('zu', 'siv', 'ai'), 1
+('sefhuif', 'ai', 'cenyan'), 1
+('guijiazeu', 'ku', 'zifyou'), 1
+('guijia', 'liqif', 'zu'), 1
+('livxinf', 'nie', 'lixtolo'), 1
+('caicanv', 'renfyif', 'bodo'), 1
+('zifyou', 'nie', 'conghun'), 1
+('xie', 'aivga', 'amu'), 1
+('riv', 'bonie', 'sefhuif'), 1
+('go', 'ov', 'zu'), 1
+('kongfzif', 'ta', 'ti'), 1

@@ -1,0 +1,905 @@
+Самые частотные слова:
+'nda', 54
+'omunu', 45
+'kuenda', 39
+'yoku', 34
+'omoko', 33
+'ondaka', 30
+'oku', 29
+'okuete', 26
+'pamue', 18
+'ya', 18
+'wosi', 18
+'ye', 16
+'vosi', 15
+'okuti', 15
+'va', 14
+'lomue', 14
+'eye', 13
+'kuata', 11
+'womanu', 11
+'oco', 11
+'omuenyo', 10
+'sesamela', 10
+'wa', 10
+'eyovo', 9
+'ovihandeleko', 9
+'omanu', 8
+'evi', 8
+'yahe', 8
+'kuenje', 8
+'eci', 8
+'loku', 8
+'ocihandeleko', 7
+'vofeka', 7
+'upange', 7
+'lia', 7
+'pokati', 7
+'liocili', 7
+'kala', 6
+'hongele', 6
+'tata', 6
+'viosi', 6
+'ekuatiso', 6
+'lio', 6
+'ukuavo', 6
+'komanu', 6
+'vio', 5
+'ca', 5
+'vioku', 5
+'wahe', 5
+'liaco', 5
+'tiamela', 5
+'osi', 5
+'eko', 5
+'epata', 5
+'yimosi', 5
+'ko', 5
+'yu', 5
+'elilongiso', 5
+'te', 5
+'feka', 5
+'a', 5
+'kuatisa', 5
+'yaco', 5
+'eyi', 4
+'kapa', 4
+'viomanu', 4
+'unidas', 4
+'wofeka', 4
+'unu', 4
+'yolofeka', 4
+'nações', 4
+'liahe', 4
+'ohuminyo', 4
+'sonehiwa', 4
+'voluali', 4
+'ndeci', 4
+'ombonge', 4
+'posamua', 4
+'lika', 4
+'kovaso', 4
+'ulume', 4
+'vo', 3
+'olombonge', 3
+'koku', 3
+'ukayî', 3
+'liomanu', 3
+'caco', 3
+'pinga', 3
+'ku', 3
+'nolã', 3
+'akasi', 3
+'kolofeka', 3
+'kisika', 3
+'olivova', 3
+'u', 3
+'mulo', 3
+'ndaño', 3
+'lesunga', 3
+'uvî', 3
+'citava', 3
+'vali', 3
+'tunda', 3
+'oko', 3
+'kuete', 3
+'ka', 3
+'okutata', 3
+'omalã', 3
+'lomunu', 3
+'kofeka', 3
+'ha', 3
+'mekonda', 3
+'vioposamua', 3
+'esumbilo', 3
+'vikuavo', 3
+'pole', 3
+'ayongola', 3
+'tava', 3
+'ofeka', 3
+'wê', 2
+'cikuavo', 2
+'vakuete', 2
+'fetiwa', 2
+'ohongele', 2
+'lie', 2
+'ocisoko', 2
+'viu', 2
+'yinene', 2
+'kolisa', 2
+'yi', 2
+'muele', 2
+'ongusu', 2
+'ño', 2
+'pomangu', 2
+'social', 2
+'vovitima', 2
+'cimosi', 2
+'vangi', 2
+'viahe', 2
+'etavo', 2
+'ukuetavo', 2
+'ocisola', 2
+'elongiso', 2
+'lacimue', 2
+'pongolokela', 2
+'yikiwa', 2
+'kilu', 2
+'ombembua', 2
+'apa', 2
+'vi', 2
+'ketavo', 2
+'cimue', 2
+'nena', 2
+'lueya', 2
+'kaka', 2
+'olio', 2
+'okangisiwa', 2
+'lolombiali', 2
+'kombonge', 2
+'woku', 2
+'liê', 2
+'osesamela', 2
+'yofeka', 2
+'ciwa', 2
+'olonepele', 2
+'lusoma', 2
+'lieve', 2
+'lombonge', 2
+'segurança', 2
+'coluali', 2
+'kovihandeleko', 2
+'likuavo', 2
+'umesele', 2
+'acitiwa', 2
+'cavelapo', 2
+'comanu', 2
+'kayongola', 2
+'likongela', 2
+'okuamisako', 2
+'okulisumbila', 2
+'yo', 2
+'umosi', 2
+'ovisimilo', 2
+'via', 2
+'kupika', 2
+'otekava', 2
+'olofeka', 2
+'okueca', 2
+'ovitangi', 1
+'ci', 1
+'loña', 1
+'vikuvindikiyiwa', 1
+'omau', 1
+'waya', 1
+'vikola', 1
+'lopo', 1
+'oluali', 1
+'vakuayiwi', 1
+'kuhayele', 1
+'kulinga', 1
+'vilingiwe', 1
+'luhiti', 1
+'olomapalo', 1
+'kovilinga', 1
+'viamoleha', 1
+'osombisiwa', 1
+'cahe', 1
+'ukuafeka', 1
+'suisepo', 1
+'haliosiko', 1
+'esilã', 1
+'konjo', 1
+'kuvosi', 1
+'cali', 1
+'okutatiwa', 1
+'ohuasi', 1
+'huminyo', 1
+'wavosi', 1
+'vatatiwa', 1
+'tu', 1
+'locela', 1
+'elivala', 1
+'vavi', 1
+'atete', 1
+'yokusovola', 1
+'owu', 1
+'songola', 1
+'toke', 1
+'okuayiwi', 1
+'ukapa', 1
+'ohukui', 1
+'olinga', 1
+'umuisa', 1
+'feta', 1
+'tanga', 1
+'limue', 1
+'cinene', 1
+'kisikiwe', 1
+'ukanda', 1
+'leko', 1
+'cosi', 1
+'luiwe', 1
+'citumiwa', 1
+'hakutisa', 1
+'okuama', 1
+'ukuatisa', 1
+'evelo', 1
+'ocali', 1
+'losikola', 1
+'unena', 1
+'pulika', 1
+'lahevo', 1
+'waco', 1
+'ovopange', 1
+'kunene', 1
+'osoyî', 1
+'wokuti', 1
+'vieyovo', 1
+'wolonganji', 1
+'latavo', 1
+'yokuiñila', 1
+'kocitumalo', 1
+'yomanu', 1
+'fetuluinya', 1
+'tiamelã', 1
+'tuala', 1
+'vokiyeko', 1
+'usoma', 1
+'tumbikiwa', 1
+'usakalasa', 1
+'ukulihiso', 1
+'popela', 1
+'viavo', 1
+'vangula', 1
+'epondolo', 1
+'talama', 1
+'kekui', 1
+'vatukula', 1
+'li', 1
+'ocisimilo', 1
+'onganji', 1
+'kovisila', 1
+'oyo', 1
+'ohali', 1
+'tukola', 1
+'pokañunuñunu', 1
+'otela', 1
+'posi', 1
+'atiamela', 1
+'liomuenyo', 1
+'dezembro', 1
+'yombembua', 1
+'kuka', 1
+'usumba', 1
+'okusandula', 1
+'okuamisa', 1
+'vasoka', 1
+'cokuti', 1
+'yavo', 1
+'olonjongole', 1
+'civa', 1
+
+Самые частотные биграммы:
+('omoko', 'yoku'), 25
+('okuete', 'omoko'), 25
+('ondaka', 'ya'), 16
+('omunu', 'wosi'), 15
+('ondaka', 'ye'), 14
+('ya', 'omunu'), 11
+('omunu', 'eye'), 10
+('eye', 'omunu'), 10
+('wosi', 'okuete'), 9
+('ye', 'omunu'), 9
+('omunu', 'okuete'), 7
+('omuenyo', 'womanu'), 7
+('yoku', 'kuata'), 6
+('eyovo', 'liocili'), 5
+('kuenda', 'oku'), 5
+('omanu', 'vosi'), 5
+('sesamela', 'oku'), 5
+('tata', 'omuenyo'), 5
+('vio', 'feka'), 4
+('vioku', 'tata'), 4
+('nações', 'unidas'), 4
+('hongele', 'yolofeka'), 4
+('eko', 'liaco'), 4
+('pamue', 'oku'), 3
+('womanu', 'kuenda'), 3
+('vofeka', 'yahe'), 3
+('oku', 'kuatisa'), 3
+('ulume', 'nda'), 3
+('ko', 'hongele'), 3
+('omunu', 'lomunu'), 3
+('nda', 'ukayî'), 3
+('yolofeka', 'nações'), 3
+('oco', 'eyovo'), 3
+('yoku', 'pinga'), 3
+('lia', 'sesamela'), 3
+('nda', 'ulume'), 3
+('ovihandeleko', 'evi'), 3
+('ohuminyo', 'eyi'), 2
+('lomue', 'kaka'), 2
+('otekava', 'nda'), 2
+('ombembua', 'voluali'), 2
+('ca', 'sonehiwa'), 2
+('kuenda', 'lomue'), 2
+('liê', 'nda'), 2
+('liaco', 'ondaka'), 2
+('ye', 'nda'), 2
+('yoku', 'nolã'), 2
+('wa', 'sesamela'), 2
+('yahe', 'ondaka'), 2
+('ca', 'sesamela'), 2
+('va', 'kuete'), 2
+('pokati', 'komanu'), 2
+('kilu', 'lieve'), 2
+('lomue', 'okuete'), 2
+('ya', 'lomue'), 2
+('wê', 'nda'), 2
+('ovisimilo', 'viahe'), 2
+('tiamela', 'kofeka'), 2
+('kofeka', 'acitiwa'), 2
+('vosi', 'kilu'), 2
+('vosi', 'va'), 2
+('yoku', 'fetiwa'), 2
+('pokati', 'kolofeka'), 2
+('vakuete', 'omoko'), 2
+('nda', 'pokati'), 2
+('kuenda', 'yoku'), 2
+('nda', 'posamua'), 2
+('kuenda', 'omunu'), 2
+('liocili', 'kuenda'), 2
+('wa', 'lueya'), 2
+('segurança', 'social'), 2
+('olofeka', 'viosi'), 2
+('kuenda', 'olombonge'), 2
+('wahe', 'nda'), 2
+('oco', 'okuti'), 2
+('okuti', 'esumbilo'), 2
+('ofeka', 'yahe'), 2
+('ayongola', 'kuenda'), 2
+('elilongiso', 'lio'), 2
+('oku', 'kolisa'), 2
+('epata', 'liahe'), 2
+('osi', 'kuenda'), 2
+('kuata', 'omuenyo'), 2
+('ndeci', 'ca'), 2
+('yoku', 'tata'), 2
+('kuenda', 'citava'), 2
+('okulisumbila', 'pokati'), 2
+('kuata', 'epata'), 2
+('komanu', 'vosi'), 2
+('ovihandeleko', 'vioku'), 2
+('kala', 'olonepele'), 2
+('unu', 'womanu'), 2
+('ocisoko', 'comanu'), 2
+('omunu', 'wa'), 2
+('okuti', 'omanu'), 2
+('nda', 'ukuetavo'), 2
+('yoku', 'tiamela'), 2
+('liahe', 'nda'), 2
+('ocihandeleko', 'caco'), 2
+('ye', 'lomue'), 2
+('womanu', 'voluali'), 1
+('akualã', 'lecelãlã'), 1
+('tiamela', 'ko'), 1
+('ovisonehua', 'nda'), 1
+('caco', 'cikuame'), 1
+('loku', 'umuisa'), 1
+('akulila', 'haimo'), 1
+('nda', 'vofeka'), 1
+('vakualofeka', 'vio'), 1
+('vakuayiwi', 'lolombaiali'), 1
+('citava', 'okuti'), 1
+('eye', 'muele'), 1
+('osombisiwa', 'kombonge'), 1
+('wofeka', 'yahe'), 1
+('lomunu', 'okuti'), 1
+('kunene', 'nda'), 1
+('voposamua', 'vosi'), 1
+('lia', 'lingiwa'), 1
+('yuku', 'yulula'), 1
+('lesunga', 'lolonganji'), 1
+('yi', 'vokiyeko'), 1
+('ocihandeleko', 'casonehiwa'), 1
+('yikuavo', 'ondaka'), 1
+('ocihandeleko', 'ca'), 1
+('okuti', 'ha'), 1
+('cavelapo', 'kuenje'), 1
+('yu', 'otekava'), 1
+('va', 'sisa'), 1
+('lio', 'losikola'), 1
+('oko', 'kutunda'), 1
+('lomue', 'okala'), 1
+('u', 'usakalasa'), 1
+('lia', 'kapiwa'), 1
+('hongele', 'pamue'), 1
+('nda', 'violo'), 1
+('liocili', 'olofeka'), 1
+('yolofeka', 'va'), 1
+('ekolelõ', 'liomanu'), 1
+('uvî', 'kuenje'), 1
+('yahe', 'kapaka'), 1
+('asongui', 'locela'), 1
+('kuenda', 'ombonge'), 1
+('nda', 'ohongele'), 1
+('yofeka', 'a'), 1
+('tundisiwa', 'vofeka'), 1
+('ocimbanda', 'pamue'), 1
+('sonehiwa', 'vuvangi'), 1
+('loku', 'vitelisa'), 1
+('olingile', 'ca'), 1
+('pamue', 'cimue'), 1
+('u', 'usanjuisa'), 1
+('kuenje', 'momo'), 1
+('yoku', 'kala'), 1
+('ha', 'katepise'), 1
+('kunda', 'okuti'), 1
+('lisanja', 'vofeka'), 1
+('kaka', 'yonjiwe'), 1
+('lueya', 'pole'), 1
+('lokuvi', 'vangula'), 1
+('oyela', 'nda'), 1
+('ka', 'kuete'), 1
+('kolofeka', 'vioposamua'), 1
+('wo', 'hongele'), 1
+('eyovo', 'esunga'), 1
+('ava', 'vakuayiwi'), 1
+('vovingungu', 'viosi'), 1
+('soneha', 'onepa'), 1
+('okueca', 'ondaka'), 1
+('lio', 'oneke'), 1
+('wofeka', 'kuenje'), 1
+('kusoma', 'laumue'), 1
+('ekambo', 'liu'), 1
+('ya', 'lacimue'), 1
+('oco', 'va'), 1
+('lomue', 'olinga'), 1
+('visesamela', 'ekuatiso'), 1
+('a', 'tiamela'), 1
+('yoku', 'sokisa'), 1
+('kisikiwe', 'oku'), 1
+('kuenje', 'va'), 1
+('tumbikiwa', 'lonjango'), 1
+('nda', 'lika'), 1
+('koku', 'kapa'), 1
+('civa', 'kuatisa'), 1
+('kavi', 'tiamela'), 1
+('tupalata', 'nda'), 1
+('yataviwa', 'kuenda'), 1
+('nda', 'olomapalo'), 1
+('likongela', 'lava'), 1
+('vosi', 'valisukila'), 1
+('cipengisiwa', 'lofeka'), 1
+('voluali', 'ekambo'), 1
+('kutunda', 'eyovo'), 1
+('ombonge', 'yavo'), 1
+('valitava', 'okuti'), 1
+('eli', 'likisikiwe'), 1
+('kuata', 'upange'), 1
+('ukuavo', 'uvi'), 1
+('vitelisa', 'oko'), 1
+('apa', 'posi'), 1
+('upika', 'wa'), 1
+('okuti', 'ulume'), 1
+('liahe', 'va'), 1
+('asovola', 'ondaka'), 1
+('kuete', 'omoko'), 1
+('vofeka', 'omo'), 1
+('vangula', 'kuenda'), 1
+('hongele', 'yofeka'), 1
+('lika', 'oku'), 1
+('a', 'iii'), 1
+('kala', 'ketavo'), 1
+('vukanda', 'owu'), 1
+('kuatisa', 'omalã'), 1
+('kuenda', 'lia'), 1
+('oco', 'vo'), 1
+('olonepele', 'onjongole'), 1
+('kisika', 'okuti'), 1
+('nda', 'okuela'), 1
+('vo', 'huminyo'), 1
+('ukayî', 'kuenda'), 1
+('posamua', 'nda'), 1
+('songola', 'ovopange'), 1
+('oku', 'tatiwa'), 1
+('via', 'sesamela'), 1
+('va', 'tiamela'), 1
+('yoku', 'lisanja'), 1
+('wa', 'ohulukayî'), 1
+('ocisila', 'coluali'), 1
+('omalã', 'vondombua'), 1
+('esumbilo', 'voluali'), 1
+('nolã', 'elongiso'), 1
+('vosi', 'te'), 1
+('vahã', 'cimosi'), 1
+('viosi', 'oco'), 1
+('tiamela', 'kuenda'), 1
+('vavo', 'oku'), 1
+('oku', 'tunga'), 1
+('tava', 'ovihandeleko'), 1
+('ovio', 'tete'), 1
+('tunda', 'eyovo'), 1
+('kuhayele', 'kokulia'), 1
+('okuayiwi', 'lolombiali'), 1
+('ndu', 'watalavaya'), 1
+('vofeka', 'pamue'), 1
+('omanu', 'ko'), 1
+('unene', 'womunu'), 1
+('pamue', 'posamua'), 1
+('eko', 'limue'), 1
+('nda', 'ohuasi'), 1
+('womanu', 'oko'), 1
+('kuvakuavo', 'etavo'), 1
+('fetuluinya', 'ukuavo'), 1
+('kuatisa', 'omau'), 1
+('ya', 'tumbikiwa'), 1
+('luosi', 'oko'), 1
+('evi', 'loku'), 1
+('kovilinga', 'oco'), 1
+('ukuafeka', 'ye'), 1
+('womanu', 'te'), 1
+('viosi', 'vioku'), 1
+('pomangu', 'yupange'), 1
+('talavaya', 'upange'), 1
+('violohongele', 'viomanu'), 1
+('ndaño', 'haliosiko'), 1
+('okuamisa', 'kovaso'), 1
+('omanu', 'vakuete'), 1
+('ulandu', 'unu'), 1
+('pomangu', 'yimosi'), 1
+('locihandeleko', 'ciñi'), 1
+('omuenyo', 'luhiti'), 1
+('viosi', 'vi'), 1
+('nda', 'omalã'), 1
+('ombonge', 'yi'), 1
+('mekonda', 'lieko'), 1
+('kala', 'uvangi'), 1
+('eci', 'okuti'), 1
+('unu', 'wahe'), 1
+('sesamela', 'omunu'), 1
+('yu', 'epata'), 1
+('umesele', 'kuenda'), 1
+('pamue', 'omoko'), 1
+('ciñi', 'te'), 1
+('omoko', 'lutoyi'), 1
+('kosayî', 'ya'), 1
+('wosi', 'osesamela'), 1
+('kuenda', 'esanju'), 1
+('lomue', 'ha'), 1
+('pokati', 'oco'), 1
+('uvi', 'olingile'), 1
+('woku', 'tava'), 1
+('womanu', 'yu'), 1
+('okutambula', 'kapako'), 1
+('okangisiwa', 'ndeci'), 1
+('pongolokela', 'kofeka'), 1
+('kulinga', 'uvî'), 1
+('osesamela', 'oku'), 1
+('yukuatisa', 'lomue'), 1
+('eci', 'alinga'), 1
+('yi', 'tava'), 1
+('ulingiwe', 'pokati'), 1
+
+Самые частотные триграммы:
+('okuete', 'omoko', 'yoku'), 19
+('ondaka', 'ya', 'omunu'), 11
+('omunu', 'eye', 'omunu'), 10
+('ondaka', 'ye', 'omunu'), 9
+('omunu', 'wosi', 'okuete'), 9
+('ya', 'omunu', 'wosi'), 8
+('wosi', 'okuete', 'omoko'), 8
+('eye', 'omunu', 'okuete'), 7
+('omunu', 'okuete', 'omoko'), 7
+('omoko', 'yoku', 'kuata'), 6
+('tata', 'omuenyo', 'womanu'), 5
+('ye', 'omunu', 'eye'), 5
+('vioku', 'tata', 'omuenyo'), 4
+('yolofeka', 'nações', 'unidas'), 3
+('omoko', 'yoku', 'pinga'), 3
+('nda', 'ulume', 'nda'), 3
+('ye', 'omunu', 'wosi'), 3
+('hongele', 'yolofeka', 'nações'), 3
+('ya', 'omunu', 'eye'), 3
+('ulume', 'nda', 'ukayî'), 3
+('yoku', 'tiamela', 'kofeka'), 2
+('liaco', 'ondaka', 'ye'), 2
+('omanu', 'vosi', 'kilu'), 2
+('ondaka', 'ya', 'lomue'), 2
+('ondaka', 'ye', 'lomue'), 2
+('omoko', 'yoku', 'tiamela'), 2
+('yahe', 'ondaka', 'ye'), 2
+('tiamela', 'kofeka', 'acitiwa'), 2
+('ko', 'hongele', 'yolofeka'), 2
+('eko', 'liaco', 'ondaka'), 2
+('oco', 'eyovo', 'liocili'), 2
+('vofeka', 'yahe', 'ondaka'), 2
+('omoko', 'yoku', 'fetiwa'), 2
+('wa', 'sesamela', 'oku'), 2
+('ovihandeleko', 'vioku', 'tata'), 2
+('eyovo', 'liocili', 'kuenda'), 2
+('lomue', 'okuete', 'omoko'), 2
+('vosi', 'kilu', 'lieve'), 2
+('yoku', 'kuata', 'omuenyo'), 2
+('sesamela', 'oku', 'kuatisa'), 2
+('halolonepeleko', 'elilongiso', 'lia'), 1
+('okuti', 'halolonepeleko', 'elilongiso'), 1
+('talisua', 'ohali', 'okutata'), 1
+('kukulihiso', 'wosi', 'unena'), 1
+('cu', 'ukuatisa', 'okutata'), 1
+('yupange', 'wofeka', 'yahe'), 1
+('lika', 'oku', 'kolisa'), 1
+('kuenda', 'oku', 'kolisa'), 1
+('lomue', 'ha', 'katepise'), 1
+('lio', 'losikola', 'vinene'), 1
+('univesidade', 'liyu', 'luiwe'), 1
+('epandi', 'kuenda', 'ocisola'), 1
+('oco', 'okuti', 'omanu'), 1
+('wosi', 'va', 'tukuila'), 1
+('yuku', 'yulula', 'ukanda'), 1
+('kuenje', 'vosi', 'te'), 1
+('viu', 'vangi', 'womanu'), 1
+('lesunga', 'kuenda', 'ocilli'), 1
+('unidas', 'lia', 'kapiwa'), 1
+('kuwalo', 'kocitumalo', 'koku'), 1
+('okuti', 'vosi', 'vasoka'), 1
+('ombonge', 'yaco', 'ekuatiso'), 1
+('wosi', 'unena', 'okuamisako'), 1
+('yoku', 'nyeha', 'cimue'), 1
+('ka', 'kuete', 'upange'), 1
+('okueca', 'ondaka', 'ya'), 1
+('viomanu', 'ohondo', 'yolopapelo'), 1
+('ca', 'sesamela', 'okuti'), 1
+('okuti', 'lomue', 'kaka'), 1
+('vaci', 'pitulula', 'vali'), 1
+('va', 'sisa', 'ciwa'), 1
+('olombonge', 'viosi', 'violohongele'), 1
+('womanu', 'voluali', 'luosi'), 1
+('pomangu', 'yupange', 'wofeka'), 1
+('cikuame', 'ocihandeleko', 'coluali'), 1
+('okueca', 'elomboloko', 'komanu'), 1
+('kolofeka', 'vioposamua', 'vatiamela'), 1
+('lolombiali', 'viofeka', 'ondaka'), 1
+('nda', 'vakualofeka', 'vio'), 1
+('ño', 'nda', 'ohongele'), 1
+('oku', 'kuatisa', 'omau'), 1
+('vosi', 'va', 'tiamela'), 1
+('kayitiamela', 'ko', 'hongele'), 1
+('yu', 'epata', 'lia'), 1
+('ekolelõ', 'liomanu', 'vosi'), 1
+('acitiwa', 'lomue', 'omunu'), 1
+('komanu', 'liokuti', 'epandi'), 1
+('kesokiyo', 'lio', 'a'), 1
+('yoku', 'vetatela', 'olonjongole'), 1
+('nda', 'pulika', 'ondaka'), 1
+('lia', 'kapiwa', 'kovihandeleko'), 1
+('kuete', 'upange', 'pamue'), 1
+('omoko', 'yokusovola', 'ombonge'), 1
+('cikuavo', 'nda', 'citumiwa'), 1
+('evi', 'vioku', 'tata'), 1
+('vangula', 'kuenda', 'lomue'), 1
+('nda', 'posamua', 'oco'), 1
+('yoluali', 'yoku', 'tata'), 1
+('lapata', 'osi', 'kuenda'), 1
+('tundisiwa', 'vofeka', 'yahe'), 1
+('yaco', 'yu', 'wiha'), 1
+('vovitima', 'viavo', 'kuenje'), 1
+('ndaño', 'ofeka', 'yahe'), 1
+('vipinduko', 'lilue', 'elilongiso'), 1
+('okuete', 'omoko', 'yuku'), 1
+('kumosi', 'lavakuavo', 'yoku'), 1
+('womanu', 'loku', 'sumbila'), 1
+('omunu', 'wosi', 'osesamela'), 1
+('okuti', 'kapa', 'kala'), 1
+('alinga', 'eko', 'liaco'), 1
+('omuenyo', 'womanu', 'kuenda'), 1
+('nda', 'koku', 'vela'), 1
+('unidas', 'oku', 'kapa'), 1
+('voposamua', 'vosi', 'vakuete'), 1
+('eyi', 'ondaka', 'ye'), 1
+('osi', 'olofeka', 'viosi'), 1
+('cavelapo', 'kuenda', 'ocisila'), 1
+('eci', 'ondaka', 'ye'), 1
+('vikola', 'vioku', 'tata'), 1
+('lemeliwa', 'ondaka', 'ya'), 1
+('muna', 'eye', 'akulila'), 1
+('ko', 'hongele', 'pamue'), 1
+('likisikiwe', 'komanu', 'vosi'), 1
+('lombonge', 'yitukuiwa', 'segurança'), 1
+('kofeka', 'acitiwa', 'pamue'), 1
+('oku', 'tukola', 'loku'), 1
+('kuavo', 'kuenda', 'oku'), 1
+('omuenyo', 'wahe', 'yoku'), 1
+('uvi', 'olingile', 'ca'), 1
+('eko', 'liaco', 'toke'), 1
+('ohondo', 'yolopapelo', 'viu'), 1
+('kovaso', 'loku', 'kuata'), 1
+('kuata', 'cahe', 'muele'), 1
+('via', 'sonehiwa', 'vuvangi'), 1
+('komanu', 'vosi', 'elilongiso'), 1
+('atete', 'ocali', 'ana'), 1
+('pokati', 'ndavamanji', 'ondaka'), 1
+('vo', 'okuatise', 'okusalamamo'), 1
+('olio', 'ocihandeleko', 'cavelapo'), 1
+('yoku', 'pongolokela', 'kofeka'), 1
+('lepata', 'liahe', 'va'), 1
+('vikuavo', 'oco', 'vo'), 1
+('liaco', 'halia', 'kolele'), 1
+('wavosi', 'omunu', 'wosi'), 1
+('mulo', 'vili', 'vilingiwe'), 1
+('omoko', 'yoku', 'tunda'), 1
+('kuenda', 'oku', 'talama'), 1
+('womanu', 'oko', 'ku'), 1
+('kuhayele', 'kokulia', 'kuwalo'), 1
+('oluali', 'lua', 'sesamela'), 1
+('elomboloko', 'komanu', 'liokuti'), 1
+('okutata', 'epata', 'liahe'), 1
+('kuenda', 'citava', 'oku'), 1
+('segurança', 'social', 'ondaka'), 1
+('ndeci', 'ca', 'sonehiwa'), 1
+('ovikele', 'lovocisoko', 'a'), 1
+('omoko', 'yoku', 'pongolokela'), 1
+('upange', 'wavosi', 'omunu'), 1
+('pamue', 'oku', 'yikiwa'), 1
+('voluali', 'olonjali', 'ovio'), 1
+('sesamela', 'omunu', 'lomunu'), 1
+('wosi', 'wo', 'hongele'), 1
+('unena', 'okuamisako', 'ofeka'), 1
+('pamue', 'nda', 'koku'), 1
+('womanu', 'te', 'viamoleha'), 1
+('pamue', 'posamua', 'vovingungu'), 1
+('konjo', 'yahe', 'lomue'), 1
+('tava', 'lika', 'komanu'), 1
+('wa', 'lemeliwa', 'ondaka'), 1
+('muele', 'pamue', 'cavomuele'), 1
+('yoku', 'kuata', 'onganji'), 1
+('nda', 'wê', 'nda'), 1
+('kayongola', 'kuenda', 'ka'), 1
+('lomue', 'okangisua', 'pamue'), 1
+('hongele', 'yolofeka', 'va'), 1
+('oku', 'ukapa', 'eko'), 1
+('olonganji', 'ocihandeleko', 'eci'), 1
+('walinga', 'ocilema', 'nda'), 1
+('kelongiso', 'liovituwa', 'vio'), 1
+('nda', 'walinga', 'ocilema'), 1
+('atelisa', 'anyamo', 'oku'), 1
+('te', 'vatatiwa', 'lovihandeleko'), 1
+('citiwa', 'lonjila', 'yimosi'), 1
+('atiamela', 'muna', 'eye'), 1
+('cukuavo', 'ondaka', 'ye'), 1
+('kuata', 'eyovo', 'liocili'), 1
+('ohongele', 'yaco', 'yombembua'), 1
+('omanu', 'vosi', 'kuenda'), 1
+('lomue', 'okapa', 'ukuavo'), 1
+('wahe', 'nda', 'ukulihiso'), 1
+('oku', 'nolã', 'elongiso'), 1
+('otakekiwa', 'locihandeleko', 'ciñi'), 1
+('yokuvetatela', 'umesele', 'wahe'), 1
+('lieve', 'va', 'citiwa'), 1
+('sesamela', 'oku', 'tatiwa'), 1
+('viosi', 'lapata', 'osi'), 1
+('ukayî', 'nda', 'ukuelimi'), 1
+('okutata', 'omuenyo', 'womanu'), 1
+('songola', 'ovopange', 'osi'), 1
+('kuenda', 'ya', 'tumbikiwa'), 1
+('kocitangi', 'cekambo', 'liupange'), 1
+('kuata', 'ekuatiso', 'kuhayele'), 1
+('soneha', 'onepa', 'yaco'), 1
+('ayongola', 'pamue', 'kayongola'), 1
+('ya', 'tumbikiwa', 'lonjango'), 1
+('ocindele', 'nda', 'otekava'), 1
+('eyovo', 'liocili', 'olofeka'), 1
+('suapo', 'liomanu', 'onjango'), 1
+('omunu', 'atelisa', 'anyamo'), 1
+('yoku', 'fetiwa', 'lesunga'), 1
+('kapa', 'omanu', 'vosi'), 1
+('omoko', 'yokuvetatela', 'umesele'), 1
+('evi', 'loku', 'vitelisa'), 1
+('cokuti', 'omunu', 'lomunu'), 1
+('cimue', 'cikuavo', 'kovaso'), 1
+('lopo', 'okuete', 'omoko'), 1
+('vosi', 'vakuete', 'omoko'), 1
+('vioposamua', 'vatiamela', 'vo'), 1
+('yoku', 'tata', 'ovimuenyo'), 1
+('vofeka', 'omo', 'akasi'), 1
+('ohongele', 'cinene', 'ño'), 1
+('nda', 'ukayî', 'nda'), 1
+('omunu', 'lomunu', 'okuete'), 1
+('vitelisa', 'oko', 'kutunda'), 1
+('ovisonehua', 'nda', 'olomapalo'), 1
+('woku', 'talisua', 'ohali'), 1
+('lilue', 'elilongiso', 'lio'), 1
+('kueca', 'ovisimilo', 'viahe'), 1
+('yaco', 'yombembua', 'lomue'), 1
+('wa', 'siala', 'umbumba'), 1
+('eyi', 'nda', 'ocindele'), 1
+('ayongola', 'kuenda', 'omoko'), 1
+('oku', 'tundisiwa', 'vofeka'), 1
+('anyamo', 'oku', 'kuata'), 1
+('kuenda', 'loku', 'vahã'), 1
+('unu', 'womanu', 'loku'), 1
+('vosi', 'nda', 'omalã'), 1
+('olivova', 'ondaka', 'ye'), 1
+('unu', 'umosi', 'kuenje'), 1
+('omuenyo', 'luhiti', 'eye'), 1
+('vakualofeka', 'vio', 'posamua'), 1
+('evi', 'vikuatisa', 'okuamisa'), 1
+('oko', 'kutunda', 'eyovo'), 1
+('vu', 'vangi', 'mulo'), 1
+('u', 'oyela', 'nda'), 1
+('akasi', 'ndaño', 'ofeka'), 1
+('upange', 'umosi', 'wosi'), 1
+('nda', 'hukuetavoko', 'nda'), 1
+('oku', 'talama', 'elivala'), 1
+('ye', 'omunu', 'wa'), 1
+('ulume', 'lukayî', 'epata'), 1
+('akasi', 'wa', 'sesamela'), 1
+('eci', 'omunu', 'atelisa'), 1
+('kolohongele', 'viomanu', 'yu'), 1
+('elilongiso', 'elilongiso', 'te'), 1
+('omunu', 'oco', 'anyole'), 1
+('yahe', 'nda', 'posamua'), 1
+('evi', 'vikasimo', 'ha'), 1
+('nda', 'vofeka', 'yahe'), 1
+('elilongiso', 'lia', 'sesamela'), 1
+('yoku', 'yo', 'kueca'), 1
+('ocisola', 'lolofeka', 'viosi'), 1
+('ongusu', 'yo', 'hongele'), 1
+('ocihandeleko', 'coluali', 'okuti'), 1
+('vahã', 'cimosi', 'civa'), 1
+('feka', 'pocitumalo', 'akasi'), 1
+('kunda', 'okuti', 'esumbilo'), 1
+('ovihandeleko', 'vitata', 'omuenyo'), 1
+('tambula', 'ekuatiso', 'kombonge'), 1
+('evi', 'okuete', 'omoko'), 1
+('omuenyo', 'womanu', 'ku'), 1
+('loku', 'vitelisa', 'oko'), 1
+('omuenyo', 'womanu', 'yu'), 1
+('oco', 'okuti', 'lomue'), 1
+('ku', 'tunda', 'eyovo'), 1
+('ndeci', 'ca', 'sesamela'), 1
+('kilu', 'lieve', 'olio'), 1
+('vatiamela', 'vo', 'hongele'), 1
+('kala', 'olonepele', 'onjongole'), 1
+('vita', 'vivali', 'kekui'), 1
+('omuenyo', 'wapata', 'omanu'), 1
+('kuenje', 'casesamela', 'okunola'), 1
+('yokuiñila', 'pomangu', 'yupange'), 1
+('liocili', 'kuenda', 'esanju'), 1
+('dezembro', 'kulima', 'wa'), 1
+('oco', 'va', 'suisepo'), 1
+('locela', 'cilingiwa', 'lesunga'), 1
+('yahe', 'ndu', 'watalavaya'), 1
+('omoko', 'yoku', 'songola'), 1
+('oko', 'ku', 'tunda'), 1
+('talavaya', 'upange', 'umosi'), 1
+('vofeka', 'yahe', 'nda'), 1
+('yaco', 'yelilongiso', 'eli'), 1
+('wa', 'ohulukayî', 'kovita'), 1
+('okuete', 'omoko', 'kuatisa'), 1
+('wofeka', 'nda', 'lusoma'), 1
+('lolonganji', 'okuti', 'kapa'), 1
+('ca', 'sesamela', 'omunu'), 1
+('cosi', 'ayongola', 'pamue'), 1
+('pole', 'alima', 'atete'), 1
